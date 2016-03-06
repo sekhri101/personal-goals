@@ -1,11 +1,10 @@
 # Life Ideas
 
-- [ ] Drink more tea
-- [ ] Eat fewer carbs
-- [ ] Drink fewer carbs
-- [x] Consume less sugar
-- [ ] Start running (again)
-- [ ] Fix bike and start riding
-- [x] Walk to work more
-- [ ] Daily writing / email catch up at coffesshop
+- [ ] Daily yoga practice 
+- [ ] Daily meditation practice 
+- [ ] Daily water intake :droplet:
+- [ ] Decrease the amount of sugar in my coffee :coffee:
+- [ ] Start weightlifting again 
+- [ ] Weekly date night :wine_glass: 
 - [ ] Set new weight goals
+- [ ] Automated savings 
