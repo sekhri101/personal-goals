@@ -1,5 +1,5 @@
 # Blog Ideas
 
-- 2015 Year in Review
-- Backups: An Overly Paranoid Approach
-- C25k + Health: What worked for me
+- Recruiting diverse speakers and talks for conferences 
+- Remote work and depression 
+- Frugality for Django Girls 
