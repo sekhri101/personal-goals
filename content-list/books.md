@@ -13,6 +13,6 @@ See [my Goodreads profile](https://www.goodreads.com/user/show/3754255-lacey) fo
 - [ ] Come As You Are -- Emily Nagoski
 - [ ] Two Scoops of Django -- Audrey and Daniel Roy Greenfeld 
 
-## Recommended That I Read
+## Recommendations
 
-Recommendations welcome here :)
+Your suggestions go here! 
