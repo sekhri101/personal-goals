@@ -54,8 +54,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] [Life Ideas](ideas/life-ideas.md)
 
 ### Events 
+- [x] January 30, 2016: [PyLadies presentation](https://www.youtube.com/watch?v=OAQAXVU1jIo)
+- [x] February 5-6, 2016: [Django Girls workshop](https://djangogirls.org/portland/)
 - [ ] March 17-21, 2016: Ski trip; Niki visiting.
 - [ ] March 26-April 3, 2016: [DjangoCon Europe](https://djangocon.eu/) presentation in Budapest. Side trip to Vienna. 
+- [ ] April 20, 2016: [Refresh PDX presentation](http://rfrshpdx.org/jane-austen-on-python-tips-from-an-english-major-on-writing-better-code/)
 - [ ] May 21, 2016: Youngest sister's college graduation. Possible side trip to Austin. 
 - [ ] May 27-June 1, 2016: [Django Girls workshop](https://djangogirls.org/pycon/) at PyCon; booth at PyCon
 - [ ] July 17-22, 2016: [DjangoCon US](https://2016.djangocon.us/) 
