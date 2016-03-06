@@ -37,6 +37,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Learning: DuoLingo 
 - [ ] Book hotel in Vienna :hotel:
 - [ ] Work on weekly personal-goals project
+- [ ] Fitness: Go to the weight room 
+- [ ] Fitness: Yoga 2x 
+- [ ] Fitness: Log all meals in MFP
 
 ### Things I'll Do In The Future
 
