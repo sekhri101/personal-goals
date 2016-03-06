@@ -53,6 +53,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] [Blog Post Ideas](ideas/blog-ideas.md)
 - [ ] [Life Ideas](ideas/life-ideas.md)
 
+### Events 
+- [ ] March 17-21, 2016: Ski trip; Niki visiting.
+- [ ] March 26-April 3, 2016: [DjangoCon Europe](https://djangocon.eu/) presentation in Budapest. Side trip to Vienna. 
+- [ ] May 21, 2016: Youngest sister's college graduation. Possible side trip to Austin. 
+- [ ] May 27-June 1, 2016: [Django Girls workshop](https://djangogirls.org/pycon/) at PyCon; booth at PyCon
+- [ ] July 17-22, 2016: [DjangoCon US](https://2016.djangocon.us/) 
+- [ ] September 2016: Snorkeling trip to Cozumel 
+
 ## Inspiration
 
 Inspired by [Una's](https://github.com/una) [personal-goals project](https://github.com/una/personal-goals).
