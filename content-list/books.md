@@ -1,5 +1,7 @@
 # Books I've Read & Want to Read
 
+See [my Goodreads profile](https://www.goodreads.com/user/show/3754255-lacey) for more books I've read and am reading. 
+
 ## To Read 
 
 - [ ] The Checklist Manifesto -- Atul Gawande 

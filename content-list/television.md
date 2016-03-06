@@ -1,93 +1,58 @@
 Television
 ==========
 
-I tend to background watch TV/DVR/Netflix at night, so I tend to go through TV shows pretty quickly. 
+# Binge-in-Progress
+- The Amazing Race 
+- Masters of Sex 
 
-# 2015
+# Looking forward to new seasons/episodes of... 
+- Game of Thrones 
+- Outlander 
+- Longmire 
+- Jessica Jones 
+- The Great British Bake-Off 
+- MasterChef 
+- Grey's Anatomy
+- The Good Wife 
+- The Fosters 
+- Switched at Birth 
 
-- Fargo
+# To-Be-Binged 
+- Fuller House 
+- ER 
+- Grace and Frankie 
+- The Wire 
+- Boardwalk Empire 
+- Bosch 
 
+# Cancelled but :heart: 
+- Buffy the Vampire Slayer 
+- Firefly 
+- Gilmore Girls 
+- The Newsroom 
+- The West Wing 
+- The Sopranos 
+- Nurse Jackie 
 
+# Got over, might get back into 
+- How to Get Away with Murder (Season 2 wasn't holding my interest) 
+- Scandal 
+- The Americans 
+- Homeland 
+- House of Cards 
+- Mad Men 
+- The Walking Dead 
+- New Girl (There is such a thing as *too* quirky) 
+- Daredevil (I think I just wasn't in the right mood?) 
+- Veep 
+- Downton Abbey
+- Prison Break (Season 4 could not hold my interest) 
+- True Blood 
+- Six Feet Under 
 
-# 2014
-
-## Best:
-
-- Fargo
-- True Detective
-- Transparent
-- Lillyhammer
-- Top of the Lake
-- Black Mirror
-- Justified
-
-## Some of my favorites
-
-- Arrow
-- Bob's Burgers
-- Gotham
-- Hannibal
-- Longmire
-- The Flash
-
-## I liked a lot
-
-- Broadchurch
-- Happy Valley
-- Hinterland
-- The Killing
-- Wentworth
-- Vikings
-
-## Better than regular News
-
-- Last Week Tonight with John Oliver
-
-## Sophomore Slump
-
-- Orange is the New Black
-
-## Still groking
-
-- Marco Polo
-- Masters of Sex
-- Outlander
-- Peaky Blinders
-- Penny Dreadful
-- Reign
-- Ripper Street
-- Salem
-- Silicon Valley
-- The Affair
-- The Leftovers
-- The Strain
-
-## Over it but still watching
-
-- Game of Thrones
-- Hell on Wheels
-- House of Cards
-- Walking Dead
-
-## Trashy
-
-- American Horror Story
-- Halt and Catch Fire
-
-## Only if I'm Bored
-
-- The 100
-- The Americans
-- The Fall
-
-## Put a fork in it
-
-- Arrested Development
-- Mad Men
-
-## Tried but couldn't get into
-
-- Boss
-- Derek
-- Low Winter Sun
-- Turn
+# Recommended but failed
+- iZombie 
+- Transparent 
+- The Man in the High Castle 
+- Heart of Dixie 
+- Bunheads 
