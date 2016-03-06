@@ -63,6 +63,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] May 27-June 1, 2016: [Django Girls workshop](https://djangogirls.org/pycon/) at PyCon; booth at PyCon
 - [ ] July 17-22, 2016: [DjangoCon US](https://2016.djangocon.us/) 
 - [ ] September 2016: Snorkeling trip to Cozumel 
+- [ ] November 4-6, 2016: Wedding in New Orleans
 
 ## Inspiration
 
