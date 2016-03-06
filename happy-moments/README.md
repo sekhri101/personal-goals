@@ -1,11 +1,6 @@
 # Happy Moments
 
-01/15/2016
+03/06/2016
 ---
-Revisited [Care Beautiful](http://www.cafebeautifullawrence.com/) to celebrate Paul and Jahna's 4-year anniversary. Great food and company for an amazing experience.
+Had a nice long conversation with my friend Brit. Might try to spend a week with her in Austin in May. 
 
-
-01/29/2016
----
-Happy to see 
-https://github.com/KatherineMichel/personal-goals
