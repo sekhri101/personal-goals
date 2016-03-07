@@ -39,13 +39,17 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Fitness: Go to the weight room 
 - [ ] Fitness: Yoga 2x 
 - [ ] Fitness: Log all meals in MFP
+- [ ] Finance: Finalize student loan repayment option
 
 ### Things I'll Do In The Future
 
 - [ ] Finance: Balance accounts :moneybag: 
-- [ ] Finance: Finalize student loan repayment option
 - [ ] House: Organize guest room closet
 - [ ] Learn Spanish 
+- [ ] Make a commit to the Django source code 
+- [ ] Give a technical talk 
+- [ ] Learn more about user experience, conducting user research, writing personas, etc. 
+- [ ] Build my own website
 
 ### Backlog: Side Projects & Other Ideas
 
@@ -62,7 +66,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] May 21, 2016: Youngest sister's college graduation. Possible side trip to Austin. 
 - [ ] May 27-June 1, 2016: [Django Girls workshop](https://djangogirls.org/pycon/) at PyCon; booth at PyCon
 - [ ] July 17-22, 2016: [DjangoCon US](https://2016.djangocon.us/) 
-- [ ] September 2016: Snorkeling trip to Cozumel 
+- [ ] September 17-24, 2016: Snorkeling trip to Cozumel 
 - [ ] November 4-6, 2016: Wedding in New Orleans
 
 ## Inspiration
