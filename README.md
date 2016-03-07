@@ -22,7 +22,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do This Week
 
-- [ ] Cooking: Roast chicken thighs :chicken:
+- [x] Cooking: Roast chicken thighs :chicken:
 - [ ] Cooking: Linguine and shrimp fra diavola :spaghetti: 
 - [ ] Cooking: Chicken and sage biscuit pot pie 
 - [ ] Cooking: Chicken teriyaki rice bowls :rice:
@@ -31,7 +31,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] DCUS: Sponsorship (Meeting)
 - [ ] DGPDX: Organizers (Meeting) 
 - [ ] DGPDX: Booth planning 
-- [ ] UT: Finish Functional Specs 
+- [x] UT: Finish Functional Specs 
 - [ ] UT: Refactor Page 1 
 - [ ] Treehouse: Plan project
 - [ ] DCEU: Book hotel in Vienna :hotel:
