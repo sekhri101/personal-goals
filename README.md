@@ -68,6 +68,12 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] July 17-22, 2016: [DjangoCon US](https://2016.djangocon.us/) 
 - [ ] September 17-24, 2016: Snorkeling trip to Cozumel 
 - [ ] November 4-6, 2016: Wedding in New Orleans
+- [ ] TBD: Trip to Alabama to see an Auburn game 
+- [ ] TBD: Trip to Texas to visit family 
+- [ ] TBD: Trip to Oklahoma to visit Dad 
+- [ ] TBD: Trip to New Mexico to visit Dad (may need to wait for 2017) 
+- [ ] TBD: Mom visiting me 
+- [ ] TBD: Little sister and brother-in-law visiting me 
 
 ## Inspiration
 
