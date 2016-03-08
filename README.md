@@ -24,13 +24,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - [x] Cooking: Roast chicken thighs :chicken:
 - [ ] Cooking: Linguine and shrimp fra diavola :spaghetti: 
-- [ ] Cooking: Chicken and sage biscuit pot pie 
+- [x] Cooking: Chicken and sage biscuit pot pie 
 - [ ] Cooking: Chicken teriyaki rice bowls :rice:
 - [ ] Cooking: Breakfast pizza :pizza: :egg:
 - [ ] DCUS: Organizers (Meeting)
 - [ ] DCUS: Sponsorship (Meeting)
-- [ ] DGPDX: Organizers (Meeting) 
-- [ ] DGPDX: Booth planning 
+- [x] DGPDX: Organizers (Meeting) 
+- [x] DGPDX: Booth planning 
 - [x] UT: Finish Functional Specs 
 - [ ] UT: Refactor Page 1 
 - [ ] Treehouse: Plan project
@@ -50,6 +50,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Give a technical talk 
 - [ ] Learn more about user experience, conducting user research, writing personas, etc. 
 - [ ] Build my own website
+- [ ] Get checkups/vaccinations for the cats 
+- [ ] Make a dentist appointment 
 
 ### Backlog: Side Projects & Other Ideas
 
