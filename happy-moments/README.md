@@ -1,5 +1,9 @@
 # Happy Moments
 
+03/09/16
+--- 
+Woke up with a headache, so I did good self-care. I took some Aleve, had a cup of coffee, took a shower, and did 20 minutes of yoga. The headache isn't gone, but it's better. 
+
 03/08/16
 --- 
 Woke up two two nice tweets about myself! [This one](https://twitter.com/glasnt/status/707123571378683904) from [Katie McLaughlin](https://twitter.com/glasnt), and [this one](https://twitter.com/webology/status/707234225313873920) from [Jeff Triplett](https://twitter.com/webology). 
