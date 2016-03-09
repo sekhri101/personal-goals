@@ -34,12 +34,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] UT: Finish Functional Specs 
 - [ ] UT: Refactor Page 1 
 - [ ] Treehouse: Plan project
-- [ ] DCEU: Book hotel in Vienna :hotel:
+- [x] DCEU: Book hotel in Vienna :hotel:
 - [ ] DCEU: Finish slides
-- [ ] Fitness: Go to the weight room 
-- [ ] Fitness: Yoga 2x 
+- [ ] Fitness: Exercise 3 times (3/8: Walk. 3/9: Yoga.) 
 - [ ] Fitness: Log all meals in MFP
-- [ ] Finance: Finalize student loan repayment option
+- [x] Finance: Finalize student loan repayment option
 
 ### Things I'll Do In The Future
 
