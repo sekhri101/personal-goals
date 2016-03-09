@@ -27,7 +27,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] Cooking: Chicken and sage biscuit pot pie 
 - [ ] Cooking: Chicken teriyaki rice bowls :rice:
 - [ ] Cooking: Breakfast pizza :pizza: :egg:
-- [ ] DCUS: Organizers (Meeting)
+- [x] DCUS: Organizers (Meeting)
 - [ ] DCUS: Sponsorship (Meeting)
 - [x] DGPDX: Organizers (Meeting) 
 - [x] DGPDX: Booth planning 
@@ -42,15 +42,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do In The Future
 
-- [ ] Finance: Balance accounts :moneybag: 
-- [ ] House: Organize guest room closet
-- [ ] Learn Spanish 
-- [ ] Make a commit to the Django source code 
-- [ ] Give a technical talk 
-- [ ] Learn more about user experience, conducting user research, writing personas, etc. 
-- [ ] Build my own website
-- [ ] Get checkups/vaccinations for the cats 
-- [ ] Make a dentist appointment 
+- [x] :moneybag: Finance: Balance accounts  
+- [ ] :house: House: Organize guest room closet
+- [ ] :earth_americas: Learn Spanish 
+- [ ] :computer: Make a commit to the Django source code 
+- [ ] :wrench: Give a technical talk 
+- [ ] :dancers: Learn more about user experience, conducting user research, writing personas, etc. 
+- [ ] :globe_with_meridians: Build my own website
+- [ ] :syringe: Get checkups/vaccinations for the cats 
+- [ ] :date: Make a dentist appointment 
+- [ ] :credit_card: Pay off credit card 
 
 ### Backlog: Side Projects & Other Ideas
 
