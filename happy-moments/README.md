@@ -2,7 +2,7 @@
 
 03/10/16
 --- 
-Donald sent me a video of this [toddler snowboard](https://www.youtube.com/watch?v=X6O3yBa0BfM&feature=youtu.be), and it's adorable. :ski:
+Donald sent me a video of this [toddler snowboarder](https://www.youtube.com/watch?v=X6O3yBa0BfM&feature=youtu.be), and it's adorable. :ski:
 
 03/09/16
 --- 
