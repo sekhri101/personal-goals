@@ -1,5 +1,6 @@
 Television
 ==========
+Yes, I watch too much television. I am what's wrong with America.  
 
 # Binges-in-Progress
 - [The Amazing Race](http://www.imdb.com/title/tt0285335/) 
@@ -73,6 +74,7 @@ Television
 - [The West Wing](http://www.imdb.com/title/tt0200276/?ref_=nv_sr_1)
 
 # Got over it before I could finish
+- [30 Rock](http://www.imdb.com/title/tt0496424/?ref_=nv_sr_1)
 - [Dexter](http://www.imdb.com/title/tt0773262/?ref_=nv_sr_1)
 - [Prison Break](http://www.imdb.com/title/tt0455275/?ref_=nv_sr_1) (Season 4 could not hold my interest) 
 - [Six Feet Under](http://www.imdb.com/title/tt0248654/?ref_=nv_sr_1)
@@ -89,9 +91,11 @@ Television
 - [Transparent](http://www.imdb.com/title/tt3502262/?ref_=nv_sr_1)
 
 # Words cannot express my hatred of these :fire: 
+- [Arrested Development](http://www.imdb.com/title/tt0367279/?ref_=nv_sr_1)
+- [It's Always Sunny in Philadelphia](http://www.imdb.com/title/tt0472954/?ref_=nv_sr_1)
 - [Peep Show](http://www.imdb.com/title/tt0387764/?ref_=nv_sr_1)
-- [Workaholics](http://www.imdb.com/title/tt1610527/?ref_=nv_sr_1)
 - [Tim and Eric Awesome Show](http://www.imdb.com/title/tt0912343/?ref_=nv_sr_2)
+- [Workaholics](http://www.imdb.com/title/tt1610527/?ref_=nv_sr_1)
 
 # Recommendations 
 Your recommendations go here! 
