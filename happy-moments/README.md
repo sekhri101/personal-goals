@@ -1,5 +1,9 @@
 # Happy Moments
 
+03/10/16
+--- 
+Donald sent me a video of this [toddler snowboard](https://www.youtube.com/watch?v=X6O3yBa0BfM&feature=youtu.be), and it's adorable. :ski:
+
 03/09/16
 --- 
 Woke up with a headache, so I did good self-care. I took some Aleve, had a cup of coffee, took a shower, and did 20 minutes of yoga. The headache isn't gone, but it's better. 
