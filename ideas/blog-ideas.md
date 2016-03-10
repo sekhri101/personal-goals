@@ -5,7 +5,9 @@
 - Frugality for Django Girls 
 - Feminism and Weight Loss 
 - 2016 Year in Review 
-- Why Hogwarts is a Toxic Work Environment 
+- Why Hogwarts is a Toxic Learning Environment 
+- Guide for First-time Speakers 
+- Guide for First-time Conference-goers 
 
 # Recommendations/Requests 
 Your recommendations go here! 
