@@ -28,7 +28,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Cooking: :rice: [Chicken teriyaki rice bowls](http://www.olgasflavorfactory.com/main-course/poultry/chicken-teriyaki/) :rice:
 - [ ] Cooking: :pizza: :egg: [Breakfast pizza](http://smittenkitchen.com/blog/2010/03/breakfast-pizza/) with kale
 - [x] DCUS: :open_file_folder: Organizers (Meeting)
-- [ ] DCUS: Sponsorship (Meeting)
 - [x] DGPDX: Organizers (Meeting) 
 - [x] DGPDX: Booth planning 
 - [x] UT: Finish Functional Specs 
@@ -42,6 +41,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do In The Future
 
+- [ ] DCUS: Sponsorship (Meeting)
 - [x] :moneybag: Finance: Balance accounts  
 - [ ] :house: House: Organize guest room closet
 - [ ] :earth_americas: Learn Spanish 
