@@ -1,7 +1,6 @@
-# App & Project Ideas
+# Project Ideas
 
-## Side Projects
-TBD. 
+##  Ideas
+1. Sorting Hat in Django 
 
-## Project Ideas
-TBD.
+

@@ -22,12 +22,12 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do This Week
 
-- [x] Cooking: Roast chicken thighs :chicken:
-- [ ] Cooking: Linguine and shrimp fra diavola :spaghetti: 
-- [x] Cooking: Chicken and sage biscuit pot pie 
-- [ ] Cooking: Chicken teriyaki rice bowls :rice:
-- [ ] Cooking: Breakfast pizza :pizza: :egg:
-- [x] DCUS: Organizers (Meeting)
+- [x] Cooking: :chicken: Roast chicken thighs (:thumbsup:)
+- [x] Cooking: :spaghetti:  Linguine and shrimp fra diavola (:star2:) 
+- [x] Cooking: :chicken: Chicken and sage biscuit pot pie (:thumbsup:)
+- [ ] Cooking: :rice: Chicken teriyaki rice bowls :rice:
+- [ ] Cooking: :pizza: :egg: Breakfast pizza 
+- [x] DCUS: :open_file_folder: Organizers (Meeting)
 - [ ] DCUS: Sponsorship (Meeting)
 - [x] DGPDX: Organizers (Meeting) 
 - [x] DGPDX: Booth planning 
