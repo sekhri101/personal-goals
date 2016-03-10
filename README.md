@@ -52,6 +52,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :syringe: Get checkups/vaccinations for the cats 
 - [ ] :date: Make a dentist appointment 
 - [ ] :credit_card: Pay off credit card 
+- [ ] Write a bot for Slack 
 
 ### Backlog: Side Projects & Other Ideas
 
