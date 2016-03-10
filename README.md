@@ -22,11 +22,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do This Week
 
-- [x] Cooking: :chicken: Roast chicken thighs (:thumbsup:)
-- [x] Cooking: :spaghetti:  Linguine and shrimp fra diavola (:star2:) 
-- [x] Cooking: :chicken: Chicken and sage biscuit pot pie (:thumbsup:)
-- [ ] Cooking: :rice: Chicken teriyaki rice bowls :rice:
-- [ ] Cooking: :pizza: :egg: Breakfast pizza 
+- [x] Cooking: :chicken: [Roasted chicken thighs](http://www.simplyrecipes.com/recipes/herb_roasted_chicken_thighs_with_potatoes/) with [maple-glazed carrots](https://www.blueapron.com/recipes/roast-chicken-with-mashed-potatoes-maple-glazed-carrots) (:thumbsup:)
+- [x] Cooking: :spaghetti:  [Linguine and shrimp fra diavolo](http://www.skinnytaste.com/2012/05/linguini-and-shrimp-fra-diavolo.html) (:star2:) 
+- [x] Cooking: :chicken: [Chicken and sage biscuit pot pie](https://www.blueapron.com/recipes/chicken-sage-biscuit-pot-pie-with-cremini-mushrooms-purple-top-turnip) (:thumbsup:)
+- [ ] Cooking: :rice: [Chicken teriyaki rice bowls](http://www.olgasflavorfactory.com/main-course/poultry/chicken-teriyaki/) :rice:
+- [ ] Cooking: :pizza: :egg: [Breakfast pizza](http://smittenkitchen.com/blog/2010/03/breakfast-pizza/) with kale
 - [x] DCUS: :open_file_folder: Organizers (Meeting)
 - [ ] DCUS: Sponsorship (Meeting)
 - [x] DGPDX: Organizers (Meeting) 
