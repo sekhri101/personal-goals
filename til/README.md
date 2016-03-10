@@ -11,3 +11,5 @@ There is a lot of stuff I don't know. Some of it is embarrasing to list. But the
 - [ ] How to use Heroku 
 - [ ] How to use coverage.py 
 - [ ] How to write an API in DRF 
+- [ ] How to write unit tests 
+- [ ] How to write functional tests 
