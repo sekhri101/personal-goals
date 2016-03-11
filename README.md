@@ -25,7 +25,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] Cooking: :chicken: [Roasted chicken thighs](http://www.simplyrecipes.com/recipes/herb_roasted_chicken_thighs_with_potatoes/) with [maple-glazed carrots](https://www.blueapron.com/recipes/roast-chicken-with-mashed-potatoes-maple-glazed-carrots) (:thumbsup:)
 - [x] Cooking: :spaghetti:  [Linguine and shrimp fra diavolo](http://www.skinnytaste.com/2012/05/linguini-and-shrimp-fra-diavolo.html) (:star2:) 
 - [x] Cooking: :chicken: [Chicken and sage biscuit pot pie](https://www.blueapron.com/recipes/chicken-sage-biscuit-pot-pie-with-cremini-mushrooms-purple-top-turnip) (:thumbsup:)
-- [ ] Cooking: :rice: [Chicken teriyaki rice bowls](http://www.olgasflavorfactory.com/main-course/poultry/chicken-teriyaki/) :rice:
+- [x] Cooking: :rice: [Chicken teriyaki rice bowls](http://www.olgasflavorfactory.com/main-course/poultry/chicken-teriyaki/) :rice:
 - [ ] Cooking: :pizza: :egg: [Breakfast pizza](http://smittenkitchen.com/blog/2010/03/breakfast-pizza/) with kale
 - [x] DCUS: :open_file_folder: Organizers (Meeting)
 - [x] DGPDX: Organizers (Meeting) 
@@ -35,7 +35,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Treehouse: Plan project
 - [x] DCEU: Book hotel in Vienna :hotel:
 - [ ] DCEU: Finish slides
-- [ ] Fitness: Exercise 3 times (3/8: Walk. 3/9: Yoga.) 
+- [x] Fitness: Exercise 3 times (3/8: Walk. 3/9: Yoga. 3/11: Yoga.) 
 - [ ] Fitness: Log all meals in MFP
 - [x] Finance: Finalize student loan repayment option
 
@@ -52,10 +52,10 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :syringe: Get checkups/vaccinations for the cats 
 - [ ] :date: Make a dentist appointment 
 - [ ] :credit_card: Pay off credit card 
-- [ ] Write a bot for Slack 
-- [ ] Clean bathroom 
-- [ ] Wash guest room sheets 
-- [ ] Clean living areas 
+- [ ] :older_woman: Write a bot for Slack 
+- [ ] :toilet: Clean bathroom 
+- [ ] :house: Wash guest room sheets 
+- [ ] :sparkles: Clean living areas 
 
 ### Backlog: Side Projects & Other Ideas
 
