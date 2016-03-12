@@ -26,7 +26,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] Cooking: :spaghetti:  [Linguine and shrimp fra diavolo](http://www.skinnytaste.com/2012/05/linguini-and-shrimp-fra-diavolo.html) (:star2:) 
 - [x] Cooking: :chicken: [Chicken and sage biscuit pot pie](https://www.blueapron.com/recipes/chicken-sage-biscuit-pot-pie-with-cremini-mushrooms-purple-top-turnip) (:thumbsup:)
 - [x] Cooking: :rice: [Chicken teriyaki rice bowls](http://www.olgasflavorfactory.com/main-course/poultry/chicken-teriyaki/) :rice:
-- [ ] Cooking: :pizza: :egg: [Breakfast pizza](http://smittenkitchen.com/blog/2010/03/breakfast-pizza/) with kale
+- [x] Cooking: :pizza: :egg: [Breakfast pizza](http://smittenkitchen.com/blog/2010/03/breakfast-pizza/) with kale
 - [x] DCUS: :open_file_folder: Organizers (Meeting)
 - [x] DGPDX: Organizers (Meeting) 
 - [x] DGPDX: Booth planning 
@@ -36,7 +36,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] DCEU: Book hotel in Vienna :hotel:
 - [ ] DCEU: Finish slides
 - [x] Fitness: Exercise 3 times (3/8: Walk. 3/9: Yoga. 3/11: Yoga.) 
-- [ ] Fitness: Log all meals in MFP
+- [x] Fitness: Log all meals in MFP
 - [x] Finance: Finalize student loan repayment option
 
 ### Things I'll Do In The Future
