@@ -28,23 +28,24 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :cow: UT: Refactor Page 1 
 - [ ] :computer: UT ATX mad-dash coding 
 - [ ] :file_folder: UT GS project management
+- [ ] :email: UT GS: Send emails re: unresolved issues 
 - [ ] :zap: DCEU talk slides and outline finished 
 - [ ] :deciduous_tree: Finish Treehouse project
-- [ ] :bar_chart: DGPDX: Create booth staffing spreadsheet 
+- [x] :bar_chart: DGPDX: Create booth staffing spreadsheet (Thanks Terian!)
 - [ ] :email: DGPDX: Email spreadsheet to former coaches 
 - [ ] :globe_with_meridians: DGPDX: Add application to website 
 - [ ] :baseball: DCUS organization/website copy
 - [ ] :moneybag: DCUS Sponsorship meeting 
 - [ ] :curry: Dinner with Kelsey
-- [ ] :stew: Dinner with Rachel 
+- [ ] :stew: ~~Dinner~~ Reschedule dinner with Rachel 
 - [ ] :computer: Cybersecurity for Kids seminar 
-- [ ] :four_leaf_clover: Shamrock Run 5k 
-- [ ] :spaghetti: Celebrity Memoir Book Club: Jersey Shore Edition 
+- [x] :four_leaf_clover: Shamrock Run 5k 
+- [x] :spaghetti: Celebrity Memoir Book Club: Jersey Shore Edition 
 - [ ] :page_facing_up: Invoices 
 - [ ] :ski: Go skiing 
 - [ ] :date: Make a dentist appointment 
 - [ ] :toilet: Clean bathroom 
-- [ ] :house: Wash guest room sheets 
+- [ ] ~~:house: Wash guest room sheets~~
 
 ### Weekly Goals 
 
@@ -73,7 +74,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Events 
 - [x] January 30, 2016: [PyLadies presentation](https://www.youtube.com/watch?v=OAQAXVU1jIo)
 - [x] February 5-6, 2016: [Django Girls workshop](https://djangogirls.org/portland/)
-- [ ] **March 17-21, 2016**: Ski trip; Niki visiting.
+- ~~[ ] March 17-21, 2016: Ski trip; Niki visiting.~~
 - [ ] March 26-April 3, 2016: [DjangoCon Europe](https://djangocon.eu/) presentation in Budapest. Side trip to Vienna. 
 - [ ] April 20, 2016: [Refresh PDX presentation](http://rfrshpdx.org/jane-austen-on-python-tips-from-an-english-major-on-writing-better-code/)
 - [ ] May 21, 2016: Youngest sister's college graduation. Possible side trip to Austin. 
