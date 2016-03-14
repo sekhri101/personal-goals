@@ -91,6 +91,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Inspiration
 
-Inspired by [Una's](https://github.com/una) [personal-goals project](https://github.com/una/personal-goals).
-
-Also, check out [Jeff's](https://github.com/jefftriplett) [personal-goals project](https://github.com/jefftriplett/personal-goals) and [Katherine's](https://github.com/KatherineMichel) [personal-goals project](https://github.com/KatherineMichel/personal-goals).
+- [Una's](https://github.com/una) [personal-goals project](https://github.com/una/personal-goals)
+- [Jeff's](https://github.com/jefftriplett) [personal-goals project](https://github.com/jefftriplett/personal-goals) 
+- [Katherine's](https://github.com/KatherineMichel) [personal-goals project](https://github.com/KatherineMichel/personal-goals)
+- [GitHub Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) 
