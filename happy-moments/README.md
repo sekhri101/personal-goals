@@ -1,5 +1,9 @@
 # Happy Moments
 
+3/13/16
+--- 
+Finished the Shamrock Run 5k without stopping! I took almost 40 minutes, and it rained the whole time, but I didn't stop to walk even once. I am so, so proud of myself. :shoe: 
+
 3/11/16
 --- 
 After 30 minutes of yoga and 10 minutes of meditation, I felt peaceful. It didn't last long, but it was there. 
