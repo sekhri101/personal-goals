@@ -27,16 +27,17 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :tomato: [Baked Ziti](http://thepioneerwoman.com/cooking/baked-ziti/)  
 - [ ] :cow: UT: Refactor Page 1 
 - [ ] :computer: UT ATX mad-dash coding 
-- [ ] :file_folder: UT GS project management
+- [x] :file_folder: UT GS project management
 - [ ] :email: UT GS: Send emails re: unresolved issues 
 - [ ] :zap: DCEU talk slides and outline finished 
 - [ ] :deciduous_tree: Finish Treehouse project
 - [x] :bar_chart: DGPDX: Create booth staffing spreadsheet (Thanks Terian!)
-- [ ] :email: DGPDX: Email spreadsheet to former coaches 
-- [ ] :globe_with_meridians: DGPDX: Add application to website 
-- [ ] :baseball: DCUS organization/website copy
+- [x] :email: DGPDX: Email spreadsheet to former coaches (Thanks Terian!)
+- [x] :globe_with_meridians: DGPDX: Add application to website (Thanks Terian!)
+- [x] :baseball: DCUS organization/website copy
 - [ ] :moneybag: DCUS Sponsorship meeting 
 - [ ] :curry: Dinner with Kelsey
+- [x] :stew: Lunch with friends
 - [ ] :stew: ~~Dinner~~ Reschedule dinner with Rachel 
 - [ ] :computer: Cybersecurity for Kids seminar 
 - [x] :four_leaf_clover: Shamrock Run 5k 
@@ -74,7 +75,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Events 
 - [x] January 30, 2016: [PyLadies presentation](https://www.youtube.com/watch?v=OAQAXVU1jIo)
 - [x] February 5-6, 2016: [Django Girls workshop](https://djangogirls.org/portland/)
-- ~~[ ] March 17-21, 2016: Ski trip; Niki visiting.~~
+- [ ] March 17-21, 2016: Ski trip ~~; Niki visiting.~~
 - [ ] March 26-April 3, 2016: [DjangoCon Europe](https://djangocon.eu/) presentation in Budapest. Side trip to Vienna. 
 - [ ] April 20, 2016: [Refresh PDX presentation](http://rfrshpdx.org/jane-austen-on-python-tips-from-an-english-major-on-writing-better-code/)
 - [ ] May 21, 2016: Youngest sister's college graduation. Possible side trip to Austin. 
