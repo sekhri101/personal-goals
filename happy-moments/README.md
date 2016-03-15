@@ -1,5 +1,13 @@
 # Happy Moments
 
+3/15/16
+--- 
+Had a much-needed text-chat with the BFF this morning. 
+
+3/14/16
+--- 
+Conference sprinting is fun! 
+
 3/13/16
 --- 
 Finished the Shamrock Run 5k without stopping! I took almost 40 minutes, and it rained the whole time, but I didn't stop to walk even once. I am so, so proud of myself. :shoe: 
