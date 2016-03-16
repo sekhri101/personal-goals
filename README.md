@@ -25,7 +25,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] ~~:rice: [Chicken Katsu](http://allrecipes.com/recipe/72068/chicken-katsu/) with Roasted Broccoli and Rice~~
 - [ ] ~~:chicken: Herb roasted chicken with sweet potatoes and broccoli~~
 - [ ] ~~:tomato: [Baked Ziti](http://thepioneerwoman.com/cooking/baked-ziti/)~~
-- [ ] :cow: UT: Refactor Page 1 
+- [x] :cow: UT: Refactor Page 1 
 - [ ] :computer: UT ATX mad-dash coding 
 - [x] :file_folder: UT GS project management
 - [x] :email: UT GS: Send emails re: unresolved issues 
