@@ -22,13 +22,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do This Week
 
-- [ ] :rice: [Chicken Katsu](http://allrecipes.com/recipe/72068/chicken-katsu/) with Roasted Broccoli and Rice 
-- [ ] :chicken: Herb roasted chicken with sweet potatoes and broccoli 
-- [ ] :tomato: [Baked Ziti](http://thepioneerwoman.com/cooking/baked-ziti/)  
+- [ ] ~~:rice: [Chicken Katsu](http://allrecipes.com/recipe/72068/chicken-katsu/) with Roasted Broccoli and Rice~~
+- [ ] ~~:chicken: Herb roasted chicken with sweet potatoes and broccoli~~
+- [ ] ~~:tomato: [Baked Ziti](http://thepioneerwoman.com/cooking/baked-ziti/)~~
 - [ ] :cow: UT: Refactor Page 1 
 - [ ] :computer: UT ATX mad-dash coding 
 - [x] :file_folder: UT GS project management
-- [ ] :email: UT GS: Send emails re: unresolved issues 
+- [x] :email: UT GS: Send emails re: unresolved issues 
 - [ ] :zap: DCEU talk slides and outline finished 
 - [ ] :deciduous_tree: Finish Treehouse project
 - [x] :bar_chart: DGPDX: Create booth staffing spreadsheet (Thanks Terian!)
@@ -36,13 +36,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] :globe_with_meridians: DGPDX: Add application to website (Thanks Terian!)
 - [x] :baseball: DCUS organization/website copy
 - [ ] :moneybag: DCUS Sponsorship meeting 
-- [ ] :curry: Dinner with Kelsey
+- [x] :curry: Dinner with Kelsey
 - [x] :stew: Lunch with friends
 - [ ] :stew: ~~Dinner~~ Reschedule dinner with Rachel 
 - [ ] :computer: Cybersecurity for Kids seminar 
 - [x] :four_leaf_clover: Shamrock Run 5k 
 - [x] :spaghetti: Celebrity Memoir Book Club: Jersey Shore Edition 
-- [ ] :page_facing_up: Invoices 
+- [x] :page_facing_up: Invoices 
 - [ ] :ski: Go skiing 
 - [ ] :date: Make a dentist appointment 
 - [ ] :toilet: Clean bathroom 
