@@ -1,5 +1,9 @@
 # Happy Moments
 
+3/17/16
+--- 
+Filled out a :basketball: bracket today. Just for the hell of it. Going skiing tomorrow! 
+
 3/15/16
 --- 
 Had a much-needed text-chat with the BFF this morning. 
