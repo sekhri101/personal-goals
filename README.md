@@ -39,7 +39,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] :curry: Dinner with Kelsey
 - [x] :stew: Lunch with friends
 - [ ] :stew: ~~Dinner~~ Reschedule dinner with Rachel 
-- [ ] :computer: Cybersecurity for Kids seminar 
+- [x] :computer: Cybersecurity for Kids seminar 
 - [x] :four_leaf_clover: Shamrock Run 5k 
 - [x] :spaghetti: Celebrity Memoir Book Club: Jersey Shore Edition 
 - [x] :page_facing_up: Invoices 
