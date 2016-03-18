@@ -35,7 +35,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] :email: DGPDX: Email spreadsheet to former coaches (Thanks Terian!)
 - [x] :globe_with_meridians: DGPDX: Add application to website (Thanks Terian!)
 - [x] :baseball: DCUS organization/website copy
-- [ ] :moneybag: DCUS Sponsorship meeting 
+- [x] :moneybag: DCUS Sponsorship meeting 
 - [x] :curry: Dinner with Kelsey
 - [x] :stew: Lunch with friends
 - [ ] :stew: ~~Dinner~~ Reschedule dinner with Rachel 
