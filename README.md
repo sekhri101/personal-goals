@@ -26,10 +26,10 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] ~~:chicken: Herb roasted chicken with sweet potatoes and broccoli~~
 - [ ] ~~:tomato: [Baked Ziti](http://thepioneerwoman.com/cooking/baked-ziti/)~~
 - [x] :cow: UT: Refactor Page 1 
-- [ ] :computer: UT ATX mad-dash coding 
+- [x] :computer: UT ATX mad-dash coding 
 - [x] :file_folder: UT GS project management
 - [x] :email: UT GS: Send emails re: unresolved issues 
-- [ ] :zap: DCEU talk slides and outline finished 
+- [ ] :zap: DCEU talk slides ~~and outline~~ finished 
 - [ ] :deciduous_tree: Finish Treehouse project
 - [x] :bar_chart: DGPDX: Create booth staffing spreadsheet (Thanks Terian!)
 - [x] :email: DGPDX: Email spreadsheet to former coaches (Thanks Terian!)
@@ -43,19 +43,19 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] :four_leaf_clover: Shamrock Run 5k 
 - [x] :spaghetti: Celebrity Memoir Book Club: Jersey Shore Edition 
 - [x] :page_facing_up: Invoices 
-- [ ] :ski: Go skiing 
+- [x] :ski: Go skiing 
 - [ ] :date: Make a dentist appointment 
 - [ ] :toilet: Clean bathroom 
 - [ ] ~~:house: Wash guest room sheets~~
 
 ### Weekly Goals 
 
-- [ ] :house: Daily misc. housekeeping 
-- [ ] :smiley_cat: Daily misc. cat chores 
+- [x] :house: Daily misc. housekeeping 
+- [x] :smiley_cat: Daily misc. cat chores 
 - [ ] :shoe: Exercise (150 minutes/week) 
 - [ ] :cyclone: Meditation (30 minutes/week) 
 - [ ] :fork_and_knife: Meal planning 
-- [ ] :moneybag: Monitor accounts 
+- [x] :moneybag: Monitor accounts 
 
 
 ### Side Projects & Other Goals
@@ -75,7 +75,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Events 
 - [x] January 30, 2016: [PyLadies presentation](https://www.youtube.com/watch?v=OAQAXVU1jIo)
 - [x] February 5-6, 2016: [Django Girls workshop](https://djangogirls.org/portland/)
-- [ ] March 17-21, 2016: Ski trip ~~; Niki visiting.~~
+- [x] March 17-21, 2016: Ski trip ~~; Niki visiting.~~
 - [ ] March 26-April 3, 2016: [DjangoCon Europe](https://djangocon.eu/) presentation in Budapest. Side trip to Vienna. 
 - [ ] April 20, 2016: [Refresh PDX presentation](http://rfrshpdx.org/jane-austen-on-python-tips-from-an-english-major-on-writing-better-code/)
 - [ ] May 21, 2016: Youngest sister's college graduation. Possible side trip to Austin. 
