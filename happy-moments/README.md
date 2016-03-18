@@ -1,5 +1,9 @@
 # Happy Moments
 
+3/18/16
+--- 
+I am so excited about my talk! I finally got into a writing groove today, and it felt good. Trying to do the slides first was a bad idea. I'm too verbal. I should always start with the words. 
+
 3/17/16
 --- 
 Filled out a :basketball: bracket today. Just for the hell of it. Going skiing tomorrow! 
