@@ -29,7 +29,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :womans_clothes: Laundry so I will have clothes to wear on the trip 
 - [ ] :deciduous_tree: Finish Treehouse project 
 - [ ] :package: Return shoes 
-- [ ] :paperclip: UT GS: Tech Specs 
+- [x] :paperclip: UT GS: Tech Specs 
 - [ ] :passport_control: Find passport 
 - [ ] :handbag: Pack for trip 
 - [ ] :phone: UT ATX: Finish all phone number audit updates 
