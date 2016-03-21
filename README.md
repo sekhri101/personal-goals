@@ -18,44 +18,36 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## March 13, 2016
 
-### This Week's Focus: Leadership :raising_hand:
+### This Week's Focus: Prepare the Comfort Zone :airplane:
 
 ### Things I'll Do This Week
 
-- [ ] ~~:rice: [Chicken Katsu](http://allrecipes.com/recipe/72068/chicken-katsu/) with Roasted Broccoli and Rice~~
-- [ ] ~~:chicken: Herb roasted chicken with sweet potatoes and broccoli~~
-- [ ] ~~:tomato: [Baked Ziti](http://thepioneerwoman.com/cooking/baked-ziti/)~~
-- [x] :cow: UT: Refactor Page 1 
-- [x] :computer: UT ATX mad-dash coding 
-- [x] :file_folder: UT GS project management
-- [x] :email: UT GS: Send emails re: unresolved issues 
-- [ ] :zap: DCEU talk slides ~~and outline~~ finished 
-- [ ] :deciduous_tree: Finish Treehouse project
-- [x] :bar_chart: DGPDX: Create booth staffing spreadsheet (Thanks Terian!)
-- [x] :email: DGPDX: Email spreadsheet to former coaches (Thanks Terian!)
-- [x] :globe_with_meridians: DGPDX: Add application to website (Thanks Terian!)
-- [x] :baseball: DCUS organization/website copy
-- [x] :moneybag: DCUS Sponsorship meeting 
-- [x] :curry: Dinner with Kelsey
-- [x] :stew: Lunch with friends
-- [ ] :stew: ~~Dinner~~ Reschedule dinner with Rachel 
-- [x] :computer: Cybersecurity for Kids seminar 
-- [x] :four_leaf_clover: Shamrock Run 5k 
-- [x] :spaghetti: Celebrity Memoir Book Club: Jersey Shore Edition 
-- [x] :page_facing_up: Invoices 
-- [x] :ski: Go skiing 
-- [ ] :date: Make a dentist appointment 
+- [ ] :european_castle: Finalize itinerary for Europe trip 
+- [ ] :email: Email itinerary to husband so he has a copy 
+- [ ] :microphone: DCEU: Rehearse the talk each day 
+- [ ] :sparkles: DCEU: Finalize slides and script 
+- [ ] :womans_clothes: Laundry so I will have clothes to wear on the trip 
+- [ ] :deciduous_tree: Finish Treehouse project 
+- [ ] :package: Return shoes 
+- [ ] :paperclip: UT GS: Tech Specs 
+- [ ] :passport_control: Find passport 
+- [ ] :handbag: Pack for trip 
+- [ ] :phone: UT ATX: Finish all phone number audit updates 
+- [ ] :earth_africa: UT ATX: add international contact
+- [ ] :baseball: DCUS: website copy done 
+- [ ] :tv: Download shows for plane ride 
+- [ ] :video_game: Take S to arcade 
 - [ ] :toilet: Clean bathroom 
-- [ ] ~~:house: Wash guest room sheets~~
+- [ ] :iphone: DG Schedule tweets 
 
 ### Weekly Goals 
 
-- [x] :house: Daily misc. housekeeping 
-- [x] :smiley_cat: Daily misc. cat chores 
+- [ ] :house: Daily misc. housekeeping 
+- [ ] :smiley_cat: Daily misc. cat chores 
 - [ ] :shoe: Exercise (150 minutes/week) 
 - [ ] :cyclone: Meditation (30 minutes/week) 
 - [ ] :fork_and_knife: Meal planning 
-- [x] :moneybag: Monitor accounts 
+- [ ] :moneybag: Monitor accounts 
 
 
 ### Side Projects & Other Goals
@@ -73,22 +65,23 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] [Life Ideas](ideas/life-ideas.md)
 
 ### Events 
-- [x] January 30, 2016: [PyLadies presentation](https://www.youtube.com/watch?v=OAQAXVU1jIo)
-- [x] February 5-6, 2016: [Django Girls workshop](https://djangogirls.org/portland/)
-- [x] March 17-21, 2016: Ski trip ~~; Niki visiting.~~
-- [ ] March 26-April 3, 2016: [DjangoCon Europe](https://djangocon.eu/) presentation in Budapest. Side trip to Vienna. 
-- [ ] April 20, 2016: [Refresh PDX presentation](http://rfrshpdx.org/jane-austen-on-python-tips-from-an-english-major-on-writing-better-code/)
-- [ ] May 21, 2016: Youngest sister's college graduation. Possible side trip to Austin. 
-- [ ] May 27-June 1, 2016: [Django Girls workshop](https://djangogirls.org/pycon/) at PyCon; booth at PyCon
-- [ ] July 17-22, 2016: [DjangoCon US](https://2016.djangocon.us/) 
-- [ ] September 17-24, 2016: Snorkeling trip to Cozumel 
-- [ ] November 4-6, 2016: Wedding in New Orleans
-- [ ] TBD: Trip to Alabama to see an Auburn game 
-- [ ] TBD: Trip to Texas to visit family 
-- [ ] TBD: Trip to Oklahoma to visit Dad 
-- [ ] TBD: Trip to New Mexico to visit Dad (may need to wait for 2017) 
-- [ ] TBD: Mom visiting me 
-- [ ] TBD: Little sister and brother-in-law visiting me 
+- [x] January 30, 2016: :microphone: [PyLadies presentation](https://www.youtube.com/watch?v=OAQAXVU1jIo)
+- [x] February 5-6, 2016: :computer: [Django Girls workshop](https://djangogirls.org/portland/)
+- [x] March 17-21, 2016: :ski: Ski trip 
+- [ ] March 26-April 3, 2016: :european_castle: [DjangoCon Europe](https://djangocon.eu/) presentation in Budapest. Side trip to Vienna. 
+- [ ] April 20, 2016: :european_castle: [Refresh PDX presentation](http://rfrshpdx.org/jane-austen-on-python-tips-from-an-english-major-on-writing-better-code/)
+- [ ] May 21, 2016: :mortar_board: Youngest sister's college graduation. Possible side trip to Austin. 
+- [ ] May 27-June 1, 2016: :love_letter: [Django Girls workshop](https://djangogirls.org/pycon/) at PyCon; booth at PyCon
+- [ ] June 26-28: :tent: Camping trip with S 
+- [ ] July 17-22, 2016: :baseball: [DjangoCon US](https://2016.djangocon.us/) 
+- [ ] September 17-24, 2016: :tropical_fish: Snorkeling trip to Cozumel 
+- [ ] November 4-6, 2016: :bride_with_veil: :bride_with_veil: Wedding in New Orleans
+- [ ] TBD: :football: Trip to Alabama to see an Auburn game 
+- [ ] TBD: :star2: Trip to Texas to visit family 
+- [ ] TBD: :cow: Trip to Oklahoma to visit Dad 
+- [ ] TBD: :sunrise_over_mountains: Trip to New Mexico to visit Dad (may need to wait for 2017) 
+- [ ] TBD: :woman: Mom visiting me 
+- [ ] TBD: :jack_o_lantern: Little sister and brother-in-law visiting me (possibly for Pumpkin Regatta)
 
 ## Inspiration
 
