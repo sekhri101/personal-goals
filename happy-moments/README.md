@@ -1,5 +1,11 @@
 # Happy Moments
 
+3/22/16
+--- 
+Today, I've been married for two years. Marriage is hard but wonderful, and I'm feeling so lucky to have the partner I do.  
+
+I also had a long, personal chat with a good friend today, and felt very connected to them. I think I was helpful. 
+
 3/18/16
 --- 
 I am so excited about my talk! I finally got into a writing groove today, and it felt good. Trying to do the slides first was a bad idea. I'm too verbal. I should always start with the words. 
