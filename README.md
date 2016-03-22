@@ -22,7 +22,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do This Week
 
-- [ ] :european_castle: Finalize itinerary for Europe trip 
+- [x] :european_castle: Finalize itinerary for Europe trip 
 - [ ] :email: Email itinerary to husband so he has a copy 
 - [ ] :microphone: DCEU: Rehearse the talk each day 
 - [ ] :sparkles: DCEU: Finalize slides and script 
@@ -34,11 +34,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :handbag: Pack for trip 
 - [ ] :phone: UT ATX: Finish all phone number audit updates 
 - [ ] :earth_africa: UT ATX: add international contact
-- [ ] :baseball: DCUS: website copy done 
+- [x] :baseball: DCUS: website copy done 
 - [ ] :tv: Download shows for plane ride 
 - [ ] :video_game: Take S to arcade 
 - [ ] :toilet: Clean bathroom 
-- [ ] :iphone: DG Schedule tweets 
+- [x] :iphone: DG Schedule tweets 
 
 ### Weekly Goals 
 
@@ -46,7 +46,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :smiley_cat: Daily misc. cat chores 
 - [ ] :shoe: Exercise (150 minutes/week) 
 - [ ] :cyclone: Meditation (30 minutes/week) 
-- [ ] :fork_and_knife: Meal planning 
+- [ ] ~~:fork_and_knife: Meal planning~~ Not this week! 
 - [ ] :moneybag: Monitor accounts 
 
 
@@ -82,6 +82,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] TBD: :sunrise_over_mountains: Trip to New Mexico to visit Dad (may need to wait for 2017) 
 - [ ] TBD: :woman: Mom visiting me 
 - [ ] TBD: :jack_o_lantern: Little sister and brother-in-law visiting me (possibly for Pumpkin Regatta)
+- [ ] TBD: :tent: Camping trip to Olympic National Park 
 
 ## Inspiration
 
