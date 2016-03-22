@@ -45,6 +45,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :house: Daily misc. housekeeping 
 - [ ] :smiley_cat: Daily misc. cat chores 
 - [ ] :shoe: Exercise (150 minutes/week) 
+  - [x] [Yoga with Adriene: Yoga for Your Back](https://www.youtube.com/watch?v=gLQsM6geGzs&list=PLui6Eyny-UzwxbWCWDbTzEwsZnnROBTIL&index=5) 
 - [ ] :cyclone: Meditation (30 minutes/week) 
 - [ ] ~~:fork_and_knife: Meal planning~~ Not this week! 
 - [ ] :moneybag: Monitor accounts 
