@@ -49,6 +49,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] ~~:fork_and_knife: Meal planning~~ Not this week! 
 - [ ] :moneybag: Monitor accounts 
 
+### Other things I did 
+
+- Read about user stories, and used that research in some project planning 
 
 ### Side Projects & Other Goals
 
