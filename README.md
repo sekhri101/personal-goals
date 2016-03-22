@@ -23,7 +23,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Things I'll Do This Week
 
 - [x] :european_castle: Finalize itinerary for Europe trip 
-- [ ] :email: Email itinerary to husband so he has a copy 
+- [x] :email: Email itinerary to husband so he has a copy 
 - [ ] :microphone: DCEU: Rehearse the talk each day 
 - [ ] :sparkles: DCEU: Finalize slides and script 
 - [ ] :womans_clothes: Laundry so I will have clothes to wear on the trip 
