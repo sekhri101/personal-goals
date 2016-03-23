@@ -3,7 +3,7 @@
 Packing list and misc. tips for conference travel 
 
 ## Packing List 
-### 
+### Must-haves 
 - [ ] ID 
 - [ ] Credit card 
 - [ ] Debit card 
@@ -21,7 +21,7 @@ Packing list and misc. tips for conference travel
 ### Personal Care 
 I love this [flat-pack toiletry bag](http://smile.amazon.com/eBags-Pack-it-Flat-Toiletry-Kit-Black/dp/B0009K5WFO?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s00) because it takes up so much less space than other toiletry bags. I also use these [GoToobs](http://smile.amazon.com/Humangear-GoToob-Travel-Bottle-Blue/dp/B002VS8H3G?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s01) for shampoo and conditioner, and these little [pump bottles](http://smile.amazon.com/Essense-Foudation-Cosmetic-Product-Dispense/dp/B015SLWWEC?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s01) for hair products. 
 
-- [ ] Makeup (I love [Stowaway](htts://stowawaycosmetics.com/) for travel-friendly, high-quality makeup)
+- [ ] Makeup (I love [Stowaway](https://stowawaycosmetics.com/) for travel-friendly, high-quality makeup)
 - [ ] Eye makeup remover 
 - [ ] Face moisturizer 
 - [ ] Shampoo
