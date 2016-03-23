@@ -22,31 +22,34 @@ Packing list and misc. tips for conference travel
 ### Personal Care 
 I love this [flat-pack toiletry bag](http://smile.amazon.com/eBags-Pack-it-Flat-Toiletry-Kit-Black/dp/B0009K5WFO?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s00) because it takes up so much less space than other toiletry bags. I also use these [GoToobs](http://smile.amazon.com/Humangear-GoToob-Travel-Bottle-Blue/dp/B002VS8H3G?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s01) for shampoo and conditioner, and these little [pump bottles](http://smile.amazon.com/Essense-Foudation-Cosmetic-Product-Dispense/dp/B015SLWWEC?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s01) for hair products. 
 
-- [ ] Makeup (I love [Stowaway](https://stowawaycosmetics.com/) for travel-friendly, high-quality makeup)
+- [x] Makeup (I love [Stowaway](https://stowawaycosmetics.com/) for travel-friendly, high-quality makeup)
 - [ ] Eye makeup remover 
-- [ ] Face moisturizer 
-- [ ] Shampoo
-- [ ] Conditioner 
-- [ ] Hair spray 
-- [ ] Heat protectant 
-- [ ] Argan oil 
+- [x] Face moisturizer 
+- [x] Shampoo
+- [x] Conditioner 
+- [x] Hair spray 
+- [x] Heat protectant 
+- [x] Argan oil 
 - [ ] Paddle hair brush 
-- [ ] Hair ties and bobby pins 
+- [x] Hair ties and bobby pins 
 - [ ] Curling and/or straightening iron 
 - [ ] Toothbrush (charge beforehand)
-- [ ] Toothpaste 
-- [ ] Floss 
-- [ ] Extra contacts with lens case
-- [ ] Contact lens solution 
+- [x] Toothpaste 
+- [x] Floss 
+- [x] Extra contacts with lens case
+- [x] Contact lens solution 
 - [ ] Glasses with case 
 - [ ] Night mouth guard with case 
-- [ ] Tampons (just in case)
+- [x] Tampons (just in case)
+- [x] Nail clippers and file 
+- [x] Lotion 
+- [x] Deoderant 
 - [ ] Lingerie bag for dirty small clothes 
 
 ### Medications
 - [ ] Migraine meds 
-- [ ] Aleve 
-- [ ] Daily anxiety meds 
+- [x] Aleve 
+- [x] Daily anxiety meds 
 - [ ] As-needed anxiety meds 
 - [ ] Benadryl 
 - [ ] Allergy meds 
