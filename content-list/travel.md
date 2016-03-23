@@ -14,6 +14,7 @@ Packing list and misc. tips for conference travel
 - [ ] Phone charger 
 - [ ] Laptop
 - [ ] Laptop charger 
+- [ ] Laptop bag (I use [this one](http://smile.amazon.com/ECBC-Poseidon-Messenger-13-Inch-Laptop/dp/B00BT6O0BE?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o06_s00) and love it. My jeans do transfer some blue onto the back of the bag, though.) 
 - [ ] Kindle (charge before leaving)
 - [ ] Headphones 
 - [ ] Fitbit (charge before leaving)
