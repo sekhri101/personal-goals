@@ -36,7 +36,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :earth_africa: UT ATX: add international contact
 - [x] :baseball: DCUS: website copy done 
 - [x] :tv: Download shows for plane ride 
-- [ ] :video_game: Take S to arcade 
+- [x] :video_game: Take S to arcade 
 - [ ] :toilet: Clean bathroom 
 - [x] :iphone: DG Schedule tweets 
 
@@ -49,14 +49,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
   - [x] 6,000 steps
 - [ ] :cyclone: Meditation (30 minutes/week) 
   - [x] 3/22
-- [ ] ~~:fork_and_knife: Meal planning~~ Not this week! 
-- [ ] :moneybag: Monitor accounts 
+- [x] ~~:fork_and_knife: Meal planning~~ Not this week! 
+- [x] :moneybag: Monitor accounts 
 
 ### Other things I did 
 
 - Read about user stories, and used that research in some project planning 
 - Cooked Chicken Cacciatore 
 - Bought a crossbody bag 
+- Set out of office reply 
+- Called banks to let them know about traveling 
 
 ### Side Projects & Other Goals
 
