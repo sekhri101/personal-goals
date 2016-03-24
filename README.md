@@ -56,6 +56,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - Read about user stories, and used that research in some project planning 
 - Cooked Chicken Cacciatore 
+- Bought a crossbody bag 
 
 ### Side Projects & Other Goals
 
