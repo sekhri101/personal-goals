@@ -28,11 +28,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :sparkles: DCEU: Finalize slides and script 
 - [x] :womans_clothes: Laundry so I will have clothes to wear on the trip 
 - [ ] :deciduous_tree: Finish Treehouse project 
-- [ ] :package: Return shoes 
+- [x] :package: Return shoes 
 - [x] :paperclip: UT GS: Tech Specs 
 - [x] :passport_control: Find passport 
-- [ ] :handbag: Pack for trip 
-- [ ] :phone: UT ATX: Finish all phone number audit updates 
+- [x] :handbag: Pack for trip 
+- [x] :phone: UT ATX: Finish all phone number audit updates 
 - [ ] :earth_africa: UT ATX: add international contact
 - [x] :baseball: DCUS: website copy done 
 - [x] :tv: Download shows for plane ride 
@@ -42,8 +42,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Weekly Goals 
 
-- [ ] :house: Daily misc. housekeeping 
-- [ ] :smiley_cat: Daily misc. cat chores 
+- [x] :house: Daily misc. housekeeping 
+- [x] :smiley_cat: Daily misc. cat chores 
 - [ ] :shoe: Exercise (150 minutes/week) 
   - [x] [Yoga with Adriene: Yoga for Your Back](https://www.youtube.com/watch?v=gLQsM6geGzs&list=PLui6Eyny-UzwxbWCWDbTzEwsZnnROBTIL&index=5) 
   - [x] 6,000 steps
@@ -56,9 +56,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - Read about user stories, and used that research in some project planning 
 - Cooked Chicken Cacciatore 
+- Cooked Cubanos 
 - Bought a crossbody bag 
 - Set out of office reply 
 - Called banks to let them know about traveling 
+- Refilled medication
 
 ### Side Projects & Other Goals
 
@@ -78,7 +80,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] January 30, 2016: :microphone: [PyLadies presentation](https://www.youtube.com/watch?v=OAQAXVU1jIo)
 - [x] February 5-6, 2016: :computer: [Django Girls workshop](https://djangogirls.org/portland/)
 - [x] March 17-21, 2016: :ski: Ski trip 
-- [ ] March 26-April 3, 2016: :european_castle: [DjangoCon Europe](https://djangocon.eu/) presentation in Budapest. Side trip to Vienna. 
+- [ ] **March 26-April 3, 2016: :european_castle: [DjangoCon Europe](https://djangocon.eu/) presentation in Budapest. Side trip to Vienna.**
 - [ ] April 20, 2016: :european_castle: [Refresh PDX presentation](http://rfrshpdx.org/jane-austen-on-python-tips-from-an-english-major-on-writing-better-code/)
 - [ ] May 21, 2016: :mortar_board: Youngest sister's college graduation. Possible side trip to Austin. 
 - [ ] May 27-June 1, 2016: :love_letter: [Django Girls workshop](https://djangogirls.org/pycon/) at PyCon; booth at PyCon
