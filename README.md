@@ -16,51 +16,41 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. Learning: Python, Django, Spanish
 3. Improve impostor syndrome
 
-## March 13, 2016
+## March 28, 2016
 
-### This Week's Focus: Prepare the Comfort Zone :airplane:
+### This Week's Focus: Be in the moment :clock:
 
 ### Things I'll Do This Week
 
-- [x] :european_castle: Finalize itinerary for Europe trip 
-- [x] :email: Email itinerary to husband so he has a copy 
-- [x] :microphone: DCEU: Rehearse the talk each day 
-- [ ] :sparkles: DCEU: Finalize slides and script 
-- [x] :womans_clothes: Laundry so I will have clothes to wear on the trip 
-- [ ] :deciduous_tree: Finish Treehouse project 
-- [x] :package: Return shoes 
-- [x] :paperclip: UT GS: Tech Specs 
-- [x] :passport_control: Find passport 
-- [x] :handbag: Pack for trip 
-- [x] :phone: UT ATX: Finish all phone number audit updates 
-- [ ] :earth_africa: UT ATX: add international contact
-- [x] :baseball: DCUS: website copy done 
-- [x] :tv: Download shows for plane ride 
-- [x] :video_game: Take S to arcade 
-- [ ] :toilet: Clean bathroom 
-- [x] :iphone: DG Schedule tweets 
+- [ ] :zap: Finish DjangoCon Europe talk and script 
+- [ ] :microphone: Rehearse talk 
+- [ ] :envelope: Keep up with email 
+- [ ] :deciduous_tree: Complete Treehouse project on time 
+- [ ] :european_castle: Tour Vienna 
+  - [x] :church: St. Stephen's Cathedral 
+  - [ ] :european_castle: Schönbrunn Palace
+  - [ ] :wine_glass: Dine at a Heuriger 
+  - [ ] :pig: Dine at that place D told me about 
+  - [ ] :shoe: Do Vienna City Walk
+  - [ ] :musical_score: Hear choral music 
+- [ ] :fountain: Tour Budapest 
+  - [ ] :bath: Visit a thermal bath 
+  - [ ] :fork_and_knife: Speaker dinner 
+  - [ ] :sparkles: Django Girls dinner 
+  - [ ] :shoe: Do at least one City Walk
+- [ ] :massage: Practice solid self-care
 
 ### Weekly Goals 
 
-- [x] :house: Daily misc. housekeeping 
-- [x] :smiley_cat: Daily misc. cat chores 
+- [ ] ~~:house: Daily misc. housekeeping~~
+- [ ] ~~:smiley_cat: Daily misc. cat chores~~
 - [ ] :shoe: Exercise (150 minutes/week) 
-  - [x] [Yoga with Adriene: Yoga for Your Back](https://www.youtube.com/watch?v=gLQsM6geGzs&list=PLui6Eyny-UzwxbWCWDbTzEwsZnnROBTIL&index=5) 
-  - [x] 6,000 steps
 - [ ] :cyclone: Meditation (30 minutes/week) 
-  - [x] 3/22
-- [x] ~~:fork_and_knife: Meal planning~~ Not this week! 
-- [x] :moneybag: Monitor accounts 
+- [ ] ~~:fork_and_knife: Meal planning~~
+- [ ] :moneybag: Monitor accounts 
 
 ### Other things I did 
 
-- Read about user stories, and used that research in some project planning 
-- Cooked Chicken Cacciatore 
-- Cooked Cubanos 
-- Bought a crossbody bag 
-- Set out of office reply 
-- Called banks to let them know about traveling 
-- Refilled medication
 
 ### Side Projects & Other Goals
 
