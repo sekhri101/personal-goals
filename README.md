@@ -22,29 +22,29 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do This Week
 
-- [ ] :zap: Finish DjangoCon Europe talk and script 
+- [x] :zap: Finish DjangoCon Europe talk and script 
 - [ ] :microphone: Rehearse talk 
-- [ ] :envelope: Keep up with email 
+- [x] :envelope: Keep up with email 
 - [ ] :deciduous_tree: Complete Treehouse project on time 
 - [ ] :european_castle: Tour Vienna 
   - [x] :church: St. Stephen's Cathedral 
-  - [ ] :european_castle: Schönbrunn Palace
-  - [ ] :wine_glass: Dine at a Heuriger 
+  - [x] :european_castle: Schönbrunn Palace
+  - [x] :wine_glass: Dine at a Heuriger 
   - [ ] :pig: Dine at that place D told me about 
-  - [ ] :shoe: Do Vienna City Walk
-  - [ ] :musical_score: Hear choral music 
+  - [x] :shoe: Do Vienna City Walk
+  - [x] :musical_score: Hear choral music 
 - [ ] :fountain: Tour Budapest 
   - [ ] :bath: Visit a thermal bath 
   - [ ] :fork_and_knife: Speaker dinner 
   - [ ] :sparkles: Django Girls dinner 
   - [ ] :shoe: Do at least one City Walk
-- [ ] :massage: Practice solid self-care
+- [x] :massage: Practice solid self-care
 
 ### Weekly Goals 
 
 - [ ] ~~:house: Daily misc. housekeeping~~
 - [ ] ~~:smiley_cat: Daily misc. cat chores~~
-- [ ] :shoe: Exercise (150 minutes/week) 
+- [x] :shoe: Exercise (150 minutes/week) 
 - [ ] :cyclone: Meditation (30 minutes/week) 
 - [ ] ~~:fork_and_knife: Meal planning~~
 - [ ] :moneybag: Monitor accounts 
