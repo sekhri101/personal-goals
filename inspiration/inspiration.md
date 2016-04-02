@@ -17,3 +17,12 @@ Orientation to the app or the product.
 ### The Common App 
 [The Common App](https://www.commonapp.org/) has a section for parents that shows them what their kid will be doing. It guides them through creating an account, starting an app, etc. ApplyTexas gets a lot of parent questions, so this might be helpful. 
 ![Image of Parents section of Common app](http://i.imgur.com/eEANwM7.jpg)
+
+## Neat Stuff 
+
+### Soundslice 
+[Soundslice](https://www.soundslice.com) is using service workers to enable an offline mode. According to Adrian Holovaty in his 2016 DjangoCon Europe presentation, this technology could be used to enable users to work on long forms offline, allowing them to save their answers and get them to the database once connectivity is restored. 
+ - [HTML5 service worker tutorial](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
+ - [App Shell Architecture](https://developers.google.com/web/updates/2015/11/app-shell)
+ - [Mozilla Developer Network on Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
+ ![Image of Soundslice "Save Offline" link](http://i.imgur.com/7jIAICn.png)
