@@ -1,5 +1,9 @@
 # Happy Moments
 
+4/2/16
+--- 
+The feedback from my talk was amazing! Also, I made my first commit (and I do hope not my last) to Russell's Batavia project. It was small, but I got to ring the gong at the DjangoCon Europe sprint. 
+
 3/22/16
 --- 
 Today, I've been married for two years. Marriage is hard but wonderful, and I'm feeling so lucky to have the partner I do.  
