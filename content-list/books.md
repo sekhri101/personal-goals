@@ -7,6 +7,7 @@ See [my Goodreads profile](https://www.goodreads.com/user/show/3754255-lacey) fo
 - [ ] The Checklist Manifesto -- Atul Gawande 
 - [ ] A Shore Thing -- Snookie (for book club) 
 - [ ] An Ember in the Ashes -- Sabaa Tahir (for book club) 
+- [ ] [Harry Potter and the Methods of Rationality](http://hpmor.com/)
 
 ## To Finish Reading
 
