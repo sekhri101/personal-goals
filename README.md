@@ -16,37 +16,28 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. Learning: Python, Django, Spanish
 3. Improve impostor syndrome
 
-## March 28, 2016
+## April 4, 2016
 
-### This Week's Focus: Be in the moment :clock:
+### This Week's Focus:  Develop a routine :clipboard:
 
-### Things I'll Do This Week
-
-- [x] :zap: Finish DjangoCon Europe talk and script 
-- [ ] :microphone: Rehearse talk 
-- [x] :envelope: Keep up with email 
-- [ ] :deciduous_tree: Complete Treehouse project on time 
-- [ ] :european_castle: Tour Vienna 
-  - [x] :church: St. Stephen's Cathedral 
-  - [x] :european_castle: Schönbrunn Palace
-  - [x] :wine_glass: Dine at a Heuriger 
-  - [ ] :pig: Dine at that place D told me about 
-  - [x] :shoe: Do Vienna City Walk
-  - [x] :musical_score: Hear choral music 
-- [ ] :fountain: Tour Budapest 
-  - [ ] :bath: Visit a thermal bath 
-  - [ ] :fork_and_knife: Speaker dinner 
-  - [ ] :sparkles: Django Girls dinner 
-  - [ ] :shoe: Do at least one City Walk
-- [x] :massage: Practice solid self-care
+## Things I'll Do Next Week
+- [ ] :deciduous_tree: Finish Treehouse project 
+- [ ] :moneybag: Invoicing 
+- [ ] :bee: Make another commit to PyBee 
+- [ ] :baseball: Catch up on DjangoCon US stuff 
+- [ ] :mortar_board: Make very micro-level list of stuff to do for ATX 
+- [ ] :computer: Score Django Girls apps 
+- [ ] :money_with_wings: Prepare Django Girls sponsor presentation 
+- [ ] :package: Send address to Ola for stickers  
+- [ ] :thought_balloon: Storify the feedback from my talk and save it somewhere. 
 
 ### Weekly Goals 
 
-- [ ] ~~:house: Daily misc. housekeeping~~
-- [ ] ~~:smiley_cat: Daily misc. cat chores~~
-- [x] :shoe: Exercise (150 minutes/week) 
+- [ ] :house: Daily misc. housekeeping
+- [ ] :smiley_cat: Daily misc. cat chores
+- [ ] :shoe: Exercise (150 minutes/week) 
 - [ ] :cyclone: Meditation (30 minutes/week) 
-- [ ] ~~:fork_and_knife: Meal planning~~
+- [ ] :fork_and_knife: Meal planning
 - [ ] :moneybag: Monitor accounts 
 
 ### Other things I did 
@@ -70,7 +61,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] January 30, 2016: :microphone: [PyLadies presentation](https://www.youtube.com/watch?v=OAQAXVU1jIo)
 - [x] February 5-6, 2016: :computer: [Django Girls workshop](https://djangogirls.org/portland/)
 - [x] March 17-21, 2016: :ski: Ski trip 
-- [ ] **March 26-April 3, 2016: :european_castle: [DjangoCon Europe](https://djangocon.eu/) presentation in Budapest. Side trip to Vienna.**
+- [x] March 26-April 3, 2016: :european_castle: [DjangoCon Europe](https://djangocon.eu/) presentation in Budapest. Side trip to Vienna.
 - [ ] April 20, 2016: :european_castle: [Refresh PDX presentation](http://rfrshpdx.org/jane-austen-on-python-tips-from-an-english-major-on-writing-better-code/)
 - [ ] May 21, 2016: :mortar_board: Youngest sister's college graduation. Possible side trip to Austin. 
 - [ ] May 27-June 1, 2016: :love_letter: [Django Girls workshop](https://djangogirls.org/pycon/) at PyCon; booth at PyCon
