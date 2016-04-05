@@ -45,6 +45,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - :handbag: Unpacked the day I got home 
 - :telephone: Talked to my dad 
 - :alien: Posted the DjangoCon CFP on Reddit
+- :curry: Rescheduled dinner with Rachel 
+- :tulip: Scheduled dinner with Eli 
 
 
 ### Side Projects & Other Goals
