@@ -24,8 +24,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :deciduous_tree: Finish Treehouse project 
 - [ ] :moneybag: Invoicing 
 - [ ] :bee: Make another commit to PyBee 
-- [ ] :baseball: Catch up on DjangoCon US stuff 
-- [ ] :mortar_board: Make very micro-level list of stuff to do for ATX 
+- [x] :baseball: Catch up on DjangoCon US stuff 
+- [x] :mortar_board: Make very micro-level list of stuff to do for ATX 
 - [ ] :computer: Score Django Girls apps 
 - [ ] :money_with_wings: Prepare Django Girls sponsor presentation 
 - [ ] :package: Send address to Ola for stickers  
@@ -41,6 +41,10 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :moneybag: Monitor accounts 
 
 ### Other things I did 
+- :clipboard: Trello'd all the things 
+- :handbag: Unpacked the day I got home 
+- :telephone: Talked to my dad 
+- :alien: Posted the DjangoCon CFP on Reddit
 
 
 ### Side Projects & Other Goals
@@ -62,7 +66,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] February 5-6, 2016: :computer: [Django Girls workshop](https://djangogirls.org/portland/)
 - [x] March 17-21, 2016: :ski: Ski trip 
 - [x] March 26-April 3, 2016: :european_castle: [DjangoCon Europe](https://djangocon.eu/) presentation in Budapest. Side trip to Vienna.
-- [ ] April 20, 2016: :european_castle: [Refresh PDX presentation](http://rfrshpdx.org/jane-austen-on-python-tips-from-an-english-major-on-writing-better-code/)
+- [ ] April 20, 2016: :books: [Refresh PDX presentation](http://rfrshpdx.org/jane-austen-on-python-tips-from-an-english-major-on-writing-better-code/)
 - [ ] May 21, 2016: :mortar_board: Youngest sister's college graduation. Possible side trip to Austin. 
 - [ ] May 27-June 1, 2016: :love_letter: [Django Girls workshop](https://djangogirls.org/pycon/) at PyCon; booth at PyCon
 - [ ] June 26-28: :tent: Camping trip with S 
