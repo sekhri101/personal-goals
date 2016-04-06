@@ -6,6 +6,7 @@
 - [Schemas for the Real World](https://www.youtube.com/watch?v=PYYfVqtcWQY), Carina C. Zona 
 
 ## Diversity 
+- [Addressing the Pay Discrepancy in Tech](https://www.youtube.com/watch?v=oNN0EjJ6o90&list=PLB1PViL_KEtc0yNMpoKTOJnnVMv0MLIwB&index=2), Tracy Osborn
 - [How Our Engineering Environments are Killing Diversity](https://www.youtube.com/watch?v=kNke_4WOWAU), Kate Heddleston
 - ["Mediocre Programmer" PyCon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE), Jacob Kaplan-Moss 
 
@@ -14,6 +15,7 @@
 - [Making Django Really, Really, Ridiculously Secure](https://www.youtube.com/watch?v=H2llNbMe-V4&list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t&index=37), Kelsey Gilmore-Innis 
 - [Minimum Viable Security](https://www.youtube.com/watch?v=r-fjUVMPidk&index=17&list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t), Jacob Kaplan-Moss
 - [Red User, Blue User, MyUser, auth.User](https://www.youtube.com/watch?v=KHg6AoExYjs), Russell Keith-Magee 
+- [Small Shop, Big Solutions: Django and Long-Term Thinking](https://www.youtube.com/watch?v=ghTNAzTOR3o&list=PL38C6768951A6529C&index=9), Ben Keating. (This is a gorgeous talk about The Long Now and a clock that will run for 10,000 years.)
 - [TDD with Django, from scratch](https://www.youtube.com/watch?v=vQjmz9wCjLA), Harry Percival 
 
 ## Mental Health 
@@ -23,6 +25,7 @@
 
 ## Misc 
 - [Bake the Cookies, Wear the Dress: Bringing Confident Authenticity to your Tech Talk](https://www.youtube.com/watch?v=gtsZJpzOuFQ), Adrienne Lowe
+- [Get Off the Bench: Making the Leap from User to Contributor](http://pyvideo.org/video/1409/get-off-the-bench-making-the-leap-from-user-to-c), Russell Keith-Magee 
 - [How to Give a Lightning Talk](https://t.co/vnrflmIioM), Trey Hunner
 - [Technical Debt: The Code Monster in Everyone's Closet](https://www.youtube.com/watch?v=T5CjkpiouOw), Nina Zakharenko
 - [Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s), Sasha Laundy
