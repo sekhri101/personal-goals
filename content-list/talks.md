@@ -1,0 +1,34 @@
+# Talks about Tech that I like 
+
+## Accessibility/Usability
+- [Consequences of an Insightful Algorithm](https://www.youtube.com/watch?v=5e-mZnYAih8&list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t&index=45), Carina C. Zona
+- [How to Talk to Humans: A Different Approach to Soft Skills](https://www.youtube.com/watch?v=QrqiOsod6WI&index=30&list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t), Sharon Steed
+- [Schemas for the Real World](https://www.youtube.com/watch?v=PYYfVqtcWQY), Carina C. Zona 
+
+## Diversity 
+- [How Our Engineering Environments are Killing Diversity](https://www.youtube.com/watch?v=kNke_4WOWAU), Kate Heddleston
+- ["Mediocre Programmer" PyCon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE), Jacob Kaplan-Moss 
+
+## Django 
+- [Building a REST API Using Django and Django REST Framework](https://www.youtube.com/watch?v=PwssEec3IRw), Kenny Yarboro
+- [Making Django Really, Really, Ridiculously Secure](https://www.youtube.com/watch?v=H2llNbMe-V4&list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t&index=37), Kelsey Gilmore-Innis 
+- [Minimum Viable Security](https://www.youtube.com/watch?v=r-fjUVMPidk&index=17&list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t), Jacob Kaplan-Moss
+- [Red User, Blue User, MyUser, auth.User](https://www.youtube.com/watch?v=KHg6AoExYjs), Russell Keith-Magee 
+- [TDD with Django, from scratch](https://www.youtube.com/watch?v=vQjmz9wCjLA), Harry Percival 
+
+## Mental Health 
+- [I am a Doctor](https://www.youtube.com/watch?v=OC3v5uXR9Qc&list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t&index=24), Russell Keith-Magee 
+- [Things That Are Tired: Uggs, Segways, and You!](https://www.youtube.com/watch?v=WnCPT46tt6U&index=25&list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t), Barbara Shaurette 
+- [What Part of "... for life" Don't You Understand?](https://www.youtube.com/watch?v=EqcuzSwySR4&list=PLE7tQUdRKcyaj-yF7SCHpd1b45-LXcvft&index=1), Jacob Kaplan-Moss 
+
+## Misc 
+- [Bake the Cookies, Wear the Dress: Bringing Confident Authenticity to your Tech Talk](https://www.youtube.com/watch?v=gtsZJpzOuFQ), Adrienne Lowe
+- [How to Give a Lightning Talk](https://t.co/vnrflmIioM), Trey Hunner
+- [Technical Debt: The Code Monster in Everyone's Closet](https://www.youtube.com/watch?v=T5CjkpiouOw), Nina Zakharenko
+- [Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s), Sasha Laundy
+- [Your First Conference Proposal!](https://www.youtube.com/watch?v=OAQAXVU1jIo), Lacey Williams Henschel (yes, this is my own talks. but it was really good, I swear.)
+
+## Python
+- [Python List Comprehensions](https://www.youtube.com/watch?v=u-mhKtC1Xh4), Trey Hunner
+- ["Words, Words, Words": Reading Shakespeare with Python](https://www.youtube.com/watch?v=EoWG0lavg9U), Adam Palay
+
