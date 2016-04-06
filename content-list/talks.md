@@ -8,6 +8,7 @@
 ## Diversity 
 - [Addressing the Pay Discrepancy in Tech](https://www.youtube.com/watch?v=oNN0EjJ6o90&list=PLB1PViL_KEtc0yNMpoKTOJnnVMv0MLIwB&index=2), Tracy Osborn
 - [How Our Engineering Environments are Killing Diversity](https://www.youtube.com/watch?v=kNke_4WOWAU), Kate Heddleston
+- [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM&list=PL38C6768951A6529C&index=21), Kathy Sierra 
 - ["Mediocre Programmer" PyCon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE), Jacob Kaplan-Moss 
 
 ## Django 

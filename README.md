@@ -26,10 +26,10 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :bee: Make another commit to PyBee 
 - [x] :baseball: Catch up on DjangoCon US stuff 
 - [x] :mortar_board: Make very micro-level list of stuff to do for ATX 
-- [ ] :computer: Score Django Girls apps 
 - [ ] :money_with_wings: Prepare Django Girls sponsor presentation 
-- [ ] :package: Send address to Ola for stickers  
+- [x] :package: Send address to Ola for stickers  
 - [ ] :thought_balloon: Storify the feedback from my talk and save it somewhere. 
+- :zap: Harry Potter and Blue Apron with S 
 
 ### Weekly Goals 
 
@@ -47,6 +47,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - :alien: Posted the DjangoCon CFP on Reddit
 - :curry: Rescheduled dinner with Rachel 
 - :tulip: Scheduled dinner with Eli 
+- :baby: Arranged childcare for DGPDX 
+- :calendar: Scheduled next DCUS organizers meeting, created meeting agends 
 
 
 ### Side Projects & Other Goals
