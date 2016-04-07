@@ -23,10 +23,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll Do Next Week
 - [ ] :deciduous_tree: Finish Treehouse project 
 - [ ] :moneybag: Invoicing 
-- [ ] :bee: Make another commit to PyBee 
 - [x] :baseball: Catch up on DjangoCon US stuff 
 - [x] :mortar_board: Make very micro-level list of stuff to do for ATX 
-- [ ] :money_with_wings: Prepare Django Girls sponsor presentation 
+- [x] :money_with_wings: Prepare Django Girls sponsor presentation (asked someone else to do this
 - [x] :package: Send address to Ola for stickers  
 - [ ] :thought_balloon: Storify the feedback from my talk and save it somewhere. 
 - :zap: Harry Potter and Blue Apron with S 
@@ -36,6 +35,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :house: Daily misc. housekeeping
 - [ ] :smiley_cat: Daily misc. cat chores
 - [ ] :shoe: Exercise (150 minutes/week) 
+  - [x] 20 min. 4/5/16
 - [ ] :cyclone: Meditation (30 minutes/week) 
 - [ ] :fork_and_knife: Meal planning
 - [ ] :moneybag: Monitor accounts 
@@ -46,9 +46,10 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - :telephone: Talked to my dad 
 - :alien: Posted the DjangoCon CFP on Reddit
 - :curry: Rescheduled dinner with Rachel 
-- :tulip: Scheduled dinner with Eli 
+- :pizza: Scheduled and ate dinner with Eli 
 - :baby: Arranged childcare for DGPDX 
 - :calendar: Scheduled next DCUS organizers meeting, created meeting agends 
+- :book: Started reading The Checklist Manifesto, and really didn't want to put it down
 
 
 ### Side Projects & Other Goals
@@ -71,7 +72,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] March 17-21, 2016: :ski: Ski trip 
 - [x] March 26-April 3, 2016: :european_castle: [DjangoCon Europe](https://djangocon.eu/) presentation in Budapest. Side trip to Vienna.
 - [ ] April 20, 2016: :books: [Refresh PDX presentation](http://rfrshpdx.org/jane-austen-on-python-tips-from-an-english-major-on-writing-better-code/)
-- [ ] May 21, 2016: :mortar_board: Youngest sister's college graduation. Possible side trip to Austin. 
+- [ ] May 6-8, 2016: :couple: Julie and Jeff visting
+- [ ] May 21, 2016: :mortar_board: Youngest sister's college graduation. 
 - [ ] May 27-June 1, 2016: :love_letter: [Django Girls workshop](https://djangogirls.org/pycon/) at PyCon; booth at PyCon
 - [ ] June 26-28: :tent: Camping trip with S 
 - [ ] July 17-22, 2016: :baseball: [DjangoCon US](https://2016.djangocon.us/) 
