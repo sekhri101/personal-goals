@@ -27,7 +27,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] :mortar_board: Make very micro-level list of stuff to do for ATX 
 - [x] :money_with_wings: Prepare Django Girls sponsor presentation (asked someone else to do this
 - [x] :package: Send address to Ola for stickers  
-- [ ] :thought_balloon: Storify the feedback from my talk and save it somewhere. 
+- [x] :thought_balloon: Storify the feedback from my talk and save it somewhere. [Storify](https://storify.com/laceynwilliams/getting-started)
 - [ ] :zap: Harry Potter and Blue Apron with S 
 
 ### Weekly Goals 

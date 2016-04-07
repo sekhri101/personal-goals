@@ -36,3 +36,6 @@
 - [Python List Comprehensions](https://www.youtube.com/watch?v=u-mhKtC1Xh4), Trey Hunner
 - ["Words, Words, Words": Reading Shakespeare with Python](https://www.youtube.com/watch?v=EoWG0lavg9U), Adam Palay
 
+# My Own Talks
+
+- [Storify of feedback](https://storify.com/laceynwilliams/getting-started) from "Hermione Granger and the Wizard Information System"
