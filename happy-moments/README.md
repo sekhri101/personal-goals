@@ -1,5 +1,9 @@
 # Happy Moments
 
+4/6/16
+--- 
+A colleague and I had a meeting about a project we are both working on that we are really nervous about, and he said to me, "You know, sometimes I get really scared that we're just going to fail. But then I feel better because you and [other coworker] are really smart, so we'll be okay." This colleague is really senior compared to me, so it meant a lot to hear that from him! 
+
 4/2/16
 --- 
 The feedback from my talk was amazing! Also, I made my first commit (and I do hope not my last) to Russell's Batavia project. It was small, but I got to ring the gong at the DjangoCon Europe sprint. 
