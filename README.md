@@ -50,6 +50,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - :baby: Arranged childcare for DGPDX 
 - :calendar: Scheduled next DCUS organizers meeting, created meeting agends 
 - :book: Started reading The Checklist Manifesto, and really didn't want to put it down
+- :love_letter: Sent a happiness packet! 
 
 
 ### Side Projects & Other Goals
