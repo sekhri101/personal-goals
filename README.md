@@ -28,7 +28,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] :money_with_wings: Prepare Django Girls sponsor presentation (asked someone else to do this
 - [x] :package: Send address to Ola for stickers  
 - [ ] :thought_balloon: Storify the feedback from my talk and save it somewhere. 
-- :zap: Harry Potter and Blue Apron with S 
+- [ ] :zap: Harry Potter and Blue Apron with S 
 
 ### Weekly Goals 
 
