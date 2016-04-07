@@ -1,4 +1,5 @@
 # Today I Learned (TIL)
+- **4/6/16**: [How to generate a requirements.txt file](http://www.idiotinside.com/2015/05/10/python-auto-generate-requirements-txt/)
 - **3/9/16**: That flowcharting is an excellent way to begin the refactoring process. Combining two functions into one was made so much easier by starting with design. 
 
 # Stuff I want to learn 
