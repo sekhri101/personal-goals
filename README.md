@@ -21,24 +21,24 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### This Week's Focus:  Develop a routine :clipboard:
 
 ## Things I'll Do Next Week
-- [ ] :deciduous_tree: Finish Treehouse project 
-- [ ] :moneybag: Invoicing 
+- [ ] :deciduous_tree: Finish Treehouse project - not finished but progress has been made! 
 - [x] :baseball: Catch up on DjangoCon US stuff 
 - [x] :mortar_board: Make very micro-level list of stuff to do for ATX 
-- [x] :money_with_wings: Prepare Django Girls sponsor presentation (asked someone else to do this
+- [x] :money_with_wings: Prepare Django Girls sponsor presentation 
 - [x] :package: Send address to Ola for stickers  
 - [x] :thought_balloon: Storify the feedback from my talk and save it somewhere. [Storify](https://storify.com/laceynwilliams/getting-started)
-- [ ] :zap: Harry Potter and Blue Apron with S 
+- [x] :zap: Harry Potter and Blue Apron with S 
 
 ### Weekly Goals 
 
 - [ ] :house: Daily misc. housekeeping
-- [ ] :smiley_cat: Daily misc. cat chores
+- [x] :smiley_cat: Daily misc. cat chores
 - [ ] :shoe: Exercise (150 minutes/week) 
   - [x] 20 min. 4/5/16
+  - [x] 10 min. 4/7/16
 - [ ] :cyclone: Meditation (30 minutes/week) 
-- [ ] :fork_and_knife: Meal planning
-- [ ] :moneybag: Monitor accounts 
+- [x] :fork_and_knife: Meal planning
+- [x] :moneybag: Monitor accounts 
 
 ### Other things I did 
 - :clipboard: Trello'd all the things 
@@ -51,11 +51,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - :calendar: Scheduled next DCUS organizers meeting, created meeting agends 
 - :book: Started reading The Checklist Manifesto, and really didn't want to put it down
 - :love_letter: Sent a happiness packet! 
+- :tent: Registered for the Girl Scout camping trip! 
 
 
 ### Side Projects & Other Goals
 
 - [ ] :house: House: Organize guest room closet
+- [ ] :pouting_cat: Get the carpet cleaned 
 - [ ] :computer: Make a commit to the Django source code 
 - [ ] :wrench: Give a technical talk 
 - [ ] :dancers: Learn more about user experience, conducting user research, writing personas, etc. 
