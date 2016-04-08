@@ -1,5 +1,9 @@
 # Happy Moments
 
+4/7/16
+--- 
+I received a :love_letter: happiness packet today :heart:
+
 4/6/16
 --- 
 A colleague and I had a meeting about a project we are both working on that we are really nervous about, and he said to me, "You know, sometimes I get really scared that we're just going to fail. But then I feel better because you and [other coworker] are really smart, so we'll be okay." This colleague is really senior compared to me, so it meant a lot to hear that from him! 
