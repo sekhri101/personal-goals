@@ -18,40 +18,35 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## April 4, 2016
 
-### This Week's Focus:  Develop a routine :clipboard:
+### This Week's Focus:  WWAFWD? :bouquet: 
 
-## Things I'll Do Next Week
-- [ ] :deciduous_tree: Finish Treehouse project - not finished but progress has been made! 
-- [x] :baseball: Catch up on DjangoCon US stuff 
-- [x] :mortar_board: Make very micro-level list of stuff to do for ATX 
-- [x] :money_with_wings: Prepare Django Girls sponsor presentation 
-- [x] :package: Send address to Ola for stickers  
-- [x] :thought_balloon: Storify the feedback from my talk and save it somewhere. [Storify](https://storify.com/laceynwilliams/getting-started)
-- [x] :zap: Harry Potter and Blue Apron with S 
+What would a French woman do? I recently read Bringing Up Bebe (just for fun; there is not :bread: in any ovens) and the author made a lot of excellent points regarding the French *cadre*. French home life is very strict about some things, and within that frame, things are very loose. I'd like to take this week to experiment with that in my own life. 
+
+## Things I'll Do This Week
+- [ ] :pig: Spiced Pork Chops and Mashed Potatoes 
+- [ ] :rooster: Roasted Chicken and Mixed Mushrooms 
+- [ ] :spaghetti: Spring Gemelli Pasta 
+- [ ] :bell: DCUS orgaizer's meeting 
+- [ ] :mortar_board: GSIT Sprint planning 
+- [ ] :computer: ATX Add international contact 
+- [ ] :white_check_mark: ATX HB 4046 
+- [ ] :email: Contact S about next outing 
+- [ ] :deciduous_tree: Finish Treehouse project
+- [ ] :email: Invoicing 
+- [ ] :man: Buy frames for Dad's birthday 
+- [ ] :package: Order photos to go in frames 
+- 
 
 ### Weekly Goals 
 
 - [ ] :house: Daily misc. housekeeping
-- [x] :smiley_cat: Daily misc. cat chores
+- [ ] :smiley_cat: Daily misc. cat chores
 - [ ] :shoe: Exercise (150 minutes/week) 
-  - [x] 20 min. 4/5/16
-  - [x] 10 min. 4/7/16
 - [ ] :cyclone: Meditation (30 minutes/week) 
-- [x] :fork_and_knife: Meal planning
-- [x] :moneybag: Monitor accounts 
+- [ ] :fork_and_knife: Meal planning
+- [ ] :moneybag: Monitor accounts 
 
 ### Other things I did 
-- :clipboard: Trello'd all the things 
-- :handbag: Unpacked the day I got home 
-- :telephone: Talked to my dad 
-- :alien: Posted the DjangoCon CFP on Reddit
-- :curry: Rescheduled dinner with Rachel 
-- :pizza: Scheduled and ate dinner with Eli 
-- :baby: Arranged childcare for DGPDX 
-- :calendar: Scheduled next DCUS organizers meeting, created meeting agends 
-- :book: Started reading The Checklist Manifesto, and really didn't want to put it down
-- :love_letter: Sent a happiness packet! 
-- :tent: Registered for the Girl Scout camping trip! 
 
 
 ### Side Projects & Other Goals
@@ -76,17 +71,17 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] March 26-April 3, 2016: :european_castle: [DjangoCon Europe](https://djangocon.eu/) presentation in Budapest. Side trip to Vienna.
 - [ ] April 20, 2016: :books: [Refresh PDX presentation](http://rfrshpdx.org/jane-austen-on-python-tips-from-an-english-major-on-writing-better-code/)
 - [ ] May 6-8, 2016: :couple: Julie and Jeff visting
-- [ ] May 21, 2016: :mortar_board: Youngest sister's college graduation. 
+- [ ] May 21, 2016: :star2: Trip to Texas to visit family 
 - [ ] May 27-June 1, 2016: :love_letter: [Django Girls workshop](https://djangogirls.org/pycon/) at PyCon; booth at PyCon
+- [ ] June 17-19: :woman: Mom visiting me 
 - [ ] June 26-28: :tent: Camping trip with S 
 - [ ] July 17-22, 2016: :baseball: [DjangoCon US](https://2016.djangocon.us/) 
 - [ ] September 17-24, 2016: :tropical_fish: Snorkeling trip to Cozumel 
 - [ ] November 4-6, 2016: :bride_with_veil: :bride_with_veil: Wedding in New Orleans
+- [ ] TBD: :mortar_board: Youngest sister's college graduation. 
 - [ ] TBD: :football: Trip to Alabama to see an Auburn game 
-- [ ] TBD: :star2: Trip to Texas to visit family 
 - [ ] TBD: :cow: Trip to Oklahoma to visit Dad 
-- [ ] TBD: :sunrise_over_mountains: Trip to New Mexico to visit Dad (may need to wait for 2017) 
-- [ ] TBD: :woman: Mom visiting me 
+- [ ] TBD: :sunrise_over_mountains: Trip to Colorado to visit Dad (maybe for sister's graduation?) 
 - [ ] TBD: :jack_o_lantern: Little sister and brother-in-law visiting me (possibly for Pumpkin Regatta)
 - [ ] TBD: :tent: Camping trip to Olympic National Park 
 
