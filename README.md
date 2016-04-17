@@ -56,6 +56,7 @@ This week, I'm going to experiment with writing checklists for various parts of 
 - [ ] :cyclone: Meditation (30 minutes/week) 
 - [ ] :fork_and_knife: Meal planning
 - [ ] :moneybag: Monitor accounts 
+- [ ] :love_letter: Send a [Happiness Packet](https://www.happinesspackets.io)
 
 ### Other things I did 
 
