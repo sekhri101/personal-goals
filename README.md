@@ -40,7 +40,7 @@ This week, I'm going to experiment with writing checklists for various parts of 
 - [ ] :microphone: Give Refresh PDX presentation 
 - [ ] :pencil2: Review all DjangoCon talks and tutorials 
 - [ ] :love_letter: Email potential DGPDX sponsors 
-- [ ] :love_letter: Put living room furniture back where it goes 
+- [ ] :house_with_garden: Put living room furniture back where it goes 
 - [ ] :alarm_clock: Schedule local and international Django Girls tweets and Facebook posts 
 - [ ] :ski: Go skiing 
 - [ ] :ramen: Dinner with Rachel 
