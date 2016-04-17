@@ -2,6 +2,7 @@
 
 # Lists of things 
 
+- [Articles](./articles.md)
 - [Talks](./talks.md)
 - [Television Shows](./television.md)
 - [Travel/Packing List](./travel.md) 
