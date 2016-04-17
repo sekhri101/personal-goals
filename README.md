@@ -16,27 +16,36 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. Learning: Python, Django, Spanish
 3. Improve impostor syndrome
 
-## April 4, 2016
+## April 17-23, 2016
 
-### This Week's Focus:  WWAFWD? :bouquet: 
+### This Week's Focus: :white_check_mark: Checklist Manifesto All the Things 
 
-What would a French woman do? I recently read Bringing Up Bebe (just for fun; there is not :bread: in any ovens) and the author made a lot of excellent points regarding the French *cadre*. French home life is very strict about some things, and within that frame, things are very loose. I'd like to take this week to experiment with that in my own life. 
+I didn't have a lot of success with WWAFWD. I took the 
 
 ## Things I'll Do This Week
-- [ ] :pig: Spiced Pork Chops and Mashed Potatoes 
+
 - [ ] :rooster: Roasted Chicken and Mixed Mushrooms 
-- [ ] :spaghetti: Spring Gemelli Pasta 
-- [ ] :bell: DCUS orgaizer's meeting 
+- [ ] :spaghetti: Spring Gemelli Pasta
+- [ ] :fish: BBQ-Spiced Salmon & Roasted Sweet Potato Rounds
 - [ ] :mortar_board: GSIT Sprint planning 
 - [ ] :computer: ATX Add international contact 
 - [ ] :white_check_mark: ATX HB 4046 
-- [ ] :email: Contact S about next outing 
 - [ ] :deciduous_tree: Finish Treehouse project
 - [ ] :email: Invoicing 
-- [ ] :man: Buy frames for Dad's birthday 
-- [ ] :package: Order photos to go in frames 
-- 
-
+- [ ] :package: Order photos to go in frames
+- [ ] :cat2: Change cat litter 
+- [ ] :computer: Practice for Refresh PDX presentation
+- [ ] :microphone: Give Refresh PDX presentation 
+- [ ] :pencil2: Review all DjangoCon talks and tutorials 
+- [ ] :love_letter: Email potential DGPDX sponsors 
+- [ ] :love_letter: Put living room furniture back where it goes 
+- [ ] :alarm_clock: Schedule local and international Django Girls tweets and Facebook posts 
+- [ ] :ski: Go skiing 
+- [ ] :ramen: Dinner with Rachel 
+- [ ] :wine_glass: Seder with Josh 
+- [ ] :apple: Snow White with S 
+- [ ] :computer: Make website with S 
+ 
 ### Weekly Goals 
 
 - [ ] :house: Daily misc. housekeeping
@@ -52,12 +61,12 @@ What would a French woman do? I recently read Bringing Up Bebe (just for fun; th
 ### Side Projects & Other Goals
 
 - [ ] :house: House: Organize guest room closet
-- [ ] :pouting_cat: Get the carpet cleaned 
+- [x] :pouting_cat: Get the carpet cleaned 
 - [ ] :computer: Make a commit to the Django source code 
 - [ ] :wrench: Give a technical talk 
 - [ ] :dancers: Learn more about user experience, conducting user research, writing personas, etc. 
 - [ ] :globe_with_meridians: Build my own website
-- [ ] :syringe: Get checkups/vaccinations for the cats 
+- [x] :syringe: Get checkups/vaccinations for the cats 
 - [ ] :credit_card: Pay off credit card 
 - [ ] :older_woman: Write a bot for Slack 
 - [ ] [Apps & Other Projects](ideas/app-ideas.md)
@@ -69,7 +78,7 @@ What would a French woman do? I recently read Bringing Up Bebe (just for fun; th
 - [x] February 5-6, 2016: :computer: [Django Girls workshop](https://djangogirls.org/portland/)
 - [x] March 17-21, 2016: :ski: Ski trip 
 - [x] March 26-April 3, 2016: :european_castle: [DjangoCon Europe](https://djangocon.eu/) presentation in Budapest. Side trip to Vienna.
-- [ ] April 20, 2016: :books: [Refresh PDX presentation](http://rfrshpdx.org/jane-austen-on-python-tips-from-an-english-major-on-writing-better-code/)
+- [ ] **April 20, 2016**: :books: [Refresh PDX presentation](http://rfrshpdx.org/jane-austen-on-python-tips-from-an-english-major-on-writing-better-code/)
 - [ ] May 6-8, 2016: :couple: Julie and Jeff visting
 - [ ] May 21, 2016: :star2: Trip to Texas to visit family 
 - [ ] May 27-June 1, 2016: :love_letter: [Django Girls workshop](https://djangogirls.org/pycon/) at PyCon; booth at PyCon
