@@ -20,7 +20,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### This Week's Focus: :white_check_mark: Checklist Manifesto All the Things 
 
-I didn't have a lot of success with WWAFWD. I took the 
+I didn't have a lot of success with :fr: WWAFWD. It was also a really rough week. I'm still not getting exercise as regularly as I would like to. Oddly, I also want to replace my FitBit, which I never really wore anyway. Maybe I should get one of the bracelet ones, as opposed to the ones you clip onto your bra or to your pocket? 
+
+This week, I'm going to experiment with writing checklists for various parts of my day in an effort to have more balance and make progress on the things I want to make progress on. We'll see how that goes. What I'm doing is only semi-working for me right now. Time to iterate! 
 
 ## Things I'll Do This Week
 
