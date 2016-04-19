@@ -27,9 +27,9 @@ This week, I'm going to experiment with writing checklists for various parts of 
 ## Things I'll Do This Week
 
 - [ ] :rooster: Roasted Chicken and Mixed Mushrooms 
-- [ ] :spaghetti: Spring Gemelli Pasta
+- [x] :spaghetti: Spring Gemelli Pasta - delicious. I should put sugar snap peas in pasta more often. 
 - [ ] :fish: BBQ-Spiced Salmon & Roasted Sweet Potato Rounds
-- [ ] :mortar_board: GSIT Sprint planning 
+- [x] :mortar_board: GSIT Sprint planning 
 - [ ] :computer: ATX Add international contact 
 - [ ] :white_check_mark: ATX HB 4046 
 - [ ] :deciduous_tree: Finish Treehouse project
@@ -39,7 +39,7 @@ This week, I'm going to experiment with writing checklists for various parts of 
 - [ ] :computer: Practice for Refresh PDX presentation
 - [ ] :microphone: Give Refresh PDX presentation 
 - [ ] :pencil2: Review all DjangoCon talks and tutorials 
-- [ ] :love_letter: Email potential DGPDX sponsors 
+- [x] :love_letter: Email potential DGPDX sponsors 
 - [ ] :house_with_garden: Put living room furniture back where it goes 
 - [ ] :alarm_clock: Schedule local and international Django Girls tweets and Facebook posts 
 - [ ] :ski: Go skiing 
@@ -54,12 +54,15 @@ This week, I'm going to experiment with writing checklists for various parts of 
 - [ ] :smiley_cat: Daily misc. cat chores
 - [ ] :shoe: Exercise (150 minutes/week) 
 - [ ] :cyclone: Meditation (30 minutes/week) 
-- [ ] :fork_and_knife: Meal planning
-- [ ] :moneybag: Monitor accounts 
-- [ ] :love_letter: Send a [Happiness Packet](https://www.happinesspackets.io)
+- [x] :fork_and_knife: Meal planning
+- [x] :moneybag: Monitor accounts 
+- [x] :love_letter: Send a [Happiness Packet](https://www.happinesspackets.io)
 
 ### Other things I did 
 
+- [x] :pill: Filled Baxter's new medication. 0.5 ml 1x/day in the morning; keep in fridge and shake well. 
+- [x] :shoe: Ordered a new FitBit, since I lost my old one in Europe 
+- [x] :womans_clothes: Did some successful online shopping 
 
 ### Side Projects & Other Goals
 
