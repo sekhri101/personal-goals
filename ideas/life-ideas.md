@@ -5,9 +5,9 @@
 - [ ] :droplet: Daily water intake of 60 ounces
 - [ ] :coffee: Decrease the amount of sugar in my coffee to 1 tsp. 
 - [ ] Start weightlifting again 3 times a week 
-- [ ] :wine_glass: Weekly date night 
-- [ ] Set new weight goals
-- [ ] :dollar: Automate savings 
+- [x] :wine_glass: Weekly date night 
+- [x] Set new weight goals
+- [x] :dollar: Automate savings 
 - [ ] Deadlift body weight 
 - [ ] Squat bodyweight 
 - [ ] :ski: Ski blues comfortably 

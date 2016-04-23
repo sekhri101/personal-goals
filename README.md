@@ -26,7 +26,7 @@ This week, I'm going to experiment with writing checklists for various parts of 
 
 ## Things I'll Do This Week
 
-- [ ] :rooster: Roasted Chicken and Mixed Mushrooms 
+- [x] :rooster: Roasted Chicken and Mixed Mushrooms 
 - [x] :spaghetti: Spring Gemelli Pasta - delicious. I should put sugar snap peas in pasta more often. 
 - [ ] :fish: BBQ-Spiced Salmon & Roasted Sweet Potato Rounds
 - [x] :mortar_board: GSIT Sprint planning 
@@ -34,25 +34,24 @@ This week, I'm going to experiment with writing checklists for various parts of 
 - [ ] :white_check_mark: ATX HB 4046 
 - [ ] :deciduous_tree: Finish Treehouse project
 - [ ] :email: Invoicing 
-- [ ] :package: Order photos to go in frames
+- [x] :package: Order photos to go in frames
 - [ ] :cat2: Change cat litter 
-- [ ] :computer: Practice for Refresh PDX presentation
-- [ ] :microphone: Give Refresh PDX presentation 
-- [ ] :pencil2: Review all DjangoCon talks and tutorials 
+- [x] :computer: Practice for Refresh PDX presentation
+- [x] :microphone: Give Refresh PDX presentation 
+- [x] :pencil2: Review some DjangoCon talks and tutorials 
 - [x] :love_letter: Email potential DGPDX sponsors 
 - [ ] :house_with_garden: Put living room furniture back where it goes 
-- [ ] :alarm_clock: Schedule local and international Django Girls tweets and Facebook posts 
-- [ ] :ski: Go skiing 
+- [x] :alarm_clock: Schedule local and international Django Girls tweets and Facebook posts 
 - [ ] :ramen: Dinner with Rachel 
 - [ ] :wine_glass: Seder with Josh 
-- [ ] :apple: Snow White with S 
-- [ ] :computer: Make website with S 
+- [x] :apple: Snow White with S 
+- [x] :computer: Make website with S 
  
 ### Weekly Goals 
 
-- [ ] :house: Daily misc. housekeeping
-- [ ] :smiley_cat: Daily misc. cat chores
-- [ ] :shoe: Exercise (150 minutes/week) 
+- [x] :house: Daily misc. housekeeping
+- [x] :smiley_cat: Daily misc. cat chores
+- [x] :shoe: Exercise (150 minutes/week) 
 - [ ] :cyclone: Meditation (30 minutes/week) 
 - [x] :fork_and_knife: Meal planning
 - [x] :moneybag: Monitor accounts 
@@ -63,6 +62,12 @@ This week, I'm going to experiment with writing checklists for various parts of 
 - [x] :pill: Filled Baxter's new medication. 0.5 ml 1x/day in the morning; keep in fridge and shake well. 
 - [x] :shoe: Ordered a new FitBit, since I lost my old one in Europe 
 - [x] :womans_clothes: Did some successful online shopping 
+- [x] :speech_balloon: Learned stuff about leadership 
+- [x] :guitar: Bought a Prince "Greatest Hits" album, like millions of other people 
+- [x] :dress: Weighed in at a number I haven't seen in a year 
+- [x] :moneybag: Hit an important savings milestone 
+- [x] :phone: Left a message for my dad
+- [x] :book: Finished a book and started another one
 
 ### Side Projects & Other Goals
 
@@ -84,7 +89,7 @@ This week, I'm going to experiment with writing checklists for various parts of 
 - [x] February 5-6, 2016: :computer: [Django Girls workshop](https://djangogirls.org/portland/)
 - [x] March 17-21, 2016: :ski: Ski trip 
 - [x] March 26-April 3, 2016: :european_castle: [DjangoCon Europe](https://djangocon.eu/) presentation in Budapest. Side trip to Vienna.
-- [ ] **April 20, 2016**: :books: [Refresh PDX presentation](http://rfrshpdx.org/jane-austen-on-python-tips-from-an-english-major-on-writing-better-code/)
+- [x] April 20, 2016: :books: [Refresh PDX presentation](http://rfrshpdx.org/jane-austen-on-python-tips-from-an-english-major-on-writing-better-code/)
 - [ ] May 6-8, 2016: :couple: Julie and Jeff visting
 - [ ] May 21, 2016: :star2: Trip to Texas to visit family 
 - [ ] May 27-June 1, 2016: :love_letter: [Django Girls workshop](https://djangogirls.org/pycon/) at PyCon; booth at PyCon

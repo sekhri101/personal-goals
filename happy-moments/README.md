@@ -1,5 +1,19 @@
 # Happy Moments
 
+4/22/16
+--- 
+Made a website with S, which was awesome. It wasn't our whole outing, and she's only 8 so I don't think she would have had the patience for that. But we spent about 40 minutes between dinner and a play putting together a website to show off the photos from our BBBS photo scavenger hunt, and she had a basic grasp of CSS and how to change text and background colow by the end. She thoroughly enjoyed it. 
+
+Prince died yesterday, so on the way home I made her listen to some classics. She rated them as follows (on a scale of 1 to 10): 
+
+- Kiss: 5 
+- The Most Beautiful Girl in the World: 4 
+- When Doves Cry: 6 
+- Let's Go Crazy: 1 (but it was a live version and not recorded well, so this hardly counts)
+- Purple Rain: 3 
+
+I clearly have some work to do. 
+
 4/7/16
 --- 
 I received a :love_letter: happiness packet today :heart:
