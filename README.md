@@ -18,7 +18,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## April 24-30, 2016
 
-### This Week's Focus: 
+### This Week's Focus: :two_hearts: Have Empathy with Balance 
+
+I have not been as patient or understanding with people as I should be. I want to focus on taking a moment before I emotionally react to something to try to have empathy for that person or situation, and also to evaluate whether it should emotionally affect me. I react internally to a lot of things that don't need to have an emotional impact on me. I'd like to be less impacted by the things I'm involved in or that people tell me, while still being caring and empathetic. I hope this will lead to a calmer and happier Lacey. 
 
 ## Things I'll Do This Week
 
