@@ -16,58 +16,47 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. Learning: Python, Django, Spanish
 3. Improve impostor syndrome
 
-## April 17-23, 2016
+## April 24-30, 2016
 
-### This Week's Focus: :white_check_mark: Checklist Manifesto All the Things 
-
-I didn't have a lot of success with :fr: WWAFWD. It was also a really rough week. I'm still not getting exercise as regularly as I would like to. Oddly, I also want to replace my FitBit, which I never really wore anyway. Maybe I should get one of the bracelet ones, as opposed to the ones you clip onto your bra or to your pocket? 
-
-This week, I'm going to experiment with writing checklists for various parts of my day in an effort to have more balance and make progress on the things I want to make progress on. We'll see how that goes. What I'm doing is only semi-working for me right now. Time to iterate! 
+### This Week's Focus: 
 
 ## Things I'll Do This Week
 
-- [x] :rooster: Roasted Chicken and Mixed Mushrooms 
-- [x] :spaghetti: Spring Gemelli Pasta - delicious. I should put sugar snap peas in pasta more often. 
 - [ ] :fish: BBQ-Spiced Salmon & Roasted Sweet Potato Rounds
-- [x] :mortar_board: GSIT Sprint planning 
+- [ ] :rice: Korean Bao Sliders 
+- [ ] :chicken: Za'tar Chicken and Pearl Couscous 
+- [ ] :lemon: Creamy Lemon Pasta 
 - [ ] :computer: ATX Add international contact 
 - [ ] :white_check_mark: ATX HB 4046 
 - [ ] :deciduous_tree: Finish Treehouse project
 - [ ] :email: Invoicing 
-- [x] :package: Order photos to go in frames
-- [ ] :cat2: Change cat litter 
-- [x] :computer: Practice for Refresh PDX presentation
-- [x] :microphone: Give Refresh PDX presentation 
-- [x] :pencil2: Review some DjangoCon talks and tutorials 
-- [x] :love_letter: Email potential DGPDX sponsors 
 - [ ] :house_with_garden: Put living room furniture back where it goes 
-- [x] :alarm_clock: Schedule local and international Django Girls tweets and Facebook posts 
-- [ ] :ramen: Dinner with Rachel 
-- [ ] :wine_glass: Seder with Josh 
-- [x] :apple: Snow White with S 
-- [x] :computer: Make website with S 
+- [ ] :cat2: Change cat litter 
+- [ ] :camera: Photo Scavenger Hunt party with S 
+- [ ] :book: Finish Troublemaker 
+- [ ] :moneybag: Invoice DGPDX sponsors 
+- [ ] :pizza: Lunch with Kenneth 
+- [ ] :airplane: Book flight to Texas 
+- [ ] :package: Return clothes that don't work 
+- [ ] :bar_chart: Send GSIT sprint planning sheet to team, highlight ones they should focus on 
+- [ ] :computer: Send GSIT mockups to team, get their feedback 
+- [ ] :computer: Set up VPN already, and get JEdit plugin working 
  
 ### Weekly Goals 
 
-- [x] :house: Daily misc. housekeeping
-- [x] :smiley_cat: Daily misc. cat chores
-- [x] :shoe: Exercise (150 minutes/week) 
+- [ ] :house: Daily misc. housekeeping
+- [ ] :smiley_cat: Daily misc. cat chores
+- [ ] :shoe: Exercise (150 minutes/week) 
 - [ ] :cyclone: Meditation (30 minutes/week) 
-- [x] :fork_and_knife: Meal planning
-- [x] :moneybag: Monitor accounts 
-- [x] :love_letter: Send a [Happiness Packet](https://www.happinesspackets.io)
+- [ ] :fork_and_knife: Meal planning
+- [ ] :moneybag: Monitor accounts 
+- [ ] :love_letter: Send a [Happiness Packet](https://www.happinesspackets.io)
 
 ### Other things I did 
 
-- [x] :pill: Filled Baxter's new medication. 0.5 ml 1x/day in the morning; keep in fridge and shake well. 
-- [x] :shoe: Ordered a new FitBit, since I lost my old one in Europe 
-- [x] :womans_clothes: Did some successful online shopping 
-- [x] :speech_balloon: Learned stuff about leadership 
-- [x] :guitar: Bought a Prince "Greatest Hits" album, like millions of other people 
-- [x] :dress: Weighed in at a number I haven't seen in a year 
-- [x] :moneybag: Hit an important savings milestone 
-- [x] :phone: Left a message for my dad
-- [x] :book: Finished a book and started another one
+- [x] :church: Went to Mass to celebrate Capella's girls' first communion 
+- [x] :television: Started watching The Path. It was really good! 
+
 
 ### Side Projects & Other Goals
 
@@ -91,8 +80,8 @@ This week, I'm going to experiment with writing checklists for various parts of 
 - [x] March 26-April 3, 2016: :european_castle: [DjangoCon Europe](https://djangocon.eu/) presentation in Budapest. Side trip to Vienna.
 - [x] April 20, 2016: :books: [Refresh PDX presentation](http://rfrshpdx.org/jane-austen-on-python-tips-from-an-english-major-on-writing-better-code/)
 - [ ] May 6-8, 2016: :couple: Julie and Jeff visting
-- [ ] May 21, 2016: :star2: Trip to Texas to visit family 
-- [ ] May 27-June 1, 2016: :love_letter: [Django Girls workshop](https://djangogirls.org/pycon/) at PyCon; booth at PyCon
+- [ ] May 20-22, 2016: :star2: Adrienne visiting 
+- [ ] May 27-June 1, 2016: :love_letter: [Django Girls workshop](https://djangogirls.org/pycon/) at PyCon; booth at PyCon; Adrienne visiting 
 - [ ] June 17-19: :woman: Mom visiting me 
 - [ ] June 26-28: :tent: Camping trip with S 
 - [ ] July 17-22, 2016: :baseball: [DjangoCon US](https://2016.djangocon.us/) 
