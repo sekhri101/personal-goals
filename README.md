@@ -31,7 +31,7 @@ I have not been as patient or understanding with people as I should be. I want t
 - [ ] :computer: ATX Add international contact 
 - [ ] :white_check_mark: ATX HB 4046 
 - [x] :deciduous_tree: Finish Treehouse project
-- [ ] :email: Invoicing 
+- [x] :email: Invoicing 
 - [ ] :house_with_garden: Put living room furniture back where it goes 
 - [ ] :cat2: Change cat litter 
 - [ ] :camera: Photo Scavenger Hunt party with S 
@@ -61,6 +61,7 @@ I have not been as patient or understanding with people as I should be. I want t
 - [x] :television: Started watching The Path. It was really good! 
 - [x] :sparkle_heart: Resigned from something, to make more room for other things in my life 
 - [x] :fishing_pole_and_fish: Signed S and I up for some summer activities 
+- [x] :computer: Paired with someone on why my postgres environment is so weird. As of 4/26, no success yet, but we're close! Right? 
 
 
 ### Side Projects & Other Goals
