@@ -52,8 +52,8 @@ I have not been as patient or understanding with people as I should be. I want t
 - [ ] :shoe: Exercise (150 minutes/week) 
 - [ ] :cyclone: Meditation (30 minutes/week) 
 - [ ] :fork_and_knife: Meal planning
-- [ ] :moneybag: Monitor accounts 
-- [ ] :love_letter: Send a [Happiness Packet](https://www.happinesspackets.io)
+- [x] :moneybag: Monitor accounts 
+- [x] :love_letter: Send a [Happiness Packet](https://www.happinesspackets.io)
 
 ### Other things I did 
 
