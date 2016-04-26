@@ -1,5 +1,9 @@
 # Happy Moments
 
+4/25/16 
+--- 
+Finally got something off my plate that I've been working on for weeks, and that kept getting pushed down to the bottom. I also resigned from an organization that I love, but that I don't have time for. I feel good about that decision. And I worked from a pub close to my house, where I learned that I like lemon-ginger kombucha! :lemon:
+
 4/22/16
 --- 
 Made a website with S, which was awesome. It wasn't our whole outing, and she's only 8 so I don't think she would have had the patience for that. But we spent about 40 minutes between dinner and a play putting together a website to show off the photos from our BBBS photo scavenger hunt, and she had a basic grasp of CSS and how to change text and background colow by the end. She thoroughly enjoyed it. 
