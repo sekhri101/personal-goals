@@ -1,5 +1,9 @@
 # Happy Moments
 
+4/26/16
+--- 
+Katie wrote me an awesome recommendation on LinkedIn, and then I wrote a bunch of other people recommendations, and then I felt full of goodwill. 
+
 4/25/16 
 --- 
 Finally got something off my plate that I've been working on for weeks, and that kept getting pushed down to the bottom. I also resigned from an organization that I love, but that I don't have time for. I feel good about that decision. And I worked from a pub close to my house, where I learned that I like lemon-ginger kombucha! :lemon:
