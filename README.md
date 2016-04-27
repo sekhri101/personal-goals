@@ -35,7 +35,7 @@ I have not been as patient or understanding with people as I should be. I want t
 - [ ] :house_with_garden: Put living room furniture back where it goes 
 - [ ] :cat2: Change cat litter 
 - [ ] :camera: Photo Scavenger Hunt party with S 
-- [ ] :book: Finish Troublemaker 
+- [x] :book: Finish Troublemaker 
 - [x] :moneybag: Invoice DGPDX sponsors 
 - [ ] :pizza: Lunch with Kenneth 
 - [ ] :airplane: Book flight to Texas 
@@ -51,7 +51,7 @@ I have not been as patient or understanding with people as I should be. I want t
 - [ ] :smiley_cat: Daily misc. cat chores
 - [ ] :shoe: Exercise (150 minutes/week) 
 - [ ] :cyclone: Meditation (30 minutes/week) 
-- [ ] :fork_and_knife: Meal planning
+- [x] :fork_and_knife: Meal planning
 - [x] :moneybag: Monitor accounts 
 - [x] :love_letter: Send a [Happiness Packet](https://www.happinesspackets.io)
 
