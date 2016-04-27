@@ -2,10 +2,8 @@
 
 - Recruiting diverse speakers and talks for conferences 
 - Remote work and depression 
-- Frugality for Django Girls 
-- Feminism and Weight Loss 
 - 2016 Year in Review 
-- Why Hogwarts is a Toxic Learning Environment 
+- Why Hogwarts is a Toxic Learning Environment (submitted to [OSBridge](http://opensourcebridge.org/proposals/1815))
 - Guide for First-time Speakers 
 - Guide for First-time Conference-goers 
 - Comparison of Python and NATURAL. 
