@@ -44,7 +44,6 @@
 - ["Words, Words, Words": Reading Shakespeare with Python](https://www.youtube.com/watch?v=EoWG0lavg9U), Adam Palay
 
 # My Own Talks
-
 - [Hermione Granger and the Wizard Information System](https://opbeat.com/events/djangocon-eu-2016/) ([Storify of feedback](https://storify.com/laceynwilliams/getting-started))
 - [Jane Austen on PEP8: Tips from an English Major on Writing Better Code](https://www.youtube.com/watch?v=55gXwFviOuQ)
 - [A More Accessible Django Girls](https://www.youtube.com/watch?v=xTXt4dRa6Jc)
