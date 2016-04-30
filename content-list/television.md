@@ -2,7 +2,7 @@
 
 # Television
 
-Yes, I watch too much television. I am what's wrong with America.  
+Yes, I watch too much television. I am what's wrong with America. Show synopses are from IMDB, sometimes lightly edited by me. 
 
 ## Binges-in-Progress
 - [Better Call Saul](http://www.imdb.com/title/tt3032476/?ref_=nv_sr_1) (2015- ) The trials and tribulations of criminal lawyer, Jimmy McGill, in the time leading up to establishing his strip-mall law office in Albuquerque, New Mexico. Prequel series to Breaking Bad. 
