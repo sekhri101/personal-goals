@@ -40,8 +40,8 @@ I have not been as patient or understanding with people as I should be. I want t
 - [x] :pizza: Lunch with Kenneth 
 - [ ] :airplane: Book flight to Texas 
 - [ ] :package: Return clothes that don't work 
-- [ ] :bar_chart: Send GSIT sprint planning sheet to team, highlight ones they should focus on 
-- [ ] :computer: Send GSIT mockups to team, get their feedback 
+- [x] :bar_chart: Send GSIT sprint planning sheet to team, highlight ones they should focus on 
+- [x] :computer: Send GSIT mockups to team, get their feedback 
 - [x] :computer: Set up VPN already
 - [ ] :computer: get JEdit plugin working --> Need to pair with someone on this. My environment is weird. 
  
