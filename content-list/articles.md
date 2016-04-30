@@ -22,3 +22,9 @@ Things I've read online that have stuck with me for one reason or another.
 ### [Working in public from day one](https://18f.gsa.gov/2014/07/31/working-in-public-from-day-1/)
 
 > You will make better decisions. At the most basic level, you will be vastly less likely to accidentally commit a password to an open source project than a closed one. But more than that: even though no one is reading your code, you'll still feel a bit of natural pressure to make better decisions. You'll hardcode less, and move more into configuration files. You'll make things slightly more modular. You'll comment more. You'll catch security holes more quickly. That's a healthy pressure.
+
+## Just Nice Things 
+
+### [Iceland’s Water Cure: Can the secret to the country’s happiness be found in its communal pools?](http://www.nytimes.com/2016/04/24/magazine/icelands-water-cure.html?partner=IFTTT&_r=2)
+
+> These public pools, or sundlaugs, serve as the communal heart of Iceland, sacred places whose affordability and ubiquity are viewed as a kind of civil right. Families and teenagers and older people lounge and chat in sundlaugs every day, summer or winter. Despite Iceland’s cruel climate, its remoteness and its winters of 19 hours of darkness per day, the people there are among the most contented in the world. 
