@@ -26,7 +26,7 @@ I have not been as patient or understanding with people as I should be. I want t
 
 - [ ] :fish: BBQ-Spiced Salmon & Roasted Sweet Potato Rounds
 - [ ] :rice: Korean Bao Sliders 
-- [ ] :chicken: Za'tar Chicken and Pearl Couscous 
+- [x] :chicken: Za'tar Chicken and Pearl Couscous 
 - [x] :lemon: Creamy Lemon Pasta 
 - [ ] :computer: ATX Add international contact 
 - [ ] :white_check_mark: ATX HB 4046 
