@@ -1,5 +1,9 @@
 # Happy Moments
 
+4/28/16
+--- 
+S and I won the "Most Creative" prize for the website we made! :trophy:
+
 4/26/16
 --- 
 Katie wrote me an awesome recommendation on LinkedIn, and then I wrote a bunch of other people recommendations, and then I felt full of goodwill. 
