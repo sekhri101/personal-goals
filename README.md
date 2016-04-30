@@ -27,17 +27,17 @@ I have not been as patient or understanding with people as I should be. I want t
 - [ ] :fish: BBQ-Spiced Salmon & Roasted Sweet Potato Rounds
 - [ ] :rice: Korean Bao Sliders 
 - [ ] :chicken: Za'tar Chicken and Pearl Couscous 
-- [ ] :lemon: Creamy Lemon Pasta 
+- [x] :lemon: Creamy Lemon Pasta 
 - [ ] :computer: ATX Add international contact 
 - [ ] :white_check_mark: ATX HB 4046 
 - [x] :deciduous_tree: Finish Treehouse project
 - [x] :email: Invoicing 
 - [ ] :house_with_garden: Put living room furniture back where it goes 
 - [ ] :cat2: Change cat litter 
-- [ ] :camera: Photo Scavenger Hunt party with S 
+- [x] :camera: Photo Scavenger Hunt party with S 
 - [x] :book: Finish Troublemaker 
 - [x] :moneybag: Invoice DGPDX sponsors 
-- [ ] :pizza: Lunch with Kenneth 
+- [x] :pizza: Lunch with Kenneth 
 - [ ] :airplane: Book flight to Texas 
 - [ ] :package: Return clothes that don't work 
 - [ ] :bar_chart: Send GSIT sprint planning sheet to team, highlight ones they should focus on 
@@ -47,8 +47,8 @@ I have not been as patient or understanding with people as I should be. I want t
  
 ### Weekly Goals 
 
-- [ ] :house: Daily misc. housekeeping
-- [ ] :smiley_cat: Daily misc. cat chores
+- [x] :house: Daily misc. housekeeping
+- [x] :smiley_cat: Daily misc. cat chores
 - [ ] :shoe: Exercise (150 minutes/week) 
 - [ ] :cyclone: Meditation (30 minutes/week) 
 - [x] :fork_and_knife: Meal planning
