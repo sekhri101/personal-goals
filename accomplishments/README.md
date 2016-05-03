@@ -2,6 +2,10 @@
 
 # Cool Things I Did 
 
+## May 2016 
+
+- 5/2: Sent out Django Girls acceptance emails, finished reviewing DjangoCon talks
+
 ## April 2016
 
 - 4/26: Finished a contract for Treehouse 
@@ -39,3 +43,7 @@
 - [April 10-16, 2016](./2016-04-week2.md)
 - [April 17-23, 2016](./2016-04-week3.md)
 - [April 24-30, 2016](./2016-04-week4.md)
+- [May 1-7, 2016](./2016-05-week1.md)
+- [May 8-14, 2016](./2016-05-week2.md)
+- [May 15-21, 2016](./2016-05-week3.md)
+- [May 22-28, 2016](./2016-05-week4.md)
