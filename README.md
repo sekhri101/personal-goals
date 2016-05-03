@@ -36,9 +36,9 @@ I have a lot to get done and organized this week, and a busy weekend with friend
 - [ ] :airplane: Book flight to Texas 
 - [ ] :package: Return clothes that don't work 
 - [ ] :computer: get JEdit plugin working --> Need to pair with someone on this. My environment is weird. 
-- [x] :sparkle_heart: DGPDX Send acceptance/rejection emails to attendees/coaches 
+- [x] :sparkling_heart: DGPDX Send acceptance/rejection emails to attendees/coaches 
 - [ ] :moneybag: DGPDX send final sponsor invoices 
-- [ ] :bed: Get guest room ready 
+- [ ] :sleeping: Get guest room ready 
 - [ ] :shoe: GSIT Sprint prep 
 - [ ] :womans_clothes: Do laundry 
  
