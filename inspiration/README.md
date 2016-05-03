@@ -1,6 +1,6 @@
 # Inspiration 
 
-## Docs 
+## Docs/Emails 
 Good docs or awesome guides 
 
 ### 18F Guides 
@@ -10,6 +10,9 @@ Good docs or awesome guides
 - testing
 - design 
 - open source
+
+### Good Email Copy 
+[Good Email Copy](http://www.goodemailcopy.com/) has awesome email copy from amazing companies. 
 
 ## Help 
 Good FAQs or help. 
