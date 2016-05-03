@@ -18,50 +18,41 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## April 24-30, 2016
 
-### This Week's Focus: :two_hearts: Have Empathy with Balance 
+### This Week's Focus: :Get my :poop: together 
 
-I have not been as patient or understanding with people as I should be. I want to focus on taking a moment before I emotionally react to something to try to have empathy for that person or situation, and also to evaluate whether it should emotionally affect me. I react internally to a lot of things that don't need to have an emotional impact on me. I'd like to be less impacted by the things I'm involved in or that people tell me, while still being caring and empathetic. I hope this will lead to a calmer and happier Lacey. 
+I have a lot to get done and organized this week, and a busy weekend with friends visiting. I need to be productive and organized! 
 
 ## Things I'll Do This Week
 
 - [ ] :fish: BBQ-Spiced Salmon & Roasted Sweet Potato Rounds
 - [ ] :rice: Korean Bao Sliders 
-- [x] :chicken: Za'tar Chicken and Pearl Couscous 
-- [x] :lemon: Creamy Lemon Pasta 
 - [ ] :computer: ATX Add international contact 
 - [ ] :white_check_mark: ATX HB 4046 
-- [x] :deciduous_tree: Finish Treehouse project
-- [x] :email: Invoicing 
+- [ ] :x: ATX Opt out of second-choice school 
+- [ ] :file_folder: ATX ATAC meeting 
+- [ ] :house: ATX Address verification :bug: fix 
 - [ ] :house_with_garden: Put living room furniture back where it goes 
 - [ ] :cat2: Change cat litter 
-- [x] :camera: Photo Scavenger Hunt party with S 
-- [x] :book: Finish Troublemaker 
-- [x] :moneybag: Invoice DGPDX sponsors 
-- [x] :pizza: Lunch with Kenneth 
 - [ ] :airplane: Book flight to Texas 
 - [ ] :package: Return clothes that don't work 
-- [x] :bar_chart: Send GSIT sprint planning sheet to team, highlight ones they should focus on 
-- [x] :computer: Send GSIT mockups to team, get their feedback 
-- [x] :computer: Set up VPN already
 - [ ] :computer: get JEdit plugin working --> Need to pair with someone on this. My environment is weird. 
+- [x] :sparkle_heart: DGPDX Send acceptance/rejection emails to attendees/coaches 
+- [ ] :moneybag: DGPDX send final sponsor invoices 
+- [ ] :bed: Get guest room ready 
+- [ ] :shoe: GSIT Sprint prep 
+- [ ] :womans_clothes: Do laundry 
  
 ### Weekly Goals 
 
-- [x] :house: Daily misc. housekeeping
-- [x] :smiley_cat: Daily misc. cat chores
+- [ ] :house: Daily misc. housekeeping
+- [ ] :smiley_cat: Daily misc. cat chores
 - [ ] :shoe: Exercise (150 minutes/week) 
 - [ ] :cyclone: Meditation (30 minutes/week) 
-- [x] :fork_and_knife: Meal planning
+- [ ] :fork_and_knife: Meal planning
 - [x] :moneybag: Monitor accounts 
-- [x] :love_letter: Send a [Happiness Packet](https://www.happinesspackets.io)
+- [ ] :love_letter: Send a [Happiness Packet](https://www.happinesspackets.io)
 
 ### Other things I did 
-
-- [x] :church: Went to Mass to celebrate Capella's girls' first communion 
-- [x] :tv: Started watching The Path. It was really good! 
-- [x] :sparkling_heart: Resigned from something, to make more room for other things in my life 
-- [x] :fishing_pole_and_fish: Signed S and I up for some summer activities 
-- [x] :computer: Paired with someone on why my postgres environment is so weird. As of 4/26, no success yet, but we're close! Right? 
 
 
 ### Side Projects & Other Goals
@@ -85,7 +76,7 @@ I have not been as patient or understanding with people as I should be. I want t
 - [x] March 17-21, 2016: :ski: Ski trip 
 - [x] March 26-April 3, 2016: :european_castle: [DjangoCon Europe](https://djangocon.eu/) presentation in Budapest. Side trip to Vienna.
 - [x] April 20, 2016: :books: [Refresh PDX presentation](http://rfrshpdx.org/jane-austen-on-python-tips-from-an-english-major-on-writing-better-code/)
-- [ ] May 6-8, 2016: :couple: Julie and Jeff visting
+- [ ] **May 6-8, 2016: :couple: Julie and Jeff visting**
 - [ ] May 20-22, 2016: :star2: Adrienne visiting 
 - [ ] May 27-June 1, 2016: :love_letter: [Django Girls workshop](https://djangogirls.org/pycon/) at PyCon; booth at PyCon; Adrienne visiting 
 - [ ] June 17-19: :woman: Mom visiting me 
