@@ -3,7 +3,7 @@
 
 Personal goals made open source.
 
-Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
+Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning. [See what I'm working on on my Trello board](https://trello.com/b/mQmS0lDa/personal-todo) for further experiments in radical transparency! 
 
 ## Overarching Goals
 

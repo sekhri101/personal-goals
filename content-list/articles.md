@@ -19,6 +19,12 @@ Things I've read online that have stuck with me for one reason or another.
 
 > "We find that only 4.5 percent of emoji symbols we examined have consistently low variance in their sentiment interpretations," the researchers write. "Conversely, in 25 percent of the cases where participants rated the same rendering, they did not agree on whether the sentiment was positive, neutral, or negative."
 
+### [What exactly do we even do all day?](https://18f.gsa.gov/2015/12/07/what-exactly-do-we-even-do-all-day/)
+
+> A state hazardous waste official said, “this project is unique in my experience due to the level of information someone from outside the development team is able to access. As a stakeholder, I think that this level of openness is great."
+
+> A taxpayer, and interested member of the public, noted, “observing an open project from the outside as it happens is an intriguing thing. You see the choices being made by the participants as the work takes shape. You have fine-grained detail about each step."
+
 ### [Working in public from day one](https://18f.gsa.gov/2014/07/31/working-in-public-from-day-1/)
 
 > You will make better decisions. At the most basic level, you will be vastly less likely to accidentally commit a password to an open source project than a closed one. But more than that: even though no one is reading your code, you'll still feel a bit of natural pressure to make better decisions. You'll hardcode less, and move more into configuration files. You'll make things slightly more modular. You'll comment more. You'll catch security holes more quickly. That's a healthy pressure.
