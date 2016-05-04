@@ -33,7 +33,7 @@ I have a lot to get done and organized this week, and a busy weekend with friend
 - [ ] :house: ATX Address verification :bug: fix 
 - [ ] :house_with_garden: Put living room furniture back where it goes 
 - [ ] :cat2: Change cat litter 
-- [ ] :airplane: Book flight to Texas 
+- [x] :airplane: Book flight to Texas 
 - [ ] :package: Return clothes that don't work 
 - [ ] :computer: get JEdit plugin working --> Need to pair with someone on this. My environment is weird. 
 - [x] :sparkling_heart: DGPDX Send acceptance/rejection emails to attendees/coaches 
@@ -79,6 +79,7 @@ I have a lot to get done and organized this week, and a busy weekend with friend
 - [ ] **May 6-8, 2016: :couple: Julie and Jeff visting**
 - [ ] May 20-22, 2016: :star2: Adrienne visiting 
 - [ ] May 27-June 1, 2016: :love_letter: [Django Girls workshop](https://djangogirls.org/pycon/) at PyCon; booth at PyCon; Adrienne visiting 
+- [ ] June 2-5: :star: Trip to Texas 
 - [ ] June 17-19: :woman: Mom visiting me 
 - [ ] June 26-28: :tent: Camping trip with S 
 - [ ] July 17-22, 2016: :baseball: [DjangoCon US](https://2016.djangocon.us/) 
