@@ -29,31 +29,33 @@ I have a lot to get done and organized this week, and a busy weekend with friend
 - [ ] :computer: ATX Add international contact 
 - [ ] :white_check_mark: ATX HB 4046 
 - [ ] :x: ATX Opt out of second-choice school 
-- [ ] :file_folder: ATX ATAC meeting 
-- [ ] :house: ATX Address verification :bug: fix 
+- [x] :file_folder: ATX ATAC meeting 
+- [x] :house: ATX Address verification :bug: fix 
 - [ ] :house_with_garden: Put living room furniture back where it goes 
 - [ ] :cat2: Change cat litter 
 - [x] :airplane: Book flight to Texas 
 - [ ] :package: Return clothes that don't work 
 - [ ] :computer: get JEdit plugin working --> Need to pair with someone on this. My environment is weird. 
 - [x] :sparkling_heart: DGPDX Send acceptance/rejection emails to attendees/coaches 
-- [ ] :moneybag: DGPDX send final sponsor invoices 
+- [x] :moneybag: DGPDX send final sponsor invoices 
 - [ ] :sleeping: Get guest room ready 
-- [ ] :shoe: GSIT Sprint prep 
+- [x] :shoe: GSIT Sprint prep 
 - [ ] :womans_clothes: Do laundry 
  
 ### Weekly Goals 
 
-- [ ] :house: Daily misc. housekeeping
+- [x] :house: Daily misc. housekeeping
 - [ ] :smiley_cat: Daily misc. cat chores
 - [ ] :shoe: Exercise (150 minutes/week) 
 - [ ] :cyclone: Meditation (30 minutes/week) 
-- [ ] :fork_and_knife: Meal planning
+- [x] :fork_and_knife: Meal planning
 - [x] :moneybag: Monitor accounts 
 - [ ] :love_letter: Send a [Happiness Packet](https://www.happinesspackets.io)
 
 ### Other things I did 
 
+- Talked to Mom about Uncle Jerry 
+- Planned Mom's visit to come to Oregon 
 
 ### Side Projects & Other Goals
 
