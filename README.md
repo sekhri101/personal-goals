@@ -54,8 +54,11 @@ I have a lot to get done and organized this week, and a busy weekend with friend
 
 ### Other things I did 
 
-- Talked to Mom about Uncle Jerry 
-- Planned Mom's visit to come to Oregon 
+- :hospital: Talked to Mom about Uncle Jerry 
+- :airplane: Planned Mom's visit to come to Oregon 
+- :money_with_wings: Helped with DCUS Sponsor website stuff 
+- :page_facing_up: Organized DCUS Async meeting 
+- :globe_with_meridians: Got the special sections on the DCUS home page 
 
 ### Side Projects & Other Goals
 
