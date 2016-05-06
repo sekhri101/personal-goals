@@ -46,3 +46,11 @@ Orientation to the app or the product.
 - promoting events 
 - adding images to ApplyTexas 
 - promoting ApplyTexas 
+
+## ToS/Legalese Translations 
+Each image is a link to the source 
+
+[![Screenshot of ToS of Cotton Bureau](http://i.imgur.com/8RQxBVz.png)](https://cottonbureau.com/tos)
+[![Screenshot of ToS of Zapier](http://i.imgur.com/TaTDQJr.png)](https://zapier.com/terms/)
+[![Screenshot of ToS of Zana](http://i.imgur.com/ex3wNMD.png)](https://zana.io/terms/)
+[![Screenshot of ToS of Codepen](http://i.imgur.com/ElTEdT9.png)](https://blog.codepen.io/legal/terms-of-service/)
