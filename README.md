@@ -16,35 +16,31 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. Learning: Python, Django, Spanish
 3. Improve impostor syndrome
 
-## April 24-30, 2016
+## May 8-14, 2016
 
-### This Week's Focus: :Get my :poop: together 
+### This Week's Focus: Keep my :poop: together
 
-I have a lot to get done and organized this week, and a busy weekend with friends visiting. I need to be productive and organized! 
+It is crunch time for basically all the things I am doing, so I need to keep it together! I'm relying more on my Trello board these past two weeks. I just don't have time to come in here and update this. 
 
 ## Things I'll Do This Week
 
-- [ ] :fish: BBQ-Spiced Salmon & Roasted Sweet Potato Rounds
-- [ ] :rice: Korean Bao Sliders 
-- [ ] :computer: ATX Add international contact 
-- [ ] :white_check_mark: ATX HB 4046 
-- [ ] :x: ATX Opt out of second-choice school 
-- [x] :file_folder: ATX ATAC meeting 
-- [x] :house: ATX Address verification :bug: fix 
-- [ ] :house_with_garden: Put living room furniture back where it goes 
-- [ ] :cat2: Change cat litter 
-- [x] :airplane: Book flight to Texas 
-- [ ] :package: Return clothes that don't work 
-- [ ] :computer: get JEdit plugin working --> Need to pair with someone on this. My environment is weird. 
-- [x] :sparkling_heart: DGPDX Send acceptance/rejection emails to attendees/coaches 
-- [x] :moneybag: DGPDX send final sponsor invoices 
-- [ ] :sleeping: Get guest room ready 
-- [x] :shoe: GSIT Sprint prep 
-- [ ] :womans_clothes: Do laundry 
+- [x] :pig: Pork Tteokbokki
+- [x] :pizza: Greek Pizza 
+- [ ] :chicken: Spring Chicken Fettuccine 
+- [ ] :shoe: Take S on BBBS group hike 
+- [x] :bird: DCUS schedule tweets while Anna is out 
+- [x] :love_letter: DCUS draft emails to people who submitted proposals 
+- [x] :video_camera: DCUS team meeting
+- [x] :video_camera: DCUS program meeting 
+- [ ] :baby: DCUS get child care organized 
+- [ ] :computer: GSIT Sprint 1 
+- [x] :mortar_board: ATX migration prep
+- [x] :page_facing_up: DGPDX Create PyCon Beginner's Guide 
+- [x] :bird: DGPDX Schedule tweets 
  
 ### Weekly Goals 
 
-- [x] :house: Daily misc. housekeeping
+- [ ] :house: Daily misc. housekeeping
 - [ ] :smiley_cat: Daily misc. cat chores
 - [ ] :shoe: Exercise (150 minutes/week) 
 - [ ] :cyclone: Meditation (30 minutes/week) 
@@ -54,11 +50,8 @@ I have a lot to get done and organized this week, and a busy weekend with friend
 
 ### Other things I did 
 
-- :hospital: Talked to Mom about Uncle Jerry 
-- :airplane: Planned Mom's visit to come to Oregon 
-- :money_with_wings: Helped with DCUS Sponsor website stuff 
-- :page_facing_up: Organized DCUS Async meeting 
-- :globe_with_meridians: Got the special sections on the DCUS home page 
+- Had a super valuable :moneybag: conversation with my husband 
+- Started playing :deciduous_tree: Stardew Valley
 
 ### Side Projects & Other Goals
 
@@ -81,7 +74,7 @@ I have a lot to get done and organized this week, and a busy weekend with friend
 - [x] March 17-21, 2016: :ski: Ski trip 
 - [x] March 26-April 3, 2016: :european_castle: [DjangoCon Europe](https://djangocon.eu/) presentation in Budapest. Side trip to Vienna.
 - [x] April 20, 2016: :books: [Refresh PDX presentation](http://rfrshpdx.org/jane-austen-on-python-tips-from-an-english-major-on-writing-better-code/)
-- [ ] **May 6-8, 2016: :couple: Julie and Jeff visting**
+- [x] May 6-8, 2016: :couple: Julie and Jeff visting
 - [ ] May 20-22, 2016: :star2: Adrienne visiting 
 - [ ] May 27-June 1, 2016: :love_letter: [Django Girls workshop](https://djangogirls.org/pycon/) at PyCon; booth at PyCon; Adrienne visiting 
 - [ ] June 2-5: :star: Trip to Texas 
