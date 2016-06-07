@@ -21,7 +21,7 @@ This Week's Focus: Rest and self-care :sleeping:
 - [ ] :file_folder: Write GS tests 
 - [ ] :package: Mail package to A 
 - [ ] :package: Mail Father's Day gift to Dad 
-- [ ] :shopping_bag: Buy Father's Day gift for other Dad 
+- [ ] :gift: Buy Father's Day gift for other Dad 
 
 ### Weekly Goals 
 
@@ -49,6 +49,7 @@ This Week's Focus: Rest and self-care :sleeping:
 - [x] May 20-22, 2016: :star2: Adrienne visiting 
 - [x] May 27-June 1, 2016: :love_letter: [Django Girls workshop](https://djangogirls.org/pycon/) at PyCon; booth at PyCon; Adrienne visiting 
 - [x] June 2-5: :star: Trip to Texas 
+- [ ] June 23, 2016: :microphone: [Open Source Bridge presentation](http://opensourcebridge.org/sessions/1815)
 - [ ] June 26-28: :tent: Camping trip with S 
 - [ ] July 17-22, 2016: :baseball: [DjangoCon US](https://2016.djangocon.us/) 
 - [ ] September 17-24, 2016: :tropical_fish: Snorkeling trip to Cozumel 
