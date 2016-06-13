@@ -34,3 +34,9 @@ Things I've read online that have stuck with me for one reason or another.
 ### [Iceland’s Water Cure: Can the secret to the country’s happiness be found in its communal pools?](http://www.nytimes.com/2016/04/24/magazine/icelands-water-cure.html?partner=IFTTT&_r=2)
 
 > These public pools, or sundlaugs, serve as the communal heart of Iceland, sacred places whose affordability and ubiquity are viewed as a kind of civil right. Families and teenagers and older people lounge and chat in sundlaugs every day, summer or winter. Despite Iceland’s cruel climate, its remoteness and its winters of 19 hours of darkness per day, the people there are among the most contented in the world. 
+
+## Debating 
+
+### [Become Simple Minded About Gun Control](https://garlingfiles.wordpress.com/2012/12/20/become-simple-minded-about-gun-control/)
+
+> “We need to be able to defend ourselves from the government!” The Pentagon spent 664.84 billion dollars in 2011. But seriously, tell me about your assault rifles.
