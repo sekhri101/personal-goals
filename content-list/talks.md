@@ -49,3 +49,7 @@
 - [A More Accessible Django Girls](https://www.youtube.com/watch?v=xTXt4dRa6Jc)
 - [A Newcomer's Guide to Open Source Contribution](https://www.youtube.com/watch?v=8QaezVWLydM)
 - [Your First Conference Proposal](https://www.youtube.com/watch?v=OAQAXVU1jIo)
+
+# Articles about speaking 
+
+- [Speaker’s Checklist: Before and After Your Talk](http://csswizardry.com/2016/06/speakers-checklist-before-and-after-your-talk/)
