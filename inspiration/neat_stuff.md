@@ -1,3 +1,5 @@
+<< Home](../README.md)
+
 # Neat Stuff
 
 ## Soundslice
@@ -7,7 +9,7 @@
  - [Mozilla Developer Network on Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
  ![Image of Soundslice "Save Offline" link](http://i.imgur.com/7jIAICn.png)
 
-## WoCinTech Chat Photos 
+## WoCinTech Chat Photos
 [WoCinTech Chat has photos](https://www.flickr.com/photos/wocintechchat/) that are free to use! Applications I can see:
 - promoting events
 - adding images to ApplyTexas

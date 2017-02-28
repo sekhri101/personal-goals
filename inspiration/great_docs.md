@@ -1,3 +1,5 @@
+<< Home](../README.md)
+
 # Docs/Emails
 Good docs or awesome guides
 
@@ -9,5 +11,5 @@ Good docs or awesome guides
 - design
 - open source
 
-## Good Email Copy 
+## Good Email Copy
 [Good Email Copy](http://www.goodemailcopy.com/) has awesome email copy from amazing companies.
