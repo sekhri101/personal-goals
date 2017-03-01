@@ -15,7 +15,7 @@
 
 ## Buying
 - [The Sweethome](http://thesweethome.com/) - Lists of the best household items (top toasters, for example)
--The Wirecutter](http://thewirecutter.com/) - Lists of the best electronics (top 5 headphones, for example)
+- [The Wirecutter](http://thewirecutter.com/) - Lists of the best electronics (top 5 headphones, for example)
 
 ## Programming
 - [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
