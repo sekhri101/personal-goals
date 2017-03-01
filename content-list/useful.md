@@ -24,3 +24,4 @@
 
 ## Screencasting
 - [Carnac](http://carnackeys.com/) (Windows only) - Displays the keyboard shortcuts you're using on the screen during screencasting.
+- [Keycastr](https://github.com/sdeken/keycastr) (Mac only) - Open-source keystroke visualizer for Mac
