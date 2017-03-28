@@ -22,6 +22,17 @@
 - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - Chrome app for API testing 
 - [Tota11y](https://khan.github.io/tota11y/) - Accessibility browser applet
 
+### For Kids 
+
+- [Hello Ruby](https://t.co/E4THWyCenV) - Ruby tutorial 
+- [Hello World! Computer Programming for Kids and Other Beginners](https://www.manning.com/books/hello-world-second-edition) - Book about general programming concepts 
+- [Learn to Program with Minecraft](https://www.nostarch.com/programwithminecraft) - Book about programming in Minecraft 
+- [Let's Learn Python](https://t.co/eDiGNBzqI4) - Python tutorial 
+
+
+- [Python for Kids: A Playful Introduction to Programming](https://www.nostarch.com/pythonforkids) - Book about Python
+- [Python Playground](https://www.nostarch.com/pythonplayground) - Book about Python 
+
 ## Screencasting
 - [Carnac](http://carnackeys.com/) (Windows only) - Displays the keyboard shortcuts you're using on the screen during screencasting.
 - [Keycastr](https://github.com/sdeken/keycastr) (Mac only) - Open-source keystroke visualizer for Mac
