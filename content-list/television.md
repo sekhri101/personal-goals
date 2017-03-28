@@ -5,12 +5,10 @@
 ## Recent for me 
 
 - ❤️ [Black-ish](http://www.imdb.com/title/tt3487356/?ref_=nv_sr_1)
+- ❓ [Dancing with the Stars](http://www.imdb.com/title/tt0463398/?ref_=nv_sr_1)
 - ❤️ [Fresh Off the Boat](http://www.imdb.com/title/tt3551096/?ref_=nv_sr_1)
-- ❤️ [Insecure](http://www.imdb.com/title/tt5024912/?ref_=nv_sr_1) 
-- ✅ [Lucas Bros Moving Co](http://www.imdb.com/title/tt3042900/?ref_=nv_sr_1) 
 - 🕶 [The Man in the High Castle](http://www.imdb.com/title/tt1740299/?ref_=nv_sr_1)
-- 🕶 [One Day at a Time](http://www.imdb.com/title/tt5339440/?ref_=nv_sr_1)
-- 🕶 [Rick and Morty](http://www.imdb.com/title/tt2861424/?ref_=nv_sr_1)
+- ❓ [One Day at a Time](http://www.imdb.com/title/tt5339440/?ref_=nv_sr_1)
 
 ## The rest of the TV I've watched 
 
@@ -59,10 +57,12 @@
 - ✅ [House of Cards](http://www.imdb.com/title/tt1856010/?ref_=nv_sr_1) - stopped watching in season 2
 - 🕶 [How to Get Away with Murder](http://www.imdb.com/title/tt3205802/?ref_=nv_sr_1)
 - 🕶 [Jane the Virgin](http://www.imdb.com/title/tt3566726/?ref_=nv_sr_1) 
+- ❤️ [Insecure](http://www.imdb.com/title/tt5024912/?ref_=nv_sr_1) 
 - 🤢 [It's Always Sunny in Philadelphia](http://www.imdb.com/title/tt0472954/?ref_=nv_sr_1)
 - 💖 [Jessica Jones](http://www.imdb.com/title/tt2357547/?ref_=nv_sr_1)
 - ✅ [Law and Order: SVU](http://www.imdb.com/title/tt0203259/?ref_=fn_al_tt_2)
 - ❤️ [Longmire](http://www.imdb.com/title/tt1836037/?ref_=nv_sr_1)
+- ✅ [Lucas Bros Moving Co](http://www.imdb.com/title/tt3042900/?ref_=nv_sr_1) 
 - 🕶 [Mad Men](http://www.imdb.com/title/tt0804503/?ref_=nv_sr_1)  
 - ✅ [Madame Secretary](http://www.imdb.com/title/tt3501074/?ref_=nv_sr_1) - stopped watching halfway through season 1
 - ❤️ [MasterChef](http://www.imdb.com/title/tt1694423/?ref_=nv_sr_1)
@@ -81,6 +81,7 @@
 - 💖 [Parks and Rec](http://www.imdb.com/title/tt1266020/?ref_=nv_sr_1)
 - 🤢 [Peep Show](http://www.imdb.com/title/tt0387764/?ref_=nv_sr_1)
 - ✅ [Prison Break](http://www.imdb.com/title/tt0455275/?ref_=nv_sr_1)
+- 🕶 [Rick and Morty](http://www.imdb.com/title/tt2861424/?ref_=nv_sr_1)
 - 🕶 [Scandal](http://www.imdb.com/title/tt1837576/?ref_=nv_sr_1)
 - 🕶 [Sex and the City](http://www.imdb.com/title/tt0159206/?ref_=nv_sr_1) 
 - ❤️ [The Sopranos](http://www.imdb.com/title/tt0141842/?ref_=fn_al_tt_1) 
@@ -111,7 +112,6 @@
 - [Six Feet Under](http://www.imdb.com/title/tt0248654/?ref_=nv_sr_1)
 - [Supergirl](http://www.imdb.com/title/tt4016454/?ref_=nv_sr_1)
 - [Veep](http://www.imdb.com/title/tt1759761/?ref_=nv_sr_1) 
-- [Supergirl](http://www.imdb.com/title/tt4016454/?ref_=nv_sr_1)
 - [The X-Files](http://www.imdb.com/title/tt0106179/?ref_=nv_sr_2)
 - [The Wire](http://www.imdb.com/title/tt0306414/?ref_=nv_sr_1)
 
@@ -122,3 +122,4 @@
 - ✅ I thought it was fine. I won't change the channel if it's on. I probably stopped watching it and am behind. 
 - 🤢 I hated it. Please don't make me watch it. 
 - 😡 It made me angry. Do not make me watch it. 
+- ❓ Haven't made up my mind. 
