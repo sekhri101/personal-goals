@@ -23,7 +23,7 @@
 - [Tota11y](https://khan.github.io/tota11y/) - Accessibility browser applet
 
 ### For Kids 
-- [Codecademy](https://www.codecademy.com/() - Free online coding tutorials 
+- [Codecademy](https://www.codecademy.com/) - Free online coding tutorials 
 - [Hello Ruby](https://t.co/E4THWyCenV) - Ruby tutorial 
 - [Hello World! Computer Programming for Kids and Other Beginners](https://www.manning.com/books/hello-world-second-edition) - Book about general programming concepts 
 - [Hour of Code tutorials](https://hourofcode.com/us/learn) - Free tutorials. Use options on left to select for experience level, topic, etc.  
