@@ -1,5 +1,19 @@
 [<< Home](../README.md)
 
+# TV I watch 
+
+## Recent for me 
+
+- ❤️ [Black-ish](http://www.imdb.com/title/tt3487356/?ref_=nv_sr_1)
+- ❤️ [Fresh Off the Boat](http://www.imdb.com/title/tt3551096/?ref_=nv_sr_1)
+- ❤️ [Insecure](http://www.imdb.com/title/tt5024912/?ref_=nv_sr_1) 
+- ✅ [Lucas Bros Moving Co](http://www.imdb.com/title/tt3042900/?ref_=nv_sr_1) 
+- 🕶 [The Man in the High Castle](http://www.imdb.com/title/tt1740299/?ref_=nv_sr_1)
+- 🕶 [One Day at a Time](http://www.imdb.com/title/tt5339440/?ref_=nv_sr_1)
+- 🕶 [Rick and Morty](http://www.imdb.com/title/tt2861424/?ref_=nv_sr_1)
+
+## The rest of the TV I've watched 
+
 - ✅ [30 Rock](http://www.imdb.com/title/tt0496424/?ref_=nv_sr_1)
 - 💖 [All Creatures Great and Small](http://www.imdb.com/title/tt0075472/?ref_=nv_sr_1)
 - 🤢 [The Amazing Race](http://www.imdb.com/title/tt0285335/) 
@@ -8,6 +22,7 @@
 - 🤢 [Arrested Development](http://www.imdb.com/title/tt0367279/?ref_=nv_sr_1)
 - ❤️ [Better Call Saul](http://www.imdb.com/title/tt3032476/?ref_=nv_sr_1)
 - 😡 [The Blacklist](http://www.imdb.com/title/tt2741602/)
+- 🕶 [Black Mirror](http://www.imdb.com/title/tt2085059/)
 - 🕶 [The Bletchly Circle](http://www.imdb.com/title/tt2275990/?ref_=nv_sr_2)
 - ✅ [Bones](http://www.imdb.com/title/tt0460627/?ref_=fn_al_tt_1)
 - ❤️ [Breaking Bad](http://www.imdb.com/title/tt0903747/?ref_=nv_sr_1) 
@@ -17,6 +32,7 @@
 - ✅ [Bunheads](http://www.imdb.com/title/tt2006848/?ref_=nv_sr_1)
 - ❤️ [Call the Midwife](http://www.imdb.com/title/tt1983079/?ref_=nv_sr_1)
 - ✅ [Criminal Minds](http://www.imdb.com/title/tt0452046/?ref_=nv_sr_1) 
+- 🕶 [The Crown](http://www.imdb.com/title/tt4786824/)
 - 🕶 [Daredevil](http://www.imdb.com/title/tt3322312/?ref_=nv_sr_1)
 - ❤️ [Dead Like Me](http://www.imdb.com/title/tt0348913/?ref_=nv_sr_1) 
 - ✅ [Dexter](http://www.imdb.com/title/tt0773262/?ref_=nv_sr_1) - gave up at season 5
@@ -32,27 +48,25 @@
 - 🕶 [Friends](http://www.imdb.com/title/tt0108778/?ref_=nv_sr_1) 
 - 🤢 [Fuller House](http://www.imdb.com/title/tt3986586/?ref_=nv_sr_1)
 - ❤️ [Game of Thrones](http://www.imdb.com/title/tt0944947/) 
-- 💖 [Gilmore Girls](http://www.imdb.com/title/tt0238784/?ref_=nv_sr_1) 
+- 💖 [Gilmore Girls](http://www.imdb.com/title/tt0238784/?ref_=nv_sr_1) (But skip [Gilmore Girls: A Year in the Life](http://www.imdb.com/title/tt5435008/))
 - ✅ [Good Neighbors](http://www.imdb.com/title/tt0075511/?ref_=nv_sr_1) 
 - 🕶 [The Good Wife](http://www.imdb.com/title/tt1442462) 
 - ❤️ [Grace and Frankie](http://www.imdb.com/title/tt3609352/?ref_=nv_sr_1)
 - 💖 [The Great British Bake-Off](http://www.imdb.com/title/tt1877368/?ref_=nv_sr_1)
 - ❤️ [Grey's Anatomy](http://www.imdb.com/title/tt0413573/?ref_=nv_sr_1) 
-- ✅ [Hart of Dixie](http://www.imdb.com/title/tt1832979/?ref_=fn_al_tt_1)
+- ✅ [Hart of Dixie](http://www.imdb.com/title/tt1832979/?ref_=fn_al_tt_1) - stopped watching after season 2
 - 😡 [Homeland](http://www.imdb.com/title/tt1796960/?ref_=nv_sr_1)
 - ✅ [House of Cards](http://www.imdb.com/title/tt1856010/?ref_=nv_sr_1) - stopped watching in season 2
 - 🕶 [How to Get Away with Murder](http://www.imdb.com/title/tt3205802/?ref_=nv_sr_1)
 - 🕶 [Jane the Virgin](http://www.imdb.com/title/tt3566726/?ref_=nv_sr_1) 
-- ❤️ [Insecure](http://www.imdb.com/title/tt5024912/?ref_=nv_sr_1) 
 - 🤢 [It's Always Sunny in Philadelphia](http://www.imdb.com/title/tt0472954/?ref_=nv_sr_1)
 - 💖 [Jessica Jones](http://www.imdb.com/title/tt2357547/?ref_=nv_sr_1)
 - ✅ [Law and Order: SVU](http://www.imdb.com/title/tt0203259/?ref_=fn_al_tt_2)
 - ❤️ [Longmire](http://www.imdb.com/title/tt1836037/?ref_=nv_sr_1)
-- ✅ [Lucas Bros Moving Co](http://www.imdb.com/title/tt3042900/?ref_=nv_sr_1) 
 - 🕶 [Mad Men](http://www.imdb.com/title/tt0804503/?ref_=nv_sr_1)  
 - ✅ [Madame Secretary](http://www.imdb.com/title/tt3501074/?ref_=nv_sr_1) - stopped watching halfway through season 1
-- 🕶 [The Man in the High Castle](http://www.imdb.com/title/tt1740299/?ref_=nv_sr_1)
 - ❤️ [MasterChef](http://www.imdb.com/title/tt1694423/?ref_=nv_sr_1)
+- ✅ [Master of None](http://www.imdb.com/title/tt4635276/)
 - ✅ [Masters of Sex](http://www.imdb.com/title/tt2137109/)
 - ✅ [The Mindy Project](http://www.imdb.com/title/tt2211129/?ref_=nv_sr_2)
 - 🕶 [My Hero](http://www.imdb.com/title/tt0233084/?ref_=nv_sr_1) 
@@ -67,7 +81,6 @@
 - 💖 [Parks and Rec](http://www.imdb.com/title/tt1266020/?ref_=nv_sr_1)
 - 🤢 [Peep Show](http://www.imdb.com/title/tt0387764/?ref_=nv_sr_1)
 - ✅ [Prison Break](http://www.imdb.com/title/tt0455275/?ref_=nv_sr_1)
-- 🕶 [Rick and Morty](http://www.imdb.com/title/tt2861424/?ref_=nv_sr_1)
 - 🕶 [Scandal](http://www.imdb.com/title/tt1837576/?ref_=nv_sr_1)
 - 🕶 [Sex and the City](http://www.imdb.com/title/tt0159206/?ref_=nv_sr_1) 
 - ❤️ [The Sopranos](http://www.imdb.com/title/tt0141842/?ref_=fn_al_tt_1) 
@@ -79,6 +92,7 @@
 - ✅ [True Blood](http://www.imdb.com/title/tt0844441/?ref_=nv_sr_1) - stopped watching in season 5
 - ❤️ [True Detective](http://www.imdb.com/title/tt2356777/?ref_=nv_sr_1) - only season 1
 - ❤️ [Twenty Twelve](http://www.imdb.com/title/tt1861225/?ref_=nv_sr_2)
+- ✅ [Unbreakable Kimmy Schmidt](http://www.imdb.com/title/tt3339966/)
 - ✅ [The Vicar of Dibley](http://www.imdb.com/title/tt0233084/?ref_=nv_sr_1)
 - ❤️ [W1A](http://www.imdb.com/title/tt3610926/?ref_=fn_al_tt_1) 
 - 🕶 [The Walking Dead](http://www.imdb.com/title/tt1520211/?ref_=nv_sr_1) 
