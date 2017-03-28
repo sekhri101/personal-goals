@@ -35,6 +35,9 @@
 - [Python Playground](https://www.nostarch.com/pythonplayground) - Book about Python 
 - [Scratch](https://scratch.mit.edu/) - Programming language and tutorials/projects geared toward kids 
 
+### Regional Coding Programs for Kids 
+- [Bright and Smart](https://www.brightandsmart.com/) - Camps for kids 6-14 in the Florida area
+
 ## Screencasting
 - [Carnac](http://carnackeys.com/) (Windows only) - Displays the keyboard shortcuts you're using on the screen during screencasting.
 - [Keycastr](https://github.com/sdeken/keycastr) (Mac only) - Open-source keystroke visualizer for Mac
