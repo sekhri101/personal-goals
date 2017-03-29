@@ -23,7 +23,10 @@
 - [Tota11y](https://khan.github.io/tota11y/) - Accessibility browser applet
 
 ### For Kids 
+- [Code.org](https://studio.code.org/) - Online tutorials for kids 
 - [Codecademy](https://www.codecademy.com/) - Free online coding tutorials 
+- [EarSketch](https://earsketch.gatech.edu/landing/#/) - Learn to code by making music 
+- [Happy Nerds](https://t.co/zznusBfgKL) - A list, broken down by OS, of programming tutorials and resources 
 - [Hello Ruby](https://t.co/E4THWyCenV) - Ruby tutorial 
 - [Hello World! Computer Programming for Kids and Other Beginners](https://www.manning.com/books/hello-world-second-edition) - Book about general programming concepts 
 - [Hour of Code tutorials](https://hourofcode.com/us/learn) - Free tutorials. Use options on left to select for experience level, topic, etc.  
@@ -33,7 +36,8 @@
 - [Pluralsight for Kids](https://www.pluralsight.com/kids-courses) - Free coding tutorials
 - [Python for Kids: A Playful Introduction to Programming](https://www.nostarch.com/pythonforkids) - Book about Python
 - [Python Playground](https://www.nostarch.com/pythonplayground) - Book about Python 
-- [Scratch](https://scratch.mit.edu/) - Programming language and tutorials/projects geared toward kids 
+- [Scratch](https://scratch.mit.edu/) - Programming language and tutorials/projects geared toward kids
+- Turtle Confusion ([English](https://t.co/tY8YdcUwzW)/[Spanish](https://t.co/Hi40oqUdQ5)) - Book (PDF) to teach programming concepts 
 
 ### Regional Coding Programs for Kids 
 - [Bright and Smart](https://www.brightandsmart.com/) - Camps for kids 6-14 in the Florida area
