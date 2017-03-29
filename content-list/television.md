@@ -4,20 +4,24 @@
 
 ## Recent for me 
 
+- ❤️ [Big Little Lies](http://www.imdb.com/title/tt3920596/?ref_=nv_sr_1)
 - ❤️ [Black-ish](http://www.imdb.com/title/tt3487356/?ref_=nv_sr_1)
 - ❓ [Dancing with the Stars](http://www.imdb.com/title/tt0463398/?ref_=nv_sr_1)
 - ❤️ [Fresh Off the Boat](http://www.imdb.com/title/tt3551096/?ref_=nv_sr_1)
 - 🕶 [The Man in the High Castle](http://www.imdb.com/title/tt1740299/?ref_=nv_sr_1)
 - ❓ [One Day at a Time](http://www.imdb.com/title/tt5339440/?ref_=nv_sr_1)
-
+- ❓ [This Is Us](http://www.imdb.com/title/tt5555260/) 
 ## The rest of the TV I've watched 
 
 - ✅ [30 Rock](http://www.imdb.com/title/tt0496424/?ref_=nv_sr_1)
 - 💖 [All Creatures Great and Small](http://www.imdb.com/title/tt0075472/?ref_=nv_sr_1)
 - 🤢 [The Amazing Race](http://www.imdb.com/title/tt0285335/) 
+- ❤️ [American Crime Story: The People Vs. O.J. Simpson](http://www.imdb.com/title/tt2788432/) 
 - 🤢 [American Horror Story](http://www.imdb.com/title/tt1844624/?ref_=nv_sr_1)
 - ❤️ [The Americans](http://www.imdb.com/title/tt2149175/?ref_=nv_sr_1)
+- 🕶 [Angel](http://www.imdb.com/title/tt0162065/?ref_=nv_sr_1)
 - 🤢 [Arrested Development](http://www.imdb.com/title/tt0367279/?ref_=nv_sr_1)
+- 🕶 [Battlestar Galactica](http://www.imdb.com/title/tt0407362/)
 - ❤️ [Better Call Saul](http://www.imdb.com/title/tt3032476/?ref_=nv_sr_1)
 - 😡 [The Blacklist](http://www.imdb.com/title/tt2741602/)
 - 🕶 [Black Mirror](http://www.imdb.com/title/tt2085059/)
@@ -34,6 +38,7 @@
 - 🕶 [Daredevil](http://www.imdb.com/title/tt3322312/?ref_=nv_sr_1)
 - ❤️ [Dead Like Me](http://www.imdb.com/title/tt0348913/?ref_=nv_sr_1) 
 - ✅ [Dexter](http://www.imdb.com/title/tt0773262/?ref_=nv_sr_1) - gave up at season 5
+- 🕶 [Doctor Who](http://www.imdb.com/title/tt0436992/)
 - ❤️ [Downton Abbey](http://www.imdb.com/title/tt1606375/?ref_=nv_sr_1)
 - 🕶 [Empire](http://www.imdb.com/title/tt3228904/)
 - ✅ [The Fall](http://www.imdb.com/title/tt2294189/?ref_=nv_sr_1)
@@ -52,13 +57,16 @@
 - ❤️ [Grace and Frankie](http://www.imdb.com/title/tt3609352/?ref_=nv_sr_1)
 - 💖 [The Great British Bake-Off](http://www.imdb.com/title/tt1877368/?ref_=nv_sr_1)
 - ❤️ [Grey's Anatomy](http://www.imdb.com/title/tt0413573/?ref_=nv_sr_1) 
+- ✅ [Hannibal](http://www.imdb.com/title/tt2243973/)
 - ✅ [Hart of Dixie](http://www.imdb.com/title/tt1832979/?ref_=fn_al_tt_1) - stopped watching after season 2
 - 😡 [Homeland](http://www.imdb.com/title/tt1796960/?ref_=nv_sr_1)
+- ✅ [House](http://www.imdb.com/title/tt0412142/) 
 - ✅ [House of Cards](http://www.imdb.com/title/tt1856010/?ref_=nv_sr_1) - stopped watching in season 2
 - 🕶 [How to Get Away with Murder](http://www.imdb.com/title/tt3205802/?ref_=nv_sr_1)
-- 🕶 [Jane the Virgin](http://www.imdb.com/title/tt3566726/?ref_=nv_sr_1) 
 - ❤️ [Insecure](http://www.imdb.com/title/tt5024912/?ref_=nv_sr_1) 
+- ✅ [The IT Crowd](http://www.imdb.com/title/tt0487831/) 
 - 🤢 [It's Always Sunny in Philadelphia](http://www.imdb.com/title/tt0472954/?ref_=nv_sr_1)
+- 🕶 [Jane the Virgin](http://www.imdb.com/title/tt3566726/?ref_=nv_sr_1) 
 - 💖 [Jessica Jones](http://www.imdb.com/title/tt2357547/?ref_=nv_sr_1)
 - ✅ [Law and Order: SVU](http://www.imdb.com/title/tt0203259/?ref_=fn_al_tt_2)
 - ❤️ [Longmire](http://www.imdb.com/title/tt1836037/?ref_=nv_sr_1)
@@ -84,6 +92,10 @@
 - 🕶 [Rick and Morty](http://www.imdb.com/title/tt2861424/?ref_=nv_sr_1)
 - 🕶 [Scandal](http://www.imdb.com/title/tt1837576/?ref_=nv_sr_1)
 - 🕶 [Sex and the City](http://www.imdb.com/title/tt0159206/?ref_=nv_sr_1) 
+- ❤️ [Shameless](http://www.imdb.com/title/tt1586680/)
+- 🕶 [Sex and the City](http://www.imdb.com/title/tt0159206/?ref_=nv_sr_1)  
+- 🕶 [Sherlock](http://www.imdb.com/title/tt1475582/)
+- ✅ [Silicon Valley](http://www.imdb.com/title/tt2575988/) - makes me 🤢 and 🕶, so I split the difference 
 - ❤️ [The Sopranos](http://www.imdb.com/title/tt0141842/?ref_=fn_al_tt_1) 
 - ✅ [South Park](http://www.imdb.com/title/tt0121955/?ref_=nv_sr_1) 
 - ❤️ [Stranger Things](http://www.imdb.com/title/tt4574334/)
@@ -102,8 +114,10 @@
 - 🤢 [Workaholics](http://www.imdb.com/title/tt1610527/?ref_=nv_sr_1)
 
 ## To Watch in the Future
+- [Atlanta](http://www.imdb.com/title/tt4288182/) 
 - [Boardwalk Empire](http://www.imdb.com/title/tt0979432/?ref_=nv_sr_1)
 - [Bosch](http://www.imdb.com/title/tt3502248/?ref_=nv_sr_1)
+- [Community](http://www.imdb.com/title/tt1439629/) 
 - [ER](http://www.imdb.com/title/tt0108757/?ref_=nv_sr_4)
 - [iZombie](http://www.imdb.com/title/tt3501584/?ref_=nv_sr_1)
 - [Luke Cage](http://www.imdb.com/title/tt3322314/?ref_=nv_sr_1)
