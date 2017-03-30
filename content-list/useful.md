@@ -19,7 +19,7 @@
 
 ## Programming
 - [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
-- [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - Chrome app for API testing 
+- [Postman](https://www.getpostman.com/) - Mac/Windows/Linux/Chrome app for API testing 
 - [Tota11y](https://khan.github.io/tota11y/) - Accessibility browser applet
 
 ### For Kids 
