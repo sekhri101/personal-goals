@@ -45,3 +45,8 @@
 ## Screencasting
 - [Carnac](http://carnackeys.com/) (Windows only) - Displays the keyboard shortcuts you're using on the screen during screencasting.
 - [Keycastr](https://github.com/sdeken/keycastr) (Mac only) - Open-source keystroke visualizer for Mac
+
+## Social Media
+- [Buffer](https://buffer.com/) - Social media management for multiple platforms. Schedule posts to go out on multiple platforms, queue things up on an automatic schedule, share access with others. 
+- [Pablo for Buffer](pablo.buffer.com/) - Create pretty images with text overlays to promote things. Can use their stock images or upload your own. Does not require a Buffer account. 
+- [Tweetdeck](https://tweetdeck.twitter.com/) - Schedule tweets in advance, see notifications/timeline/DMs in spearate columns, and share access to accounts with others. Useful for conference organizers. 
