@@ -50,3 +50,6 @@
 - [Buffer](https://buffer.com/) - Social media management for multiple platforms. Schedule posts to go out on multiple platforms, queue things up on an automatic schedule, share access with others. 
 - [Pablo for Buffer](pablo.buffer.com/) - Create pretty images with text overlays to promote things. Can use their stock images or upload your own. Does not require a Buffer account. 
 - [Tweetdeck](https://tweetdeck.twitter.com/) - Schedule tweets in advance, see notifications/timeline/DMs in spearate columns, and share access to accounts with others. Useful for conference organizers. 
+
+## Typography
+- [Top Ten Typography Tips](http://www.toptentypography.tips/) - by Joni Trythall. Goes into things like font pairing, line heights, and all the things a non-designer needs to know to make their words look nice. 
