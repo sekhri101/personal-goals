@@ -18,6 +18,7 @@
 - [The Wirecutter](http://thewirecutter.com/) - Lists of the best electronics (top 5 headphones, for example)
 
 ## Programming
+- [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions, with full methods and attributes, for each of Django's class-based generic views.
 - [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - Chrome app for API testing 
 - [Tota11y](https://khan.github.io/tota11y/) - Accessibility browser applet
