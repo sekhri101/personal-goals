@@ -58,4 +58,4 @@
 
 - [On Collecting No's](http://glasnt.com/blog/2017/04/11/on-collecting-nos.html) - Katie McLaughlin, on rejection 
 - [SciPy 2017 Reviewer Guidelines](https://scipy2017.scipy.org/ehome/220975/532468/) - specifically the section on bias 
-- [Speaker’s Checklist: Before and After Your Talk](http://csswizardry.com/2016/06/speakers-checklist-before-and-after-your-talk/)
+- [Speaker’s Checklist: Before and After Your Talk](http://csswizardry.com/2016/06/speakers-checklist-before-and-after-your-talk/) - Harry Roberts
