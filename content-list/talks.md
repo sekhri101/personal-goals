@@ -56,4 +56,5 @@
 
 # Articles about speaking
 
+- [On Collecting No's](http://glasnt.com/blog/2017/04/11/on-collecting-nos.html) - Katie McLaughlin, on rejection 
 - [Speaker’s Checklist: Before and After Your Talk](http://csswizardry.com/2016/06/speakers-checklist-before-and-after-your-talk/)
