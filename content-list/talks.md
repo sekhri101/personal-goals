@@ -1,6 +1,6 @@
 [<< Home](../README.md)
 
-# Talks about tech that I like
+# Talks, essays, blogs, and articles about tech that I like
 
 ## Accessibility/Usability
 - [Consequences of an Insightful Algorithm](https://www.youtube.com/watch?v=5e-mZnYAih8&list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t&index=45) - Carina C. Zona
@@ -16,6 +16,7 @@
 
 ## Django
 - [Building a REST API Using Django and Django REST Framework](https://www.youtube.com/watch?v=PwssEec3IRw) - Kenny Yarboro
+- [Django Apps Checklist](http://djangoappschecklist.com/) - Vinta Software 
 - [Making Django Really, Really, Ridiculously Secure](https://www.youtube.com/watch?v=H2llNbMe-V4&list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t&index=37) - Kelsey Gilmore-Innis
 - [Minimum Viable Security](https://www.youtube.com/watch?v=r-fjUVMPidk&index=17&list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t) - Jacob Kaplan-Moss
 - [Red User, Blue User, MyUser, auth.User](https://www.youtube.com/watch?v=KHg6AoExYjs) - Russell Keith-Magee
