@@ -44,7 +44,10 @@ That flowcharting is an excellent way to begin the refactoring process. Combinin
 - How to write a Twitter bot
 - How to use Pandoc to convert Markdown to Word and other file formats 
 - What RAML and YAML files are 
-
+- What tox does 
+- How to use coverage.py 
+- How to create branches in GitHub/a good GitHub workflow 
+- How to pip install a specific version of a package from GitHub before a new release
 
 # Stuff I want to learn 
 
@@ -55,3 +58,4 @@ That flowcharting is an excellent way to begin the refactoring process. Combinin
 - How to use flake8 
 - How to add a confirmation email to a Google form 
 - How to handle yaml files and Jekyll
+- How to use cookiecutter 
