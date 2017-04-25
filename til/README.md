@@ -1,6 +1,33 @@
 << [Home](../README.md)
 
 # Today I Learned (TIL)
+## 4/24/17: How to test a manage.py command 
+For work I'm using a repo someone else wrote with a small example project to illustrate how to use Stonebranch, a whole other tool that has nothing to do with what I learned. But I had to learn how a custom management command is structured and how to test it! 
+
+Your management commands should be in a directory inside your app called `management` and then inside another directory called `commands`. Your directory structure will look like this.  
+
+```
+mysite/ 
+    manage.py
+    mysite/
+        settings.py
+    myapp/
+        management/
+            commands/
+                mycommand.py
+                __init__.py
+```
+
+Your command will be a class that inherits from `BaseCommand`. The command I'm testing was just called `Command` and had the methods `__init__`, `main`, and `handle`. `__init__` is pretty obvious. `handle` seems to be included with most commands. `main` is what the developer who wrote this command called the method where the processing is done. 
+
+This confused me because I kept trying to treat this command, and testing it, like it was a normal class. I kept not getting the result I wanted. Why won't this work? Finally I did what I should have done in the first place: Googled how to test Django management commands. 
+
+```
+$ python manage.py mycommand
+```
+
+Just change into the directory with your `manage.py` file, the same place you are when you run `runserver`, and then run `python manage.py [the name of your file]`. 
+
 ## 4/17/17: How class-based generic views work 
 I'm finally getting a handle on how class-based generic views work in Django, and how to customize them. The website [Classy Class-Based Views](https://ccbv.co.uk/) is really helpful, but I had to figure out what it was telling me. 
 
