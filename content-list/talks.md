@@ -23,6 +23,7 @@
 - [Safe-Ish by Default: The Django Security Model and How to Make it Better](https://opbeat.com/events/djangocon-eu-2016/) - Philip James
 - [Small Shop, Big Solutions: Django and Long-Term Thinking](https://www.youtube.com/watch?v=ghTNAzTOR3o&list=PL38C6768951A6529C&index=9) - Ben Keating. (This is a gorgeous talk about The Long Now and a clock that will run for 10,000 years.)
 - [TDD with Django, from scratch](https://www.youtube.com/watch?v=vQjmz9wCjLA) - Harry Percival
+- [Testing](https://www.youtube.com/watch?v=EHyKzPQFXzo) - Ana Balica 
 - [Using Django with service workers](https://opbeat.com/events/djangocon-eu-2016/) - Adrian Holovaty
 
 ## Git and GitHub
