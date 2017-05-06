@@ -36,10 +36,10 @@
 
 ## Misc
 - [Bake the Cookies, Wear the Dress: Bringing Confident Authenticity to your Tech Talk](https://www.youtube.com/watch?v=gtsZJpzOuFQ) - Adrienne Lowe
+- [A Brief History of Modularity](https://ashleygwilliams.github.io/jsconfeu-2017) - Ashley Williams (link is to slides) 
 - [Get Off the Bench: Making the Leap from User to Contributor](http://pyvideo.org/video/1409/get-off-the-bench-making-the-leap-from-user-to-c) - Russell Keith-Magee
 - [How to Give a Lightning Talk](https://t.co/vnrflmIioM) - Trey Hunner
 - [Jenn Schiffer from XOXO 2016](https://www.youtube.com/watch?v=wewAC5X_CZ8) - Jenn Schiffer. This hilarious talk is about not the tech indistry too seriously. 
-- [Modularity](https://ashleygwilliams.github.io/jsconfeu-2017) - Ashley Williams (link is to slides) 
 - [The Power :zap: and Responsibility :sweat: of Unicode Adoption :sparkles:](https://opbeat.com/events/djangocon-eu-2016/) - Katie McLaughlin
 - [Technical Debt: The Code Monster in Everyone's Closet](https://www.youtube.com/watch?v=T5CjkpiouOw) - Nina Zakharenko
 - [Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s) - Sasha Laundy
