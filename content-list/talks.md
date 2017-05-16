@@ -29,6 +29,9 @@
 ## Git and GitHub
 - [Getting Started with Git](https://speakerdeck.com/singingwolfboy/get-started-with-git) - David Baumgold (link is to slides)
 
+## Job Hunting 
+- [Thirteen thousand, four hundred, fifty-five minutes of talking to get one job](http://kolesky.com/datums/job-search/) - Jeff Kolesky
+
 ## Mental Health
 - [Healthy Minds in a Healthy Community](https://opbeat.com/events/djangocon-eu-2016/) - Erik Romijn and Mikey Ariel
 - [I am a Doctor](https://www.youtube.com/watch?v=OC3v5uXR9Qc&list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t&index=24) - Russell Keith-Magee
