@@ -32,6 +32,14 @@
 ## Job Hunting 
 - [Thirteen thousand, four hundred, fifty-five minutes of talking to get one job](http://kolesky.com/datums/job-search/) - Jeff Kolesky
 
+### Tech Interviewing 
+- [How do I prepare to answer design questions in a technical interview?](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview)
+- [How to Ace a Systems Design Interview](https://www.palantir.com/2011/10/how-to-ace-a-systems-design-interview/) - Palantir
+- [System Design](https://www.hiredintech.com/system-design) - Hired in Tech
+- [System Design Interview](https://github.com/checkcheckzz/system-design-interview) - checkcheckzz
+- [System Design Interview Questions](https://www.careercup.com/page?pid=system-design-interview-questions) 
+
+
 ## Mental Health
 - [Healthy Minds in a Healthy Community](https://opbeat.com/events/djangocon-eu-2016/) - Erik Romijn and Mikey Ariel
 - [I am a Doctor](https://www.youtube.com/watch?v=OC3v5uXR9Qc&list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t&index=24) - Russell Keith-Magee
