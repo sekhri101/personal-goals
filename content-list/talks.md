@@ -16,6 +16,7 @@
 
 ## Django
 - [Building a REST API Using Django and Django REST Framework](https://www.youtube.com/watch?v=PwssEec3IRw) - Kenny Yarboro
+- [Building for Flexibility Using Finite State Machines in Django](https://medium.com/@distillerytech/building-for-flexibility-using-finite-state-machines-in-django-2e36ddbd7708) - Dmitry Stepanenko
 - [Django Apps Checklist](http://djangoappschecklist.com/) - Vinta Software 
 - [Making Django Really, Really, Ridiculously Secure](https://www.youtube.com/watch?v=H2llNbMe-V4&list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t&index=37) - Kelsey Gilmore-Innis
 - [Minimum Viable Security](https://www.youtube.com/watch?v=r-fjUVMPidk&index=17&list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t) - Jacob Kaplan-Moss
