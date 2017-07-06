@@ -43,9 +43,11 @@
 ### Regional Coding Programs for Kids 
 - [Bright and Smart](https://www.brightandsmart.com/) - Camps for kids 6-14 in the Florida area
 
-## Screencasting
+## Screencasting / Presentations 
 - [Carnac](http://carnackeys.com/) (Windows only) - Displays the keyboard shortcuts you're using on the screen during screencasting.
 - [Keycastr](https://github.com/sdeken/keycastr) (Mac only) - Open-source keystroke visualizer for Mac
+- [PowerPoint Hack: Create Custom Layouts from Stock Images](https://www.youtube.com/watch?v=8qq_sfYr7D0&feature=youtu.be) - video tutorial on using only PowerPoint to edit a stock image to create better slide decks ([written version](http://blogs.articulate.com/rapid-elearning/heres-a-simple-powerpoint-hack-to-help-with-course-design/))
+- [Slides Carnival](http://www.slidescarnival.com/) - Free, pretty Google Slides and PowerPoint templates 
 
 ## Social Media
 - [Buffer](https://buffer.com/) - Social media management for multiple platforms. Schedule posts to go out on multiple platforms, queue things up on an automatic schedule, share access with others. 
