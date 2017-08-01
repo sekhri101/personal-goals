@@ -61,7 +61,9 @@
 - [Your First Conference Proposal!](https://www.youtube.com/watch?v=OAQAXVU1jIo) - Lacey Williams Henschel (yes, this is my own talks. but it was really good, I swear.)
 
 ## Python
+- [Datetimes and Timezones in Python](https://www.youtube.com/watch?v=WEwUsJBQH7k) - Mahdi Yusuf
 - [Python List Comprehensions](https://www.youtube.com/watch?v=u-mhKtC1Xh4) - Trey Hunner
+- [Time Zones in Pytz & Django](https://tommikaikkonen.github.io/timezones/) - Tommi Kaikkonen 
 - ["Words, Words, Words": Reading Shakespeare with Python](https://www.youtube.com/watch?v=EoWG0lavg9U) - Adam Palay
 
 # My Own Talks
