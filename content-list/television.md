@@ -4,13 +4,11 @@
 
 ## Recent for me 
 
-- ❤️ [Big Little Lies](http://www.imdb.com/title/tt3920596/?ref_=nv_sr_1)
-- ❤️ [Black-ish](http://www.imdb.com/title/tt3487356/?ref_=nv_sr_1)
-- ❓ [Dancing with the Stars](http://www.imdb.com/title/tt0463398/?ref_=nv_sr_1)
-- ❤️ [Fresh Off the Boat](http://www.imdb.com/title/tt3551096/?ref_=nv_sr_1)
-- 🕶 [The Man in the High Castle](http://www.imdb.com/title/tt1740299/?ref_=nv_sr_1)
-- ❓ [One Day at a Time](http://www.imdb.com/title/tt5339440/?ref_=nv_sr_1)
-- ❓ [This Is Us](http://www.imdb.com/title/tt5555260/) 
+- ❓ [American Housewife](http://www.imdb.com/title/tt5396394/?ref_=nv_sr_1)
+- 💖 [The Good Place](http://www.imdb.com/title/tt4955642/?ref_=nv_sr_1)
+- 🤢 [The Secret Life of the American Teenager](http://www.imdb.com/title/tt1179817/?ref_=nv_sr_1)
+- 🕶 [Veep](http://www.imdb.com/title/tt1759761/?ref_=nv_sr_1) 
+
 ## The rest of the TV I've watched 
 
 - ✅ [30 Rock](http://www.imdb.com/title/tt0496424/?ref_=nv_sr_1)
@@ -23,6 +21,8 @@
 - 🤢 [Arrested Development](http://www.imdb.com/title/tt0367279/?ref_=nv_sr_1)
 - 🕶 [Battlestar Galactica](http://www.imdb.com/title/tt0407362/)
 - ❤️ [Better Call Saul](http://www.imdb.com/title/tt3032476/?ref_=nv_sr_1)
+- ❤️ [Big Little Lies](http://www.imdb.com/title/tt3920596/?ref_=nv_sr_1)
+- ❤️ [Black-ish](http://www.imdb.com/title/tt3487356/?ref_=nv_sr_1)
 - 😡 [The Blacklist](http://www.imdb.com/title/tt2741602/)
 - 🕶 [Black Mirror](http://www.imdb.com/title/tt2085059/)
 - 🕶 [The Bletchly Circle](http://www.imdb.com/title/tt2275990/?ref_=nv_sr_2)
@@ -35,6 +35,7 @@
 - ❤️ [Call the Midwife](http://www.imdb.com/title/tt1983079/?ref_=nv_sr_1)
 - ✅ [Criminal Minds](http://www.imdb.com/title/tt0452046/?ref_=nv_sr_1) 
 - 🕶 [The Crown](http://www.imdb.com/title/tt4786824/)
+- 🕶 [Dancing with the Stars](http://www.imdb.com/title/tt0463398/?ref_=nv_sr_1)
 - 🕶 [Daredevil](http://www.imdb.com/title/tt3322312/?ref_=nv_sr_1)
 - ❤️ [Dead Like Me](http://www.imdb.com/title/tt0348913/?ref_=nv_sr_1) 
 - ✅ [Dexter](http://www.imdb.com/title/tt0773262/?ref_=nv_sr_1) - gave up at season 5
@@ -47,6 +48,7 @@
 - 💖 [Firefly](http://www.imdb.com/title/tt0303461/?ref_=nv_sr_2)
 - 💖 [Flight of the Conchords](http://www.imdb.com/title/tt0863046/?ref_=nv_sr_2) 
 - ❤️ [The Fosters](http://www.imdb.com/title/tt2262532/) 
+- ❤️ [Fresh Off the Boat](http://www.imdb.com/title/tt3551096/?ref_=nv_sr_1)
 - 🕶 [Friday Night Lights](http://www.imdb.com/title/tt0758745/?ref_=nv_sr_1) 
 - 🕶 [Friends](http://www.imdb.com/title/tt0108778/?ref_=nv_sr_1) 
 - 🤢 [Fuller House](http://www.imdb.com/title/tt3986586/?ref_=nv_sr_1)
@@ -73,6 +75,7 @@
 - ✅ [Lucas Bros Moving Co](http://www.imdb.com/title/tt3042900/?ref_=nv_sr_1) 
 - 🕶 [Mad Men](http://www.imdb.com/title/tt0804503/?ref_=nv_sr_1)  
 - ✅ [Madame Secretary](http://www.imdb.com/title/tt3501074/?ref_=nv_sr_1) - stopped watching halfway through season 1
+- 🕶 [The Man in the High Castle](http://www.imdb.com/title/tt1740299/?ref_=nv_sr_1)
 - ❤️ [MasterChef](http://www.imdb.com/title/tt1694423/?ref_=nv_sr_1)
 - ✅ [Master of None](http://www.imdb.com/title/tt4635276/)
 - ✅ [Masters of Sex](http://www.imdb.com/title/tt2137109/)
@@ -84,6 +87,7 @@
 - ❤️ [Nurse Jackie](http://www.imdb.com/title/tt1190689/?ref_=nv_sr_1) 
 - 💖 [The Office](http://www.imdb.com/title/tt0386676/?ref_=nv_sr_1) 
 - ✅ [The Office (U.K.)](http://www.imdb.com/title/tt0290978/?ref_=tt_rec_tt) 
+- ✅ [One Day at a Time](http://www.imdb.com/title/tt5339440/?ref_=nv_sr_1)
 - ❤️ [Orange is the New Black](http://www.imdb.com/title/tt2372162/?ref_=nv_sr_1) 
 - ❤️ [Outlander](http://www.imdb.com/title/tt3006802/?ref_=nv_sr_1) 
 - 💖 [Parks and Rec](http://www.imdb.com/title/tt1266020/?ref_=nv_sr_1)
@@ -100,6 +104,7 @@
 - ✅ [South Park](http://www.imdb.com/title/tt0121955/?ref_=nv_sr_1) 
 - ❤️ [Stranger Things](http://www.imdb.com/title/tt4574334/)
 - ❤️ [Switched at Birth](http://www.imdb.com/title/tt1758772/?ref_=nv_sr_1) 
+- 🕶 [This Is Us](http://www.imdb.com/title/tt5555260/) 
 - 🤢 [Tim and Eric Awesome Show](http://www.imdb.com/title/tt0912343/?ref_=nv_sr_2)
 - ✅ [Transparent](http://www.imdb.com/title/tt3502262/?ref_=nv_sr_1)
 - ✅ [True Blood](http://www.imdb.com/title/tt0844441/?ref_=nv_sr_1) - stopped watching in season 5
@@ -125,7 +130,6 @@
 - [Reign](http://www.imdb.com/title/tt2710394/?ref_=nv_sr_1)
 - [Six Feet Under](http://www.imdb.com/title/tt0248654/?ref_=nv_sr_1)
 - [Supergirl](http://www.imdb.com/title/tt4016454/?ref_=nv_sr_1)
-- [Veep](http://www.imdb.com/title/tt1759761/?ref_=nv_sr_1) 
 - [The X-Files](http://www.imdb.com/title/tt0106179/?ref_=nv_sr_2)
 - [The Wire](http://www.imdb.com/title/tt0306414/?ref_=nv_sr_1)
 
