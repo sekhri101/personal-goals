@@ -1,6 +1,6 @@
 # Personal Goals
 Personal goals made open source. Not active right now, but still used as a
-repo for things I want to save.
+repo for things I want to save. I might pick it up again soon. 
 
 ## Table of Contents
 - [Accomplishments](accomplishments/README.md) - Everything I got done from week to week
