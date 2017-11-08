@@ -4,6 +4,7 @@
 
 - [Articles](./articles.md)
 - [Learn Javascript](./javascript.md)
+- [Learn Python and Django](./python.md)
 - [Talks](./talks.md)
 - [Television Shows](./television.md)
 - [Travel/Packing List](./travel.md)
