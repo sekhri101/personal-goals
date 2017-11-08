@@ -6,6 +6,7 @@
 
 - [Best Practices for Writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/)
 - [The Definitive Docker Cheat Sheet](https://dockercheatsheet.painlessdocker.com/)
+- [ELI5 Docker](https://www.reddit.com/r/linuxquestions/comments/4cnhvh/could_someone_explain_docker_to_me_like_a_5_year/) - Reddit thread with some great analogies for understanding Docker 
 - [Get Started with Docker](https://docs.docker.com/get-started/)
 - [Get Started with Docker Compose](https://docs.docker.com/compose/gettingstarted/)
 - [Overview of Docker Compose](https://docs.docker.com/compose/overview/)
