@@ -8,7 +8,9 @@
 - [Introduction to JavaScript](https://www.codecademy.com/catalog/language/javascript) - CodeAcademy
 - [egghead.io JavaScript](https://egghead.io/browse/languages/javascript) - Some classes require $ 
 - [JavaScript30](https://javascript30.com/) - Build 30 things in 30 days 
+- [Pluralsight JavaScript Path](https://www.pluralsight.com/paths/javascript) - requires $ 
 - [Practical JavaScript](https://watchandcode.com/p/practical-javascript) - Gordon Zhu of Watch and Code 
+- [Treehouse Beginner JavaScript Track](https://teamtreehouse.com/tracks/beginner-javascript) - requires $ 
 
 ## React.js 
 
@@ -19,6 +21,7 @@
 - [Learn React.js: Parts I and II](https://www.codecademy.com/catalog/language/javascript) - CodeAcademy
 - [Modern React with Redux](https://www.udemy.com/react-redux/) - Udemy; requires $ 
 - [Official tutorial](https://reactjs.org/tutorial/tutorial.html)
+- [Pluralsight React Path](https://www.pluralsight.com/paths/react) - requires $ 
 - [Pro React](https://smile.amazon.com/Pro-React-Cassio-Sousa-Antonio/dp/1484212614?sa-no-redirect=1) - Cassio de Sousa Antonio; book $ 
 - [Reango](https://github.com/ncrmro/reango) - Django boilerplate with GraphQL, serving a Webpack compiled React Relay Modern frontend, by [ncrmro](https://github.com/ncrmro)
 - [React Armory](https://reactarmory.com/) 
@@ -26,6 +29,7 @@
 - [React.js Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/Reactjs_Succinctly) - Samer Buna
 - [React Fundamentals](https://tylermcginnis.com/courses/react-fundamentals/) - Tyler McGinnis
 - [The Road to Learn React](https://leanpub.com/the-road-to-learn-react) - Robin Wieruch; book $ 
+- [Treehouse Learn React Track](https://teamtreehouse.com/tracks/learn-react) - requires $ 
 
 ## Other Lists 
 
