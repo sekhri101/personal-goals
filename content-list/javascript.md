@@ -16,6 +16,7 @@
 
 - [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) - Udemy, requires $ 
 - [egghead.io React](https://egghead.io/browse/frameworks/react) - Some classes require $ 
+- [JavaScript and React for Developers: Master the Essentials](https://www.udemy.com/js-and-react-for-devs/) - Udemy; requires $ 
 - [Learning React.js](https://www.lynda.com/React-js-tutorials/Learn-React-js-Basics/519668-2.html) - Lynda.com; requires $ 
 - [Learn and Understand React](https://www.udemy.com/learn-and-understand-react-and-redux-i/) - Udemy; requires $ 
 - [Learn React.js: Parts I and II](https://www.codecademy.com/catalog/language/javascript) - CodeAcademy
@@ -35,6 +36,7 @@
 
 Links to other people's lists of resources 
 
+- [The Most Essential List of Resources for Front-End Beginners](https://github.com/thedaviddias/Resources-Front-End-Beginner) - [thedaviddias](https://github.com/thedaviddias/); resources in English and French 
 - [React/Redux Links](https://github.com/markerikson/react-redux-links) - [markerikson](https://github.com/markerikson/) 
 - [Road to Modern JavaScript (and React)](https://github.com/sylvhama/modern-js) - [sylvhama](https://github.com/sylvhama/)
 
