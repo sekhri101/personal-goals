@@ -16,3 +16,16 @@
 - [Django REST Framework Tutorial](http://www.django-rest-framework.org/tutorial/1-serialization/)
 - [Official Django Tutorial](https://docs.djangoproject.com/en/stable/intro/tutorial01/) 
 - [Treehouse - Learn Django track](https://teamtreehouse.com/tracks/learn-django) - Treehouse; requires $ 
+
+### Python and Django Reference 
+
+Links for when you've completed some tutorials and want a more docs-y, less tutorial-y experience. 
+
+- [Awesome Django](http://awesome-django.com/)
+- [Awesome Python](https://awesome-python.com/)
+- [Classy Class-Based Views](http://ccbv.co.uk/)
+- [Classy Django Forms](http://cdf.9vo.lt/)
+- [Classy Django REST Framework](http://www.cdrf.co/)
+- [Create Parameterized Tests with `pytest`](https://raphael.codes/blog/create-parametrized-tests-with-pytest/) - Raphael Pierzina
+- Django Project Optimization [Part 1](http://dizballanze.com/en/django-project-optimization-part-1/), [part 2](http://dizballanze.com/en/django-project-optimization-part-2/), and [part 3](http://dizballanze.com/django-project-optimization-part-3/) - Yuri Shikanov
+- [Multitenancy: Juggling Customer Data in Django](https://www.vinta.com.br/blog/2017/multitenancy-juggling-customer-data-django/) - Filipe Ximenes
