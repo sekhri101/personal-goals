@@ -15,5 +15,5 @@
 
 - [A Brief Intro to Docker for Djangonauts](http://www.revsys.com/tidbits/brief-intro-docker-djangonauts/) - Lacey Williams Henschel 
 - [Docker: Useful Command Line Stuff](http://www.revsys.com/tidbits/docker-useful-command-line-stuff/) - Lacey Williams Henschel; more Django focused 
-- [Dockerizing Django, uwsgi, and Postgres the Serious Way](http://www.eidel.io/2017/07/10/dockerizing-django-uwsgi-postgres/)
+- [Dockerizing Django, uwsgi, and Postgres the Serious Way](http://www.eidel.io/2017/07/10/dockerizing-django-uwsgi-postgres/) - Oliver Eidel
 - [Quickstart: Compose and Django](https://docs.docker.com/compose/django/)
