@@ -10,6 +10,7 @@
 - [Get Started with Docker](https://docs.docker.com/get-started/)
 - [Get Started with Docker Compose](https://docs.docker.com/compose/gettingstarted/)
 - [Overview of Docker Compose](https://docs.docker.com/compose/overview/)
+- [A Docker Tutorial for Beginners](https://docker-curriculum.com/)
 
 ## Docker and Django
 
