@@ -45,3 +45,4 @@ Links to other people's lists of resources
 Links for when you've completed some tutorials and want a more docs-y, less tutorial-y experience. 
 
 - [cheatsheet-js](https://github.com/gordonmzhu/cheatsheet-js) - Gordon Zhu; reference for understanding `this`
+- [Test-Driven JS Assessment](https://github.com/rmurphey/js-assessment) - [Rebecca Murphey](https://github.com/rmurphey); test your JS skills by writing code to make the tests pass 
