@@ -39,3 +39,9 @@ Links to other people's lists of resources
 - [The Most Essential List of Resources for Front-End Beginners](https://github.com/thedaviddias/Resources-Front-End-Beginner) - [thedaviddias](https://github.com/thedaviddias/); resources in English and French 
 - [React/Redux Links](https://github.com/markerikson/react-redux-links) - [markerikson](https://github.com/markerikson/) 
 - [Road to Modern JavaScript (and React)](https://github.com/sylvhama/modern-js) - [sylvhama](https://github.com/sylvhama/)
+
+## References 
+
+Links for when you've completed some tutorials and want a more docs-y, less tutorial-y experience. 
+
+- [cheatsheet-js](https://github.com/gordonmzhu/cheatsheet-js) - Gordon Zhu; reference for understanding `this`
