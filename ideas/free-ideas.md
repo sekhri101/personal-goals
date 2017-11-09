@@ -15,6 +15,6 @@ See an idea? Like it? Steal it.
   - a "method" is a function on a class
   - to "vendor" something in
 
-## 30-60 min. workshops 
+## 30-60 min. workshops or talks 
 
 - [ ] Conference organizers: How to respond to Code of Conduct violations 
