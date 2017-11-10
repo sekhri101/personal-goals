@@ -29,4 +29,5 @@ Links for when you've completed some tutorials and want a more docs-y, less tuto
 - [Create Parameterized Tests with `pytest`](https://raphael.codes/blog/create-parametrized-tests-with-pytest/) - Raphael Pierzina
 - Django Project Optimization [Part 1](http://dizballanze.com/en/django-project-optimization-part-1/), [part 2](http://dizballanze.com/en/django-project-optimization-part-2/), and [part 3](http://dizballanze.com/django-project-optimization-part-3/) - Yuri Shikanov
 - [Multitenancy: Juggling Customer Data in Django](https://www.vinta.com.br/blog/2017/multitenancy-juggling-customer-data-django/) - Filipe Ximenes
+- [Requests: Quickstart](http://docs.python-requests.org/en/master/user/quickstart/)
 - [Two Scoops of Django 1.11: Best Practices for the Django Web Framework](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11) -= Danny Roy Greenfeld and Audrey Roy Greenfeld; book :moneybag:

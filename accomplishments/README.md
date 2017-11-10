@@ -1,49 +1,51 @@
 [<< Home](../README.md)
 
-# Cool Things I Did 
+# 2017 Cool Things I Did 
 
-## May 2016 
+## November 2017 
 
-- 5/2: Sent out Django Girls acceptance emails, finished reviewing DjangoCon talks
+- Started [JS Assessment](https://github.com/williln/js-assessment)
+- Completed [React tutorial](https://reactjs.org/tutorial/tutorial.html)
+- Completed [Practical Javascript](https://watchandcode.com/p/practical-javascript)
+- Completed [Regular Expressions in Python](https://teamtreehouse.com/library/regular-expressions-in-python) on Treehouse
+- Completed [Introducing JavaScript](https://teamtreehouse.com/library/introducing-javascript) on Treehouse; was very beginner-level 
+- Completed [React Basics](https://teamtreehouse.com/library/react-basics) on Treehouse
+- Wrote [Docker: Useful Command Line Stuff](http://www.revsys.com/tidbits/docker-useful-command-line-stuff/)
 
-## April 2016
+## October 2017
 
-- 4/26: Finished a contract for Treehouse 
-- 4/25: Stepped down from Django Girls Support Team to focus on self-care 
-- 4/20: Spoke at Refresh PDX 
-- 4/14: Got both the cats in their crates and to the vet 
-- 4/12: Got the PyCon 5k to sponsor Big Brothers Big Sisters 
-- 4/2: Made a commit to PyBee 
+- [Completed Django REST Framework Tutorial](http://www.django-rest-framework.org/tutorial/1-serialization/)
+- Complete [Using the Requests Library](https://teamtreehouse.com/library/using-the-requests-library)
+- Read [Requests Quickstart](http://docs.python-requests.org/en/master/user/quickstart/)
+- Completed [Introduction to Docker](https://teamtreehouse.com/library/introduction-to-docker)
+- Completed [Get Started with Docker tutorial](https://docs.docker.com/get-started/)
+- Wrote [A Brief Intro to Docker for Djangonauts](http://www.revsys.com/tidbits/brief-intro-docker-djangonauts/)
+- Started at Revsys 
 
-## March 2016 
+## September 2017 
 
-- 3/31: Spoke at DjangoCon Europe 
-- 3/29: Spent Easter in a foreign country alone 
-- 3/15: Had a Treehouse course published 
-- 3/13: Ran the Shamrock 5k 
-- 3/8: Refinanced student loan on a standard repayment plan 
+- Left UT 
+- Completed about half of [Obey the Testing Goat](https://github.com/williln/testinggoat)
+- 3-year anniversary with [Big Brothers Big Sisters](https://itsbigtime.org/) 
 
-## February 2016
- 
-- 2/6: Co-organized the Django Girls workshop 
-- 2/2: Became DjangoCon US Co-Chair 
+## August 2017 
 
-## January 2016 
+- Chaired [DjangoCon US 2017](https://2017.djangocon.us/)
+- Wrote [How does working remotely work?](https://www.laceyhenschel.com/blog/remote-work)
 
-- 1/29: PyLadies remote presentation 
-- 1/20: Learned to ski 
+## July 2017 
 
-# Weekly Accomplishments 
-[Template](./0-review-template.md)
+- Shipped a GitHub course at UT that was really well-received 
 
-- [March 6-12, 2016](./2016-03-week2.md)
-- [March 13-20, 2016](./2016-03-week3.md)
-- [March 28- April 3, 2016](./2016-03-week4.md)
-- [April 3-9, 2016](./2016-04-week1.md)
-- [April 10-16, 2016](./2016-04-week2.md)
-- [April 17-23, 2016](./2016-04-week3.md)
-- [April 24-30, 2016](./2016-04-week4.md)
-- [May 1-7, 2016](./2016-05-week1.md)
-- [May 8-14, 2016](./2016-05-week2.md)
-- [May 15-21, 2016](./2016-05-week3.md)
-- [May 22-28, 2016](./2016-05-week4.md)
+## June 2017 
+
+- Presented [With a Little Help From my Network](https://speakerdeck.com/williln/with-a-little-help-from-my-network) at ACT-W Portland 
+- Gave first corporate training session 
+
+## May 2017 
+
+- Attended Pycon; wrote [PyCon 2017: Talks to Brush Up on Skills](https://www.laceyhenschel.com/blog/2017/5/24/pycon-2017-talks-to-brush-up-on-skills)
+
+## February 2017
+
+- Wrote [How To: Conference Proposals](https://www.laceyhenschel.com/blog/2017/2/13/how-to-conference-proposals)
