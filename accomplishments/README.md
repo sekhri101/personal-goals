@@ -4,6 +4,8 @@
 
 ## November 2017 
 
+- Recorded a song with my mom 
+- Completed [JavaScript Basics](https://teamtreehouse.com/library/javascript-basics) on Treehouse
 - Started [JS Assessment](https://github.com/williln/js-assessment)
 - Completed [React tutorial](https://reactjs.org/tutorial/tutorial.html)
 - Completed [Practical Javascript](https://watchandcode.com/p/practical-javascript)
