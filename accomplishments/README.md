@@ -2,6 +2,11 @@
 
 # 2017 Cool Things I Did 
 
+## December 2017 
+
+- :house_with_garden: Bought a house! 
+- :airplane: Visited REVSYS in person
+
 ## November 2017 
 
 - Recorded a song with my mom 
@@ -22,7 +27,7 @@
 - Completed [Introduction to Docker](https://teamtreehouse.com/library/introduction-to-docker)
 - Completed [Get Started with Docker tutorial](https://docs.docker.com/get-started/)
 - Wrote [A Brief Intro to Docker for Djangonauts](http://www.revsys.com/tidbits/brief-intro-docker-djangonauts/)
-- Started at Revsys 
+- Started at REVSYS 
 
 ## September 2017 
 
