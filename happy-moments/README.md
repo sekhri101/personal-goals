@@ -2,6 +2,12 @@
 
 # Happy Moments
 
+## 2018
+
+- 01/02/2018: Submitted a talk to PyCon that I'm really proud of 
+
+## 2016 
+
 4/28/16
 ---
 S and I won the "Most Creative" prize for the website we made! :trophy:
