@@ -2,20 +2,22 @@
 
 # TV I watch 
 
-## Recent for me 
+## Watched in 2018 
+_at least one episode_ 
 
-- ❓ [American Housewife](http://www.imdb.com/title/tt5396394/?ref_=nv_sr_1)
-- 💖 [The Good Place](http://www.imdb.com/title/tt4955642/?ref_=nv_sr_1)
-- 🤢 [The Secret Life of the American Teenager](http://www.imdb.com/title/tt1179817/?ref_=nv_sr_1)
-- 🕶 [Veep](http://www.imdb.com/title/tt1759761/?ref_=nv_sr_1) 
+- Black Mirror 
+- The Marvelous Mrs. Maisel
+- The Office  
+- Stranger Things
 
-## The rest of the TV I've watched 
+## Lacey's TV Ratings 
 
 - ✅ [30 Rock](http://www.imdb.com/title/tt0496424/?ref_=nv_sr_1)
 - 💖 [All Creatures Great and Small](http://www.imdb.com/title/tt0075472/?ref_=nv_sr_1)
 - 🤢 [The Amazing Race](http://www.imdb.com/title/tt0285335/) 
 - ❤️ [American Crime Story: The People Vs. O.J. Simpson](http://www.imdb.com/title/tt2788432/) 
 - 🤢 [American Horror Story](http://www.imdb.com/title/tt1844624/?ref_=nv_sr_1)
+- ✅ [American Housewife](http://www.imdb.com/title/tt5396394/?ref_=nv_sr_1)
 - ❤️ [The Americans](http://www.imdb.com/title/tt2149175/?ref_=nv_sr_1)
 - 🕶 [Angel](http://www.imdb.com/title/tt0162065/?ref_=nv_sr_1)
 - 🤢 [Arrested Development](http://www.imdb.com/title/tt0367279/?ref_=nv_sr_1)
@@ -55,6 +57,7 @@
 - ❤️ [Game of Thrones](http://www.imdb.com/title/tt0944947/) 
 - 💖 [Gilmore Girls](http://www.imdb.com/title/tt0238784/?ref_=nv_sr_1) (But skip [Gilmore Girls: A Year in the Life](http://www.imdb.com/title/tt5435008/))
 - ✅ [Good Neighbors](http://www.imdb.com/title/tt0075511/?ref_=nv_sr_1) 
+- 💖 [The Good Place](http://www.imdb.com/title/tt4955642/?ref_=nv_sr_1)
 - 🕶 [The Good Wife](http://www.imdb.com/title/tt1442462) 
 - ❤️ [Grace and Frankie](http://www.imdb.com/title/tt3609352/?ref_=nv_sr_1)
 - 💖 [The Great British Bake-Off](http://www.imdb.com/title/tt1877368/?ref_=nv_sr_1)
@@ -95,9 +98,9 @@
 - ✅ [Prison Break](http://www.imdb.com/title/tt0455275/?ref_=nv_sr_1)
 - 🕶 [Rick and Morty](http://www.imdb.com/title/tt2861424/?ref_=nv_sr_1)
 - 🕶 [Scandal](http://www.imdb.com/title/tt1837576/?ref_=nv_sr_1)
+- 🤢 [The Secret Life of the American Teenager](http://www.imdb.com/title/tt1179817/?ref_=nv_sr_1)
 - 🕶 [Sex and the City](http://www.imdb.com/title/tt0159206/?ref_=nv_sr_1) 
 - ❤️ [Shameless](http://www.imdb.com/title/tt1586680/)
-- 🕶 [Sex and the City](http://www.imdb.com/title/tt0159206/?ref_=nv_sr_1)  
 - 🕶 [Sherlock](http://www.imdb.com/title/tt1475582/)
 - ✅ [Silicon Valley](http://www.imdb.com/title/tt2575988/) - makes me 🤢 and 🕶, so I split the difference 
 - ❤️ [The Sopranos](http://www.imdb.com/title/tt0141842/?ref_=fn_al_tt_1) 
@@ -111,6 +114,7 @@
 - ❤️ [True Detective](http://www.imdb.com/title/tt2356777/?ref_=nv_sr_1) - only season 1
 - ❤️ [Twenty Twelve](http://www.imdb.com/title/tt1861225/?ref_=nv_sr_2)
 - ✅ [Unbreakable Kimmy Schmidt](http://www.imdb.com/title/tt3339966/)
+- 🕶 [Veep](http://www.imdb.com/title/tt1759761/?ref_=nv_sr_1) 
 - ✅ [The Vicar of Dibley](http://www.imdb.com/title/tt0233084/?ref_=nv_sr_1)
 - ❤️ [W1A](http://www.imdb.com/title/tt3610926/?ref_=fn_al_tt_1) 
 - 🕶 [The Walking Dead](http://www.imdb.com/title/tt1520211/?ref_=nv_sr_1) 
@@ -118,20 +122,6 @@
 - ❤️ [Westworld](http://www.imdb.com/title/tt0475784/?ref_=nv_sr_1) 
 - 🤢 [Workaholics](http://www.imdb.com/title/tt1610527/?ref_=nv_sr_1)
 
-## To Watch in the Future
-- [Atlanta](http://www.imdb.com/title/tt4288182/) 
-- [Boardwalk Empire](http://www.imdb.com/title/tt0979432/?ref_=nv_sr_1)
-- [Bosch](http://www.imdb.com/title/tt3502248/?ref_=nv_sr_1)
-- [Community](http://www.imdb.com/title/tt1439629/) 
-- [ER](http://www.imdb.com/title/tt0108757/?ref_=nv_sr_4)
-- [iZombie](http://www.imdb.com/title/tt3501584/?ref_=nv_sr_1)
-- [Luke Cage](http://www.imdb.com/title/tt3322314/?ref_=nv_sr_1)
-- [The Path](http://www.imdb.com/title/tt4789576/?ref_=nv_sr_1) 
-- [Reign](http://www.imdb.com/title/tt2710394/?ref_=nv_sr_1)
-- [Six Feet Under](http://www.imdb.com/title/tt0248654/?ref_=nv_sr_1)
-- [Supergirl](http://www.imdb.com/title/tt4016454/?ref_=nv_sr_1)
-- [The X-Files](http://www.imdb.com/title/tt0106179/?ref_=nv_sr_2)
-- [The Wire](http://www.imdb.com/title/tt0306414/?ref_=nv_sr_1)
 
 ## Key 
 - 💖 I love it and it's nostalgic or "hits home" for me in some way. I am always caught up on this show. 
