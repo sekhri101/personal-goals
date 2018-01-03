@@ -7,7 +7,6 @@ repo for things I want to save. I might pick it up again soon.
 - [Content List](content-list/README.md) - Talks and articles I like
 - [Happy Moments](happy-moments/README.md) - Happy things that happened
 - [Ideas](ideas/README.md) - Ideas for talks, apps, blog posts
-- [Inspiration](inspiration/README.md) - Websites and examples that I think are cool
 - [Things I've Learned](til/README.md)
 
 ## Template for README.md
