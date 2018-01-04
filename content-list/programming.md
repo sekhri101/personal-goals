@@ -17,6 +17,10 @@
 - [Dockerizing Django, uwsgi, and Postgres the Serious Way](http://www.eidel.io/2017/07/10/dockerizing-django-uwsgi-postgres/) - Oliver Eidel
 - [Quickstart: Compose and Django](https://docs.docker.com/compose/django/)
 
+# Git and GitHub
+
+- [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
 # JavaScript 
 
 - [Basic JavaScript](https://www.freecodecamp.org/challenges/comment-your-javascript-code) - FreeCodeCamp
@@ -100,3 +104,23 @@ Links for when you've completed some tutorials and want a more docs-y, less tuto
 - [Things You Must Know About Django Admin As Your App Gets Bigger](https://medium.com/@hakibenita/things-you-must-know-about-django-admin-as-your-app-gets-bigger-6be0b0ee9614) - Haki Benita
 - [Time Zones in Pytz & Django](https://tommikaikkonen.github.io/timezones/) - Tommi Kaikkonen 
 - [Two Scoops of Django 1.11: Best Practices for the Django Web Framework](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11) -= Danny Roy Greenfeld and Audrey Roy Greenfeld; book :moneybag:
+
+# Kids 
+Resources for children learning to code 
+
+- [Bright and Smart](https://www.brightandsmart.com/) - Camps for kids 6-14 in the Florida area
+- [Code.org](https://studio.code.org/) - Online tutorials for kids 
+- [Codecademy](https://www.codecademy.com/) - Free online coding tutorials 
+- [EarSketch](https://earsketch.gatech.edu/landing/#/) - Learn to code by making music 
+- [Happy Nerds](https://t.co/zznusBfgKL) - A list, broken down by OS, of programming tutorials and resources 
+- [Hello Ruby](https://t.co/E4THWyCenV) - Ruby tutorial 
+- [Hello World! Computer Programming for Kids and Other Beginners](https://www.manning.com/books/hello-world-second-edition) - Book about general programming concepts 
+- [Hour of Code tutorials](https://hourofcode.com/us/learn) - Free tutorials. Use options on left to select for experience level, topic, etc.  
+- [Learn to Program with Minecraft](https://www.nostarch.com/programwithminecraft) - Book about programming in Minecraft 
+- [Let's Learn Python](https://t.co/eDiGNBzqI4) - Python tutorial 
+- [Made with Code](https://www.madewithcode.com/) - Google's website with games and tutorials for a variety of different projects
+- [Pluralsight for Kids](https://www.pluralsight.com/kids-courses) - Free coding tutorials
+- [Python for Kids: A Playful Introduction to Programming](https://www.nostarch.com/pythonforkids) - Book about Python
+- [Python Playground](https://www.nostarch.com/pythonplayground) - Book about Python 
+- [Scratch](https://scratch.mit.edu/) - Programming language and tutorials/projects geared toward kids
+- Turtle Confusion ([English](https://t.co/tY8YdcUwzW)/[Spanish](https://t.co/Hi40oqUdQ5)) - Book (PDF) to teach programming concepts 
