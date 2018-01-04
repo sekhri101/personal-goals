@@ -4,6 +4,7 @@
 
 ## 2018
 
+- 01/03/2018: Did a few loads of laundry. Small thing, but having a washer/dryer actually in my house is great. 
 - 01/02/2018: Submitted a talk to PyCon that I'm really proud of 
 
 ## 2016 
