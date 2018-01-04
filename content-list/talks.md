@@ -16,22 +16,15 @@
 - ["Mediocre Programmer" PyCon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE) (video) - Jacob Kaplan-Moss
 
 ## Django
-- [5 Ways to Make the Django Admin Safer](https://hackernoon.com/5-ways-to-make-django-admin-safer-eb7753698ac8) (article) - Haki Benita
-- [Building a REST API Using Django and Django REST Framework](https://www.youtube.com/watch?v=PwssEec3IRw) (video) - Kenny Yarboro
-- [Building for Flexibility Using Finite State Machines in Django](https://medium.com/@distillerytech/building-for-flexibility-using-finite-state-machines-in-django-2e36ddbd7708) (article) - Dmitry Stepanenko
-- [Crispy Django Forms](https://prezi.com/mjidlobntpof/crispy-django-forms/?utm_campaign=share&utm_medium=copy) (prezi) - Laura Ambrosetti
-- [Django Apps Checklist](http://djangoappschecklist.com/) (article) - Vinta Software 
-- [How to Add Custom Action Buttons to Django Admin](https://medium.com/@hakibenita/how-to-add-custom-action-buttons-to-django-admin-8d266f5b0d41) (article) - Haki Benita 
-- [How to turn Django Admin into a lightweight dashboard](https://medium.com/@hakibenita/how-to-turn-django-admin-into-a-lightweight-dashboard-a0e0bbf609ad) (article) - Haki Benita
+
+- [Building a REST API Using Django and Django REST Framework](https://www.youtube.com/watch?v=PwssEec3IRw) (video) - Kenny Yarboro 
 - [Making Django Really, Really, Ridiculously Secure](https://www.youtube.com/watch?v=H2llNbMe-V4&list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t&index=37) (video) - Kelsey Gilmore-Innis
 - [Minimum Viable Security](https://www.youtube.com/watch?v=r-fjUVMPidk&index=17&list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t) (video) - Jacob Kaplan-Moss
 - [Red User, Blue User, MyUser, auth.User](https://www.youtube.com/watch?v=KHg6AoExYjs) (video) - Russell Keith-Magee
 - [Safe-Ish by Default: The Django Security Model and How to Make it Better](https://opbeat.com/events/djangocon-eu-2016/) (video) - Philip James
 - [Small Shop, Big Solutions: Django and Long-Term Thinking](https://www.youtube.com/watch?v=ghTNAzTOR3o&list=PL38C6768951A6529C&index=9) (video) - Ben Keating. (This is a gorgeous talk about The Long Now and a clock that will run for 10,000 years.)
-- [Soft Deletion in Django](https://medium.com/@adriennedomingus/soft-deletion-in-django-e4882581c340) (article) - Adrienne Domingus
 - [TDD with Django, from scratch](https://www.youtube.com/watch?v=vQjmz9wCjLA) (video) - Harry Percival
 - [Testing](https://www.youtube.com/watch?v=EHyKzPQFXzo) (video) - Ana Balica 
-- [Things You Must Know About Django Admin As Your App Gets Bigger](https://medium.com/@hakibenita/things-you-must-know-about-django-admin-as-your-app-gets-bigger-6be0b0ee9614) (article) - Haki Benita
 - [Using Django with service workers](https://opbeat.com/events/djangocon-eu-2016/) (video) - Adrian Holovaty
 
 ## Git and GitHub
@@ -66,10 +59,8 @@
 
 
 ## Python
-- [Creating paramterized tests with pytest](https://raphael.codes/blog/create-parametrized-tests-with-pytest/) (article) - Raphael Pierzina
 - [Datetimes and Timezones in Python](https://www.youtube.com/watch?v=WEwUsJBQH7k) (video) - Mahdi Yusuf
 - [Python List Comprehensions](https://www.youtube.com/watch?v=u-mhKtC1Xh4) (video) - Trey Hunner
-- [Time Zones in Pytz & Django](https://tommikaikkonen.github.io/timezones/) (article) - Tommi Kaikkonen 
 - ["Words, Words, Words": Reading Shakespeare with Python](https://www.youtube.com/watch?v=EoWG0lavg9U) (video) - Adam Palay
 
 # My Own Talks
