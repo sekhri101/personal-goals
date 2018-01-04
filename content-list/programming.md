@@ -1,0 +1,93 @@
+[<< Home](../README.md)
+
+# Docker 
+
+- [Best Practices for Writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/)
+- [The Definitive Docker Cheat Sheet](https://dockercheatsheet.painlessdocker.com/)
+- [ELI5 Docker](https://www.reddit.com/r/linuxquestions/comments/4cnhvh/could_someone_explain_docker_to_me_like_a_5_year/) - Reddit thread with some great analogies for understanding Docker 
+- [Get Started with Docker](https://docs.docker.com/get-started/)
+- [Get Started with Docker Compose](https://docs.docker.com/compose/gettingstarted/)
+- [Overview of Docker Compose](https://docs.docker.com/compose/overview/)
+- [A Docker Tutorial for Beginners](https://docker-curriculum.com/)
+
+## Docker and Django
+
+- [A Brief Intro to Docker for Djangonauts](http://www.revsys.com/tidbits/brief-intro-docker-djangonauts/) - Lacey Williams Henschel 
+- [Docker: Useful Command Line Stuff](http://www.revsys.com/tidbits/docker-useful-command-line-stuff/) - Lacey Williams Henschel; more Django focused 
+- [Dockerizing Django, uwsgi, and Postgres the Serious Way](http://www.eidel.io/2017/07/10/dockerizing-django-uwsgi-postgres/) - Oliver Eidel
+- [Quickstart: Compose and Django](https://docs.docker.com/compose/django/)
+
+# JavaScript 
+
+- [Basic JavaScript](https://www.freecodecamp.org/challenges/comment-your-javascript-code) - FreeCodeCamp
+- [Introduction to JavaScript](https://www.codecademy.com/catalog/language/javascript) - CodeAcademy
+- [egghead.io JavaScript](https://egghead.io/browse/languages/javascript) - Some classes require :moneybag: 
+- [JavaScript30](https://javascript30.com/) - Build 30 things in 30 days 
+- [Pluralsight JavaScript Path](https://www.pluralsight.com/paths/javascript) - requires $ 
+- [Practical JavaScript](https://watchandcode.com/p/practical-javascript) - Gordon Zhu of Watch and Code 
+- [Treehouse Beginner JavaScript Track](https://teamtreehouse.com/tracks/beginner-javascript) - requires $ 
+
+## React.js 
+
+- [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) - Udemy, requires :moneybag:
+- [egghead.io React](https://egghead.io/browse/frameworks/react) - Some classes require :moneybag:
+- [JavaScript and React for Developers: Master the Essentials](https://www.udemy.com/js-and-react-for-devs/) - Udemy; requires :moneybag:
+- [Learning React.js](https://www.lynda.com/React-js-tutorials/Learn-React-js-Basics/519668-2.html) - Lynda.com; requires :moneybag:
+- [Learn and Understand React](https://www.udemy.com/learn-and-understand-react-and-redux-i/) - Udemy; requires :moneybag:
+- [Learn React.js: Parts I and II](https://www.codecademy.com/catalog/language/javascript) - CodeAcademy
+- [Modern React with Redux](https://www.udemy.com/react-redux/) - Udemy; requires :moneybag:
+- [Official tutorial](https://reactjs.org/tutorial/tutorial.html)
+- [Pluralsight React Path](https://www.pluralsight.com/paths/react) - requires :moneybag:
+- [Pro React](https://smile.amazon.com/Pro-React-Cassio-Sousa-Antonio/dp/1484212614?sa-no-redirect=1) - Cassio de Sousa Antonio; book :moneybag:
+- [Reango](https://github.com/ncrmro/reango) - Django boilerplate with GraphQL, serving a Webpack compiled React Relay Modern frontend, by [ncrmro](https://github.com/ncrmro)
+- [React Armory](https://reactarmory.com/) 
+- [React for Beginners](https://reactforbeginners.com/) - Wes Bos; requires :moneybag:
+- [React.js Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/Reactjs_Succinctly) - Samer Buna
+- [React Fundamentals](https://tylermcginnis.com/courses/react-fundamentals/) - Tyler McGinnis
+- [The Road to Learn React](https://leanpub.com/the-road-to-learn-react) - Robin Wieruch; book :moneybag:
+- [Treehouse Learn React Track](https://teamtreehouse.com/tracks/learn-react) - requires :moneybag:
+
+## Other JavaScript Resources 
+
+Links to other people's lists of resources 
+
+- [The Most Essential List of Resources for Front-End Beginners](https://github.com/thedaviddias/Resources-Front-End-Beginner) - [thedaviddias](https://github.com/thedaviddias/); resources in English and French 
+- [React/Redux Links](https://github.com/markerikson/react-redux-links) - [markerikson](https://github.com/markerikson/) 
+- [Road to Modern JavaScript (and React)](https://github.com/sylvhama/modern-js) - [sylvhama](https://github.com/sylvhama/) 
+
+Links for when you've completed some tutorials and want a more docs-y, less tutorial-y experience. 
+
+- [cheatsheet-js](https://github.com/gordonmzhu/cheatsheet-js) - Gordon Zhu; reference for understanding `this`
+- [Test-Driven JS Assessment](https://github.com/rmurphey/js-assessment) - [Rebecca Murphey](https://github.com/rmurphey); test your JS skills by writing code to make the tests pass 
+
+# Python and Django 
+
+## Python
+
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Al Sweigart
+- [Build a Twitter Bot](https://tpinecone.gitbooks.io/build-a-bot-workshop/content/) - Terian Koscik
+- [Treehouse - Learn Python track](https://teamtreehouse.com/tracks/learn-python) - Treehouse; requires :moneybag:
+- [Learn Python the Hard Way](http://learnpythonthehardway.org) - Zed Shaw 
+- [Test-Driven Development with Python](http://www.obeythetestinggoat.com/) - Harry Percival
+
+## Django  
+
+- [Django Girls Tutorial](http://tutorial.djangogirls.org/en/)
+- [Django REST Framework Tutorial](http://www.django-rest-framework.org/tutorial/1-serialization/)
+- [Official Django Tutorial](https://docs.djangoproject.com/en/stable/intro/tutorial01/) 
+- [Treehouse - Learn Django track](https://teamtreehouse.com/tracks/learn-django) - Treehouse; requires :moneybag:
+
+### Other Python and Django Resources
+
+Links for when you've completed some tutorials and want a more docs-y, less tutorial-y experience. 
+
+- [Awesome Django](http://awesome-django.com/)
+- [Awesome Python](https://awesome-python.com/)
+- [Classy Class-Based Views](http://ccbv.co.uk/)
+- [Classy Django Forms](http://cdf.9vo.lt/)
+- [Classy Django REST Framework](http://www.cdrf.co/)
+- [Create Parameterized Tests with `pytest`](https://raphael.codes/blog/create-parametrized-tests-with-pytest/) - Raphael Pierzina
+- Django Project Optimization [Part 1](http://dizballanze.com/en/django-project-optimization-part-1/), [part 2](http://dizballanze.com/en/django-project-optimization-part-2/), and [part 3](http://dizballanze.com/django-project-optimization-part-3/) - Yuri Shikanov
+- [Multitenancy: Juggling Customer Data in Django](https://www.vinta.com.br/blog/2017/multitenancy-juggling-customer-data-django/) - Filipe Ximenes
+- [Requests: Quickstart](http://docs.python-requests.org/en/master/user/quickstart/)
+- [Two Scoops of Django 1.11: Best Practices for the Django Web Framework](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11) -= Danny Roy Greenfeld and Audrey Roy Greenfeld; book :moneybag:
