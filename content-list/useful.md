@@ -14,34 +14,11 @@
 - [Insight Timer](https://insighttimer.com/) - Meditation app
 
 ## Buying
-- [The Sweethome](http://thesweethome.com/) - Lists of the best household items (top toasters, for example)
 - [The Wirecutter](http://thewirecutter.com/) - Lists of the best electronics (top 5 headphones, for example)
 
 ## Programming
-- [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions, with full methods and attributes, for each of Django's class-based generic views.
-- [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Postman](https://www.getpostman.com/) - Mac/Windows/Linux/Chrome app for API testing 
 - [Tota11y](https://khan.github.io/tota11y/) - Accessibility browser applet
-
-### For Kids 
-- [Code.org](https://studio.code.org/) - Online tutorials for kids 
-- [Codecademy](https://www.codecademy.com/) - Free online coding tutorials 
-- [EarSketch](https://earsketch.gatech.edu/landing/#/) - Learn to code by making music 
-- [Happy Nerds](https://t.co/zznusBfgKL) - A list, broken down by OS, of programming tutorials and resources 
-- [Hello Ruby](https://t.co/E4THWyCenV) - Ruby tutorial 
-- [Hello World! Computer Programming for Kids and Other Beginners](https://www.manning.com/books/hello-world-second-edition) - Book about general programming concepts 
-- [Hour of Code tutorials](https://hourofcode.com/us/learn) - Free tutorials. Use options on left to select for experience level, topic, etc.  
-- [Learn to Program with Minecraft](https://www.nostarch.com/programwithminecraft) - Book about programming in Minecraft 
-- [Let's Learn Python](https://t.co/eDiGNBzqI4) - Python tutorial 
-- [Made with Code](https://www.madewithcode.com/) - Google's website with games and tutorials for a variety of different projects
-- [Pluralsight for Kids](https://www.pluralsight.com/kids-courses) - Free coding tutorials
-- [Python for Kids: A Playful Introduction to Programming](https://www.nostarch.com/pythonforkids) - Book about Python
-- [Python Playground](https://www.nostarch.com/pythonplayground) - Book about Python 
-- [Scratch](https://scratch.mit.edu/) - Programming language and tutorials/projects geared toward kids
-- Turtle Confusion ([English](https://t.co/tY8YdcUwzW)/[Spanish](https://t.co/Hi40oqUdQ5)) - Book (PDF) to teach programming concepts 
-
-### Regional Coding Programs for Kids 
-- [Bright and Smart](https://www.brightandsmart.com/) - Camps for kids 6-14 in the Florida area
 
 ## Screencasting / Presentations 
 - [Carnac](http://carnackeys.com/) (Windows only) - Displays the keyboard shortcuts you're using on the screen during screencasting.
