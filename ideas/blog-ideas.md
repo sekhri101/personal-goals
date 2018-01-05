@@ -1,4 +1,4 @@
-<< Home](../README.md)
+<< [Home](../README.md)
 
 # Blog or Talk Ideas
 
@@ -42,9 +42,9 @@
 
 - [x] ✏️ [A Brief Intro to Docker for Djangonauts](https://www.revsys.com/tidbits/brief-intro-docker-djangonauts/) 
 - [x] ✏️ [Docker: Useful Command Line Stuff](https://www.revsys.com/tidbits/docker-useful-command-line-stuff/) 
-- [x] 📣 [Hogwarts is a Terrible Learning Environment](http://opensourcebridge.org/proposals/1815), OpenSource Bridge, June 2016. [slides](https://speakerdeck.com/williln/hogwarts-is-a-terrible-learning-environment-discuss))
+- [x] 📣 [Hogwarts is a Terrible Learning Environment](http://opensourcebridge.org/proposals/1815), OpenSource Bridge, June 2016. [slides](https://speakerdeck.com/williln/hogwarts-is-a-terrible-learning-environment-discuss)
 - [x] ✏️ [How does working remotely work?](https://www.laceyhenschel.com/blog/remote-work)
-- [x] 📣 [Hogwarts is a Terrible Learning Environment](http://opensourcebridge.org/proposals/1815), OpenSource Bridge, June 2016. [slides](https://speakerdeck.com/williln/hogwarts-is-a-terrible-learning-environment-discuss))
+- [x] 📣 [Hogwarts is a Terrible Learning Environment](http://opensourcebridge.org/proposals/1815), OpenSource Bridge, June 2016. [slides](https://speakerdeck.com/williln/hogwarts-is-a-terrible-learning-environment-discuss)
 - [x] ✏️ [How To: Conference Proposals](https://www.laceyhenschel.com/blog/2017/2/13/how-to-conference-proposals) 
 - [x] ✏️ [TIL: How to configure SublimeText for prettier code](https://www.laceyhenschel.com/blog/2017/10/20/til-how-to-configure-sublimetext-for-prettier-code) 
-- [x] 📣 [With A Little Help From My Network](https://drive.google.com/file/d/0Bwky88uBblT2QlBUUlRFOEZyVzg/view), ACT-W Portland, June 2017. [slides](https://speakerdeck.com/williln/with-a-little-help-from-my-network))
+- [x] 📣 [With A Little Help From My Network](https://drive.google.com/file/d/0Bwky88uBblT2QlBUUlRFOEZyVzg/view), ACT-W Portland, June 2017. [slides](https://speakerdeck.com/williln/with-a-little-help-from-my-network)
