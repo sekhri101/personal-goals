@@ -24,9 +24,10 @@
 - [ ] Leaving tech writing/teaching to be a full-time developer again 
 - [ ] Fear and technical writing 
 - [ ] How to conference: Hallway tracking 
+- [ ] For non-coders: How to read and understand code so you can write about it/reproduce it/edit it
 
 ## Personal 
-- [ ] 🥐 Dealing with massive impostor syndrome at a new job 
+- [ ] 🥐 Dealing with massive impostor syndrome at a new job (Submitted to Write the Docs Portland 2018) 
 - [ ] 🥐 The Christmas Eve dog attempted rescue 
 - [ ] what were your personal "tipping points" that led you to the job you have today?
 - [ ] Supportive spaces (Slacks) and how important they are 
