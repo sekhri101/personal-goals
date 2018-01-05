@@ -23,6 +23,7 @@
 - [ ] Organizing a conference 
 - [ ] Leaving tech writing/teaching to be a full-time developer again 
 - [ ] Fear and technical writing 
+- [ ] How to conference: Hallway tracking 
 
 ## Personal 
 - [ ] 🥐 Dealing with massive impostor syndrome at a new job 
