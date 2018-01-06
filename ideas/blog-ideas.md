@@ -10,6 +10,7 @@
 - [ ] Specific things that help beginners step up to intermediate level programmers
 - [ ] Things that people working in production environments learn that isn't obvious to hobbyists and students.
 - [ ] Moving past the DRF tutorial into production: when to nest objects to save client requests, naming conventions, when to put logic in models vs views vs serializers, etc. 
+- [ ] Django aggregation: How to understand it, why it's useful (sorting things, for one. metadata about your db, for another) 
 
 ## Tech - General 
 - [ ] Recruiting diverse speakers and talks for conferences
