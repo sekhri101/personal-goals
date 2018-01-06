@@ -1,11 +1,17 @@
 << [Home](../README.md)
 
 # Today I Learned (TIL)
-## 4/25/17: Mailcatcher
+
+## 2018
+
+- How to use Django aggregators: https://docs.djangoproject.com/en/2.0/topics/db/aggregation/#order-of-annotate-and-filter-clauses (See client project for example code) 
+
+## 2017 and prior 
+### 4/25/17: Mailcatcher
 
 [Mailcatcher](https://mailcatcher.me/) is a tool you can use, even on Django projects, to test sending email locally. Its docs are pretty straightforward. Once it's installed and you have configured your settings (see the docs), just run `mailcatcher` in your project and the SMTP server will start in the background. Then run your management commands, or server, and do what you need to do to send email. Navigate to http://127.0.0.1:1080 to see a UI with the mail being sent and received. Use the UI to stop the server. 
 
-## 4/24/17: How to test a manage.py command 
+### 4/24/17: How to test a manage.py command 
 For work I'm using a repo someone else wrote with a small example project to illustrate how to use Stonebranch, a whole other tool that has nothing to do with what I learned. But I had to learn how a custom management command is structured and how to test it! 
 
 Your management commands should be in a directory inside your app called `management` and then inside another directory called `commands`. Your directory structure will look like this.  
@@ -58,9 +64,9 @@ The template appears nowhere in this example, because Django just takes it for g
 
 CCBV taught me that `template_name` is an attribute on the `ListView` class, so I can just add the line `template_name = specific_article.html` and the CBGV takes care of the rest! 
 
-## 4/6/16: [How to generate a requirements.txt file](http://www.idiotinside.com/2015/05/10/python-auto-generate-requirements-txt/)
+### 4/6/16: [How to generate a requirements.txt file](http://www.idiotinside.com/2015/05/10/python-auto-generate-requirements-txt/)
 
-## 3/9/16: The power of flowcharts! 
+### 3/9/16: The power of flowcharts! 
 That flowcharting is an excellent way to begin the refactoring process. Combining two functions into one was made so much easier by starting with design.
 
 # Stuff to document that now I know 
@@ -79,14 +85,15 @@ That flowcharting is an excellent way to begin the refactoring process. Combinin
 - How to use coverage.py 
 - How to create branches in GitHub/a good GitHub workflow 
 - How to pip install a specific version of a package from GitHub before a new release
+- How to write a custom manage.py command
+- How to use flake8 
+- How to use cookiecutter 
 
 # Stuff I want to learn 
 
-- How to write a custom manage.py command
 - How to make a Slackbot 
 - How to add photos to a Twitter bot 
 - How to add a CI tool to GitHub 
-- How to use flake8 
 - How to add a confirmation email to a Google form 
 - How to handle yaml files and Jekyll
-- How to use cookiecutter 
+
