@@ -105,6 +105,7 @@ Links for when you've completed some tutorials and want a more docs-y, less tuto
 - [Things You Must Know About Django Admin As Your App Gets Bigger](https://medium.com/@hakibenita/things-you-must-know-about-django-admin-as-your-app-gets-bigger-6be0b0ee9614) - Haki Benita
 - [Time Zones in Pytz & Django](https://tommikaikkonen.github.io/timezones/) - Tommi Kaikkonen 
 - [Two Scoops of Django 1.11: Best Practices for the Django Web Framework](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11) -= Danny Roy Greenfeld and Audrey Roy Greenfeld; book :moneybag:
+- [Workflows (States) in Django](https://gist.github.com/Nagyman/9502133) - Craig Nagy
 
 # Kids 
 Resources for children learning to code 
