@@ -4,6 +4,7 @@
 
 ## 2018
 
+- 01/10/2018: Had a long video chat with a friend from high school; made a tasty mushroom and thyme pasta 
 - 01/08/2018: Went to a yoga class in my new town
 - 01/07/2018: Bought a new car
 - 01/04/2018: Went to a yoga class with an instructor I liked a lot
