@@ -4,6 +4,7 @@
 
 ## 2018
 
+- 01/12/2018: Made :hot_pepper: homemade habanero salsa from the Lisa Fain [QUESO!](https://smile.amazon.com/dp/B01MT4WC2K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) cookbook, and it's a great dupe for the [Torchy's Diablo Sauce](https://torchystacos.com/product/hot-sauce/)! 
 - 01/10/2018: Had a long video chat with a friend from high school; made a tasty mushroom and thyme pasta 
 - 01/08/2018: Went to a yoga class in my new town
 - 01/07/2018: Bought a new car
