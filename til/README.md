@@ -4,6 +4,7 @@
 
 ## 2018
 
+- 01/11/18: How to [output a CSV](https://docs.djangoproject.com/en/2.0/howto/outputting-csv/) in Django 
 - 01/11/18: About the [`python-dateutil`](https://dateutil.readthedocs.io/en/stable/) library and how easy it makes converting dates received as strings from APIs into datetime objects and comparing them 
 - 01/10/18: How to use the [`django-fsm`](https://github.com/kmmbvnr/django-fsm) library 
 - 01/05/18: How to use D[jango aggregators](https://docs.djangoproject.com/en/2.0/topics/db/aggregation/#order-of-annotate-and-filter-clauses). (See client project for example code) 
