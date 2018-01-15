@@ -2,6 +2,7 @@
 
 # Lists of things
 
+- [Birdwatching](./birds.md)
 - [Conference Talks](./talks.md)
 - [Games](./games.md)
 - [Movies](./movies.md) 
