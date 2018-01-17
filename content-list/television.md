@@ -6,6 +6,9 @@
 _at least one episode_ 
 
 - Black Mirror 
+- E.R. (pilot)
+- Fresh Off the Boat
+- How I Met Your Mother (pilot) 
 - The Marvelous Mrs. Maisel
 - The Office  
 - Stranger Things
