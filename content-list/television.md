@@ -12,7 +12,10 @@ _at least one episode_
 - How I Met Your Mother (pilot) 
 - The Marvelous Mrs. Maisel
 - The Office  
+- Star Trek: The Next Generation
 - Stranger Things
+- This Is Us 
+- W1A
 
 ## Lacey's TV Ratings 
 
