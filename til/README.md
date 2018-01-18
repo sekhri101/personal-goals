@@ -4,6 +4,7 @@
 
 ## 2018
 
+- 01/18/18: How to [store a file](https://www.revsys.com/blog/2014/dec/03/loading-django-files-from-code/) in a Django model 
 - 01/17/18: How to read a CSV file in Python ([StackOverflow](https://stackoverflow.com/questions/38170071/csv-to-json-convertion-with-python), [example](https://github.com/jefftriplett/trolley/blob/6e440d491bc11c576b6d1470b439df82f667c19a/trolley.py#L75), [more info on the csv module](https://pymotw.com/3/csv/))
 - 01/17/18: How to rename my current Git branch (`git branch -m [new-name]`) 
 - 01/15/18: About `request.data.getlist` for getting lists from forms or API requests. [More info](https://docs.djangoproject.com/en/2.0/ref/request-response/#django.http.QueryDict.getlist).
