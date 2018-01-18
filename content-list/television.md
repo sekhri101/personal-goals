@@ -37,10 +37,12 @@ _at least one episode_
 | ✅ | [Bones](http://www.imdb.com/title/tt0460627/?ref_=fn_al_tt_1) | 1-10 |
 | ❤️ | [Breaking Bad](http://www.imdb.com/title/tt0903747/?ref_=nv_sr_1) | 1-5 |
 | ❤️ | [Broadchurch](http://www.imdb.com/title/tt2249364/?ref_=nv_sr_2) | 1-2 |
+| 💖 | [Brooklyn Nine-Nine](http://www.imdb.com/title/tt2467372/?ref_=nv_sr_1) | 1-present |
 | 💖 | [Broad City](http://www.imdb.com/title/tt2578560/?ref_=nv_sr_1) | 1-3 |
 | 💖 | [Buffy the Vampire Slayer](http://www.imdb.com/title/tt0118276/?ref_=nv_sr_1) | 1-7 |
 | ✅ | [Bunheads](http://www.imdb.com/title/tt2006848/?ref_=nv_sr_1) | 1 |
 | ❤️ | [Call the Midwife](http://www.imdb.com/title/tt1983079/?ref_=nv_sr_1) | 1-2 |
+| ✅ | [Crazy Ex-Girlfriend](http://www.imdb.com/title/tt4094300/?ref_=nv_sr_1)| 1 |
 | ✅ | [Criminal Minds](http://www.imdb.com/title/tt0452046/?ref_=nv_sr_1) | 1-10 |
 | 🕶 | [The Crown](http://www.imdb.com/title/tt4786824/) | 1 |
 | 🕶 | [Dancing with the Stars](http://www.imdb.com/title/tt0463398/?ref_=nv_sr_1) | 24-25 |
@@ -64,6 +66,7 @@ _at least one episode_
 | ❤️ | [Game of Thrones](http://www.imdb.com/title/tt0944947/) | 1-present |
 | 💖 | [Gilmore Girls](http://www.imdb.com/title/tt0238784/?ref_=nv_sr_1) | 1-7 |
 | ✅ | [Gilmore Girls: A Year in the Life](http://www.imdb.com/title/tt5435008/) | 1 |
+| ❓ | [The Good Doctor](http://www.imdb.com/title/tt6470478/?ref_=nv_sr_1) | 1 | 
 | ✅ | [Good Neighbors](http://www.imdb.com/title/tt0075511/?ref_=nv_sr_1) | 1-2 |
 | 💖 | [The Good Place](http://www.imdb.com/title/tt4955642/?ref_=nv_sr_1) | 1-present |
 | 🕶 | [The Good Wife](http://www.imdb.com/title/tt1442462) | 1-7 |
@@ -94,6 +97,7 @@ _at least one episode_
 | ✅ | [Master of None](http://www.imdb.com/title/tt4635276/) | 1 |
 | ✅ | [Masters of Sex](http://www.imdb.com/title/tt2137109/) | 1-2 |
 | ✅ | [The Mindy Project](http://www.imdb.com/title/tt2211129/?ref_=nv_sr_2) | 1-5 |
+| ❓ | [Mom](http://www.imdb.com/title/tt2660806/?ref_=nv_sr_1) | 1 |
 | 🕶 | [My Hero](http://www.imdb.com/title/tt0233084/?ref_=nv_sr_1) | 1 |
 | ✅ | [Nashville](http://www.imdb.com/title/tt2281375/?ref_=nv_sr_1) | 1-4 |
 | 🕶 | [New Girl](http://www.imdb.com/title/tt1826940/?ref_=nv_sr_1) | 1 | 
@@ -105,6 +109,7 @@ _at least one episode_
 | ❤️ | [Orange is the New Black](http://www.imdb.com/title/tt2372162/?ref_=nv_sr_1) | 1-present |
 | ❤️ | [Outlander](http://www.imdb.com/title/tt3006802/?ref_=nv_sr_1) | 1-3 | 
 | 💖 | [Parks and Rec](http://www.imdb.com/title/tt1266020/?ref_=nv_sr_1) | 1-7 |
+| ✅ | [The Path](http://www.imdb.com/title/tt4789576/?ref_=nv_sr_2) | 1 |
 | 🤢 | [Peep Show](http://www.imdb.com/title/tt0387764/?ref_=nv_sr_1) | 1 |
 | ✅ | [Prison Break](http://www.imdb.com/title/tt0455275/?ref_=nv_sr_1) | 1-4 |
 | 🕶 | [Rick and Morty](http://www.imdb.com/title/tt2861424/?ref_=nv_sr_1) | 1 |
@@ -123,12 +128,14 @@ _at least one episode_
 | ✅ | [Transparent](http://www.imdb.com/title/tt3502262/?ref_=nv_sr_1) | 1 | 
 | ✅ | [True Blood](http://www.imdb.com/title/tt0844441/?ref_=nv_sr_1) | 1-5 |
 | ❤️ | [True Detective](http://www.imdb.com/title/tt2356777/?ref_=nv_sr_1) | 1 (pretend like 2 never happened) |
+| 🕶 | [The Tudors](http://www.imdb.com/title/tt0758790/?ref_=nv_sr_1) | 1-4 |
 | ❤️ | [Twenty Twelve](http://www.imdb.com/title/tt1861225/?ref_=nv_sr_2) | 1-2 |
 | ✅ | [Unbreakable Kimmy Schmidt](http://www.imdb.com/title/tt3339966/) | 1-3 |
 | 🕶 | [Veep](http://www.imdb.com/title/tt1759761/?ref_=nv_sr_1) | 1-6 |
 | ✅ | [The Vicar of Dibley](http://www.imdb.com/title/tt0233084/?ref_=nv_sr_1) | Various |
 | ❤️ | [W1A](http://www.imdb.com/title/tt3610926/?ref_=fn_al_tt_1) | 1-2 |
 | 🕶 | [The Walking Dead](http://www.imdb.com/title/tt1520211/?ref_=nv_sr_1) | 1-5 |
+| ❤️ | [Weeds](http://www.imdb.com/title/tt0439100/?ref_=nv_sr_1) | 1-8 |
 | 💖 | [The West Wing](http://www.imdb.com/title/tt0200276/?ref_=nv_sr_1) | 1-7 |
 | ❤️ | [Westworld](http://www.imdb.com/title/tt0475784/?ref_=nv_sr_1) | 1-present |
 | 🤢 | [Workaholics](http://www.imdb.com/title/tt1610527/?ref_=nv_sr_1) | 1 |
