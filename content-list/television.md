@@ -50,7 +50,7 @@ _at least one episode_
 | 🕶 | [Doctor Who](http://www.imdb.com/title/tt0436992/) | 1-3 |
 | ❤️ | [Downton Abbey](http://www.imdb.com/title/tt1606375/?ref_=nv_sr_1) | 1-6 |
 | 🕶 | [Empire](http://www.imdb.com/title/tt3228904/) | 1 |
-| ? | [E.R.](http://www.imdb.com/title/tt0108757/?ref_=nv_sr_1) | 1-? |
+| ❓ | [E.R.](http://www.imdb.com/title/tt0108757/?ref_=nv_sr_1) | 1-? |
 | ✅ | [The Fall](http://www.imdb.com/title/tt2294189/?ref_=nv_sr_1) | 1-2 |
 | ✅ | [Fargo](http://www.imdb.com/title/tt2802850/?ref_=nv_sr_1) | 1 |
 | ✅ | [Father Ted](http://www.imdb.com/title/tt0111958/?ref_=tt_rec_tt) | 1-2 |
@@ -76,7 +76,7 @@ _at least one episode_
 | 😡 | [Homeland](http://www.imdb.com/title/tt1796960/?ref_=nv_sr_1) | 1 |
 | ✅ | [House](http://www.imdb.com/title/tt0412142/) | 1-? |
 | ✅ | [House of Cards](http://www.imdb.com/title/tt1856010/?ref_=nv_sr_1) | 1-3 |
-| ? | [How I Met Your Mother](http://www.imdb.com/title/tt0460649/?ref_=nv_sr_1) | 1-? |
+| ❓ | [How I Met Your Mother](http://www.imdb.com/title/tt0460649/?ref_=nv_sr_1) | 1-? |
 | 🕶 | [How to Get Away with Murder](http://www.imdb.com/title/tt3205802/?ref_=nv_sr_1) | 1-2 |
 | ❤️ | [Insecure](http://www.imdb.com/title/tt5024912/?ref_=nv_sr_1) | 1 |
 | ✅ | [The IT Crowd](http://www.imdb.com/title/tt0487831/) | 1-4 |
