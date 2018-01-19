@@ -4,6 +4,7 @@
 
 | Date  | Bird | Location | Temperature | Weather |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 01/19/2018 | [Steller's Jay](https://www.allaboutbirds.org/guide/Stellers_Jay/id) | backyard feeder | 42 | ☁️ |
 | 01/19/2018 | [Bald Eagle](https://www.allaboutbirds.org/guide/Bald_Eagle/id) | backyard, gliding overhead | 42 | ☁️ |
 | 01/19/2018 | [Western Scrub-Jay](http://audubonportland.org/local-birding/kids-guide/backyard-birds/scrub-jay) | backyard feeder | 42 | ☁️ |
 | 01/18/2018 | [Anna's Hummingbird](https://www.allaboutbirds.org/guide/Annas_Hummingbird/id), female | Backyard feeder | 44 | 🌧 |
