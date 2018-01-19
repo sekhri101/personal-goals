@@ -4,6 +4,7 @@
 
 ## January 2018 
 
+- 01/18/18: Wrote a [blog post](https://www.laceyhenschel.com/blog/2018/1/19/five-for-friyay-useful-python-and-django-libraries18), and this one was technical! 
 - 01/12/18: Asked boss to buy me some software. Asking for things is hard but I did it and it worked! 
 - 01/10/18: Wrote a finite-state machine (without help!) in Django using [`django-fsm`](https://github.com/kmmbvnr/django-fsm)
 - 01/08/18: Went to a yoga class 
