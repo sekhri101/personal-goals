@@ -4,6 +4,9 @@
 
 ## 2018
 
+- 01/21/2018: Sat with D in the morning, telling him about our backyard birds and planning our spring garden
+- 01/20/2018: Took wallpaper down in the kitchen, took down curtains in kitchen, laundry room, and bathroom
+- 01/18/2018: Dinner with Hannah
 - 01/14/2018: Identified my first bird (a Northwest Downy Woodpecker) at the Tualatin National Wildlife Refuge 
 - 01/13/2018: Made brunch with visting friends, made homemade queso, played Overcooked and really loved it! 
 - 01/12/2018: Made :hot_pepper: homemade habanero salsa from the Lisa Fain [QUESO!](https://smile.amazon.com/dp/B01MT4WC2K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) cookbook, and it's a great dupe for the [Torchy's Diablo Sauce](https://torchystacos.com/product/hot-sauce/)! 
