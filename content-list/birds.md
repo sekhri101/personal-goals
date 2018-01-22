@@ -4,6 +4,8 @@
 
 | Date  | Bird | Location | Temperature | Weather |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 01/21/2018 | [Spotted Towhee](https://www.allaboutbirds.org/guide/Spotted_Towhee/id) | backyard feeder | 47 | 🌧 |
+| 01/21/2018 | [Varied Thrush](https://www.allaboutbirds.org/guide/Varied_Thrush/id) | backyard feeder | 47 | 🌧 |
 | 01/19/2018 | [Steller's Jay](https://www.allaboutbirds.org/guide/Stellers_Jay/id) | backyard feeder | 42 | ☁️ |
 | 01/19/2018 | [Bald Eagle](https://www.allaboutbirds.org/guide/Bald_Eagle/id) | backyard, gliding overhead | 42 | ☁️ |
 | 01/19/2018 | [Western Scrub-Jay](http://audubonportland.org/local-birding/kids-guide/backyard-birds/scrub-jay) | backyard feeder | 42 | ☁️ |
