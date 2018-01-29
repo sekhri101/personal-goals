@@ -4,6 +4,7 @@
 
 ## 2018
 
+- 01/27/2018: Cooked mushroom-tomato baked ziti for friends on our ski trip. Listened to friends give each other tarot card readings. 
 - 01/21/2018: Sat with D in the morning, telling him about our backyard birds and planning our spring garden
 - 01/20/2018: Took wallpaper down in the kitchen, took down curtains in kitchen, laundry room, and bathroom
 - 01/18/2018: Dinner with Hannah
