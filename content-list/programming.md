@@ -96,6 +96,7 @@ Links for when you've completed some tutorials and want a more docs-y, less tuto
 - [Create Parameterized Tests with `pytest`](https://raphael.codes/blog/create-parametrized-tests-with-pytest/) - Raphael Pierzina
 - [Crispy Django Forms](https://prezi.com/mjidlobntpof/crispy-django-forms/?utm_campaign=share&utm_medium=copy) (prezi) - Laura Ambrosetti
 - [Django Apps Checklist](http://djangoappschecklist.com/) - Vinta Software
+- [Django Logging, the Right Way](https://lincolnloop.com/blog/django-logging-right-way/) - Peter Baumgartner
 - Django Project Optimization [Part 1](http://dizballanze.com/en/django-project-optimization-part-1/), [part 2](http://dizballanze.com/en/django-project-optimization-part-2/), and [part 3](http://dizballanze.com/django-project-optimization-part-3/) - Yuri Shikanov
 - [How to Add Custom Action Buttons to Django Admin](https://medium.com/@hakibenita/how-to-add-custom-action-buttons-to-django-admin-8d266f5b0d41) - Haki Benita 
 - [How to turn Django Admin into a lightweight dashboard](https://medium.com/@hakibenita/how-to-turn-django-admin-into-a-lightweight-dashboard-a0e0bbf609ad) - Haki Benita
