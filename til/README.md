@@ -4,6 +4,7 @@
 
 ## 2018
 
+- 01/30/18: How to enable [logging in Django](https://lincolnloop.com/blog/django-logging-right-way/)
 - 01/25/18: How to enable logging in Celery 
 - 01/24/18: How to enable Celery on Docker in a Django project to schedule periodic tasks
 - 01/18/18: How to [store a file](https://www.revsys.com/blog/2014/dec/03/loading-django-files-from-code/) in a Django model 
