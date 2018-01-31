@@ -4,6 +4,7 @@
 
 ## January 2018 
 
+- 01/31/18: Wrote [10 Tips for Making the Django Admin More Secure](https://opensource.com/article/18/1/10-tips-making-django-admin-more-secure) for opensource.com with Jeff
 - 01/30/18: Wrote several DRF `detail_routes` without needing to consult the docs, and debugged why one wasn't working (`get_object()` depends on `get_queryset`, and I was using a nonstandard queryset) 
 - 01/27/18: Skiied for ten minutes and didn't die
 - 01/26/18: Published a [blog post about birds](https://www.laceyhenschel.com/blog/2018/1/26/five-for-friyay-birds-in-my-backyard) 
