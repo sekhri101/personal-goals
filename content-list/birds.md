@@ -4,6 +4,7 @@
 
 | Date  | Bird | Location | Temperature | Weather |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 02/01/2018 | [Black-Capped Chickadee](https://www.allaboutbirds.org/guide/Black-capped_Chickadee/id) | Backyard feeder | 44 | ☁️ |
 | 01/26/2018 | [Oregon Junco](https://oregonencyclopedia.org/articles/oregon_junco/) | backyard | 40 | ☁️ |
 | 01/21/2018 | [Spotted Towhee](https://www.allaboutbirds.org/guide/Spotted_Towhee/id) | backyard feeder | 47 | 🌧 |
 | 01/21/2018 | [Varied Thrush](https://www.allaboutbirds.org/guide/Varied_Thrush/id) | backyard feeder | 47 | 🌧 |
@@ -27,3 +28,8 @@
 - Steller's Jay 
 - Western Scrub-Jay 
 - Varied Thrush
+
+## February 
+
+- Anna's Hummingbird 
+- Black-capped Chickadee
