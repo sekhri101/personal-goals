@@ -4,6 +4,7 @@
 
 ## 2018
 
+- 02/05/2018: Caught some work bugs before we deployed and fixed them before they broke anything! 
 - 02/04/2018: [Owls Near Me](https://www.owlsnearme.com/) is a super cute site; awesome blanket-fort day 
 - 02/03/2018: Made clementine and mint sorbet with my Little; made calzones for a friend
 - 02/02/2018: Had Japanese food with D's colleague and her husband 
