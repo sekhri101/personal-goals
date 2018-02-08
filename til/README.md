@@ -4,6 +4,8 @@
 
 ## 2018
 
+- 02/08/18: How to [merge from the command line](https://www.git-tower.com/learn/git/faq/git-merge-branch)
+- 02/07/18: How to [add custom permissions to a DSF detail_route](https://stackoverflow.com/a/29356615) that differ from the permissions in the rest of the viewset
 - 01/30/18: How to enable [logging in Django](https://lincolnloop.com/blog/django-logging-right-way/)
 - 01/25/18: How to enable logging in Celery 
 - 01/24/18: How to enable Celery on Docker in a Django project to schedule periodic tasks
