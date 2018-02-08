@@ -33,3 +33,8 @@
 
 - Anna's Hummingbird 
 - Black-capped Chickadee
+- Oregon Junco
+- Spotted Towhee
+- Steller's Jay
+- Varied Thrush 
+- Western Scrub-Jay 
