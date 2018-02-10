@@ -4,6 +4,10 @@
 
 ## 2018
 
+- 02/10/2018: So many birds in the yard this morning! Hummingbird, black-capped chickadee, robin, spotted towhee, Steller's jay, Oregon junco, varied thrush, and possibly a type of goldfinch, but I haven't gotten a good enough look. 
+- 02/09/2018: Made delicious mushroom queso flameado from my queso cookbook 
+- 02/08/2018: Eating the leftover lemon pie a friend made for yesterday's dinner party 
+- 02/07/2018: Dinner with friends and homemade chicken pot pie 
 - 02/05/2018: Caught some work bugs before we deployed and fixed them before they broke anything! 
 - 02/04/2018: [Owls Near Me](https://www.owlsnearme.com/) is a super cute site; awesome blanket-fort day 
 - 02/03/2018: Made clementine and mint sorbet with my Little; made calzones for a friend
