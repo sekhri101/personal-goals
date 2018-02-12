@@ -4,6 +4,7 @@
 
 | Date  | Bird | Location | Temperature | Weather |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 02/10/2018 | [Red-breasted Nuthatch](https://www.allaboutbirds.org/guide/Red-breasted_Nuthatch/id) | Backyard bath | 40s | ⛅️ |
 | 02/01/2018 | [Black-Capped Chickadee](https://www.allaboutbirds.org/guide/Black-capped_Chickadee/id) | Backyard feeder | 44 | ☁️ |
 | 01/26/2018 | [Oregon Junco](https://oregonencyclopedia.org/articles/oregon_junco/) | backyard | 40 | ☁️ |
 | 01/21/2018 | [Spotted Towhee](https://www.allaboutbirds.org/guide/Spotted_Towhee/id) | backyard feeder | 47 | 🌧 |
@@ -31,10 +32,14 @@
 
 ## February 
 
+- American Robin 
 - Anna's Hummingbird 
 - Black-capped Chickadee
 - Oregon Junco
+- Red-breasted Nuthatch 
 - Spotted Towhee
 - Steller's Jay
 - Varied Thrush 
 - Western Scrub-Jay 
+
+I think our Juncos had some babies! We have some lighter grey, slightly smaller and fuzzier Juncos at our suet feeder lately. 
