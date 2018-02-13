@@ -2,6 +2,12 @@
 
 # 2018 Accomplishments
 
+## February 2018
+
+- 02/12/18: Sent off the draft for the second opensource.com article; debugged a really weird thing 
+- 02/11/18: Published a recipe on [my blog](https://www.laceyhenschel.com/blog/2018/2/11/recipe-mushroom-queso-flameado) 
+- 02/09/18: Guess who can write a detail_route in under an hour? This girl. 
+
 ## January 2018 
 
 - 01/31/18: Wrote [10 Tips for Making the Django Admin More Secure](https://opensource.com/article/18/1/10-tips-making-django-admin-more-secure) for opensource.com with Jeff
