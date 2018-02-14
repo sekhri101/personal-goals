@@ -4,6 +4,7 @@
 
 ## February 2018
 
+- 02/14/18: Made it through the first day of client feedback; connected the weather skill to Slack 
 - 02/13/18: Wrote an [opsdroid weather skill](https://opsdroid.readthedocs.io/en/stable/tutorials/create-weather-skill/) from the tutorial! 
 - 02/12/18: Sent off the draft for the second opensource.com article; debugged a really weird thing 
 - 02/11/18: Published a recipe on [my blog](https://www.laceyhenschel.com/blog/2018/2/11/recipe-mushroom-queso-flameado) 
