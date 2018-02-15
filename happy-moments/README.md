@@ -4,6 +4,8 @@
 
 ## 2018
 
+- 02/14/2018: Got my new glasses! 👓
+- 02/13/2018: Wrote a letter to a friend from high school 
 - 02/11/2018: Friends came to see the new house! I made them a tasty lunch. 
 - 02/10/2018: So many birds in the yard this morning! Hummingbird, black-capped chickadee, robin, spotted towhee, Steller's jay, Oregon junco, varied thrush, and possibly a type of goldfinch, but I haven't gotten a good enough look. 
 - 02/09/2018: Made delicious mushroom queso flameado from my queso cookbook 
