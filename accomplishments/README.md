@@ -4,6 +4,7 @@
 
 ## February 2018
 
+- 02/19/18: Real progress on Trey Hunner's [regex tutorial](http://pycon2017.regex.training/index.html)
 - 02/14/18: Made it through the first day of client feedback; connected the weather skill to Slack 
 - 02/13/18: Wrote an [opsdroid weather skill](https://opsdroid.readthedocs.io/en/stable/tutorials/create-weather-skill/) from the tutorial! 
 - 02/12/18: Sent off the draft for the second opensource.com article; debugged a really weird thing 
