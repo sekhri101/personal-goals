@@ -4,6 +4,7 @@
 
 | Date  | Bird | Location | Temperature | Weather |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 02/17/2018 | [Red-shafted Northern Flicker](https://www.allaboutbirds.org/guide/Northern_Flicker/overview) | Backyard fence | low 50s | ☁️ | 
 | 02/10/2018 | [Red-breasted Nuthatch](https://www.allaboutbirds.org/guide/Red-breasted_Nuthatch/id) | Backyard bath | 40s | ⛅️ |
 | 02/01/2018 | [Black-Capped Chickadee](https://www.allaboutbirds.org/guide/Black-capped_Chickadee/id) | Backyard feeder | 44 | ☁️ |
 | 01/26/2018 | [Oregon Junco](https://oregonencyclopedia.org/articles/oregon_junco/) | backyard | 40 | ☁️ |
@@ -35,6 +36,7 @@
 - American Robin 
 - Anna's Hummingbird 
 - Black-capped Chickadee
+- Northern Flicker 
 - Oregon Junco
 - Red-breasted Nuthatch 
 - Spotted Towhee
