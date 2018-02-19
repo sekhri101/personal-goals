@@ -4,6 +4,9 @@
 
 ## 2018
 
+- 02/18/2018: Oregon Truffle Festival with friends 
+- 02/17/2018: Zwickelmania with friends; pizza dinner with other friends 
+- 02/16/2018: Introduced Donald to American Vandal 
 - 02/14/2018: Got my new glasses! 👓
 - 02/13/2018: Wrote a letter to a friend from high school 
 - 02/11/2018: Friends came to see the new house! I made them a tasty lunch. 
