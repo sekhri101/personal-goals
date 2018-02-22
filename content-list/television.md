@@ -5,6 +5,7 @@
 ## Watched in 2018 
 _at least one episode_ 
 
+- American Vandal 
 - Black Mirror 
 - Brooklyn Nine-Nine 
 - E.R. (pilot)
@@ -13,6 +14,7 @@ _at least one episode_
 - How I Met Your Mother (pilot) 
 - The Marvelous Mrs. Maisel
 - The Office  
+- Parks and Rec 
 - Star Trek: The Next Generation
 - Stranger Things
 - This Is Us 
