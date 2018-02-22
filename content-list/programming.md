@@ -81,6 +81,7 @@ Links for when you've completed some tutorials and want a more docs-y, less tuto
 - [Django REST Framework Tutorial](http://www.django-rest-framework.org/tutorial/1-serialization/)
 - [Official Django Tutorial](https://docs.djangoproject.com/en/stable/intro/tutorial01/) 
 - [Treehouse - Learn Django track](https://teamtreehouse.com/tracks/learn-django) - Treehouse; requires :moneybag:
+- [Wagtail Tutorials: Build Blog Stp by Step](https://blog.michaelyin.info/2017/06/26/wagtail-tutorials/) - Michael Yin
 
 ### Other Python and Django Resources
 
