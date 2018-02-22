@@ -2,6 +2,7 @@
 
 # Movies I watched in 2018 
  
+- 💖 [Black Panther](http://www.imdb.com/title/tt1825683/) 
 - 💖 [Star Wars Episode VIII: The Last Jedi](https://www.rottentomatoes.com/m/star_wars_the_last_jedi/)
 - ❤️ [Star Wars Episode VII: The Force Awakens](https://www.rottentomatoes.com/m/star_wars_episode_vii_the_force_awakens)
 
