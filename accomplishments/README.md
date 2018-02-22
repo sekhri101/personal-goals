@@ -4,6 +4,7 @@
 
 ## February 2018
 
+- 02/21/18: Published my first essay for the Pastry Box Project: [Cultivating Self-Worth](https://the-pastry-box-project.net/lacey-williams-henschel/2018-february-21) 
 - 02/19/18: Real progress on Trey Hunner's [regex tutorial](http://pycon2017.regex.training/index.html)
 - 02/15/18: Worked with a personal trainer 
 - 02/14/18: Made it through the first day of client feedback; connected the weather skill to Slack 
