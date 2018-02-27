@@ -4,6 +4,7 @@
 
 | Date  | Bird | Location | Temperature | Weather |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 02/27/2018 | [Eurasian Collared Dove](https://www.allaboutbirds.org/guide/Eurasian_Collared-Dove/id) | backyard | 36 | ☁️ |
 | 02/24/2018| [Black-chinned hummingbird](https://www.allaboutbirds.org/guide/Black-chinned_Hummingbird/id) | Backyard feeder | low 40s | ☁️ |
 | 02/17/2018 | [Red-shafted Northern Flicker](https://www.allaboutbirds.org/guide/Northern_Flicker/overview) | Backyard fence | low 50s | ☁️ | 
 | 02/10/2018 | [Red-breasted Nuthatch](https://www.allaboutbirds.org/guide/Red-breasted_Nuthatch/id) | Backyard bath | 40s | ⛅️ |
@@ -26,6 +27,7 @@
 
 - American Robin
 - Anna's Hummingbird
+- Eurasian Collared Dove (just not identified as such) 
 - Oregon Junco 
 - Spotted Towhee 
 - Steller's Jay 
@@ -38,6 +40,7 @@
 - Anna's Hummingbird 
 - Black-capped Chickadee
 - Black-chinned Hummingbird
+- Eurasian Collared Dove 
 - Northern Flicker 
 - Oregon Junco
 - Red-breasted Nuthatch 
