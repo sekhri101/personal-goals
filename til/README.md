@@ -4,6 +4,9 @@
 
 ## 2018
 
+- 02/26/18: Kibana basics 
+- 02/15/18: The first steps to debugging an LTI issue in Canvas 
+- 02/14/18: How to make an [opsdroid](https://opsdroid.readthedocs.io/en/stable/) skill and connect it to Slack 
 - 02/08/18: How to [merge from the command line](https://www.git-tower.com/learn/git/faq/git-merge-branch)
 - 02/07/18: How to [add custom permissions to a DSF detail_route](https://stackoverflow.com/a/29356615) that differ from the permissions in the rest of the viewset
 - 01/30/18: How to enable [logging in Django](https://lincolnloop.com/blog/django-logging-right-way/)
