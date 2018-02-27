@@ -4,6 +4,11 @@
 
 ## 2018
 
+- 02/25/2018: Almost finished painting the kitchen; started our seeds 
+- 02/24/2018: Went to the gym and did my trainer's program! 
+- 02/23/2018: Took S to see Alice (in Wonderland) performed by the Oregon Ballet Theater 
+- 02/21/2018: Really great, meaningful feedback on my Pastry Box Project essay 
+- 02/19/2018: Started learning to ride two-point 
 - 02/18/2018: Oregon Truffle Festival with friends 
 - 02/17/2018: Zwickelmania with friends; pizza dinner with other friends 
 - 02/16/2018: Introduced Donald to American Vandal 
