@@ -4,6 +4,7 @@
 
 ## 2018
 
+- 02/27/2018: Finally identified the bird who hoots in the morning as the same dove I hadn't been able to get close enough to see before: a Eurasian collared dove
 - 02/25/2018: Almost finished painting the kitchen; started our seeds 
 - 02/24/2018: Went to the gym and did my trainer's program! 
 - 02/23/2018: Took S to see Alice (in Wonderland) performed by the Oregon Ballet Theater 
