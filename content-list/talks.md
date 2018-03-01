@@ -73,6 +73,7 @@
 # About speaking
 
 - [On Collecting No's](http://glasnt.com/blog/2017/04/11/on-collecting-nos.html) (article) - Katie McLaughlin, on rejection 
+- [The Professional Bio Template That Makes Everyone Sound Accomplished](https://www.forbes.com/sites/dailymuse/2017/01/26/the-professional-bio-template-that-makes-everyone-sound-accomplished/#618da4bf19d1) - The Muse, for when you need a conference bio. 
 - [SciPy 2017 Reviewer Guidelines](https://scipy2017.scipy.org/ehome/220975/532468/) (article) - specifically the section on bias 
 - [Speaker’s Checklist: Before and After Your Talk](http://csswizardry.com/2016/06/speakers-checklist-before-and-after-your-talk/) (article) - Harry Roberts
 - [Your First Conference Proposal!](https://www.youtube.com/watch?v=OAQAXVU1jIo) (video) - Lacey Williams Henschel 
