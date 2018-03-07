@@ -5,19 +5,32 @@
 ## Watched in 2018 
 _at least one episode_ 
 
+- American Ninja Warrior 
 - American Vandal 
 - Black Mirror 
+- Black-ish 
+- Broad City 
 - Brooklyn Nine-Nine 
+- Documenatary Now 
 - E.R. (pilot)
 - Fresh Off the Boat
+- Good Girls 
 - The Good Place 
+- Grown-ish 
 - How I Met Your Mother (pilot) 
+- The Magicians 
 - The Marvelous Mrs. Maisel
 - The Office  
 - Parks and Rec 
+- Planet Earth 
+- Queer Eye 
 - Star Trek: The Next Generation
 - Stranger Things
-- This Is Us 
+- Suits 
+- This Is Us
+- Top Chef 
+- Ugly Delicious 
+- The Voice 
 - W1A
 
 ## Lacey's TV Ratings 
