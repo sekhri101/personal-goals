@@ -4,6 +4,10 @@
 
 ## 2018
 
+- 03/06/2018: I can tell I'm getting better at two-point riding 
+- 03/05/2018: Saw a free advanced screening of _A Wrinkle In Time_ 
+- 03/03/2018: Saw _Annihilation_ and it was so good!  
+- 03/01/2018: My submission to DjangoCon Europe was accepted! 
 - 02/27/2018: Finally identified the bird who hoots in the morning as the same dove I hadn't been able to get close enough to see before: a Eurasian collared dove
 - 02/25/2018: Almost finished painting the kitchen; started our seeds 
 - 02/24/2018: Went to the gym and did my trainer's program! 
