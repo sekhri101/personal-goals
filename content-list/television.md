@@ -9,6 +9,7 @@ _at least one episode_
 - American Vandal 
 - Black Mirror 
 - Black-ish 
+- Bob Ross 
 - Broad City 
 - Brooklyn Nine-Nine 
 - Documenatary Now 
