@@ -4,6 +4,9 @@
 
 ## 2018
 
+- 03/11/2018: Saw Shape of Water with Donald 
+- 03/10/2018: Tacos and beer with girlfriends; bought a rose gold sequined dress for no reason; crushed it at the gym 
+- 03/08/2018: First DjangoCon US organizers meeting! 
 - 03/06/2018: I can tell I'm getting better at two-point riding 
 - 03/05/2018: Saw a free advanced screening of _A Wrinkle In Time_ 
 - 03/03/2018: Saw _Annihilation_ and it was so good!  
