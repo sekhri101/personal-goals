@@ -60,4 +60,5 @@ I think our Juncos had some babies! We have some lighter grey, slightly smaller 
 - Oregon Junco 
 - Spotted Towhee 
 - Steller's Jay
+- Varied Thrush
 - Western Scrub-Jay
