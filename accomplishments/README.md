@@ -2,6 +2,12 @@
 
 # 2018 Accomplishments
 
+## March 2018 
+
+- 03/14/18: Found a bug in the work website and fixed it 
+- 03/12/18: Figured out how to use [Jekyll collections](https://jekyllrb.com/docs/collections/)
+- 03/03/18: Successfully sprouted broccoli seeds 
+
 ## February 2018
 
 - 02/28/18: Published second Python article with Jeff for opensource.com: [Why Python devs should use Pipenv](https://opensource.com/article/18/2/why-python-devs-should-use-pipenv) 
