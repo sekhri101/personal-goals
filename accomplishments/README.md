@@ -4,6 +4,7 @@
 
 ## March 2018 
 
+- 03/15/18: Got the work website upgraded to Wagtail 1.13. Leg press 160 pounds. 
 - 03/14/18: Found a bug in the work website and fixed it 
 - 03/12/18: Figured out how to use [Jekyll collections](https://jekyllrb.com/docs/collections/)
 - 03/03/18: Successfully sprouted broccoli seeds 
