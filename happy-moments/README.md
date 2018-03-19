@@ -4,6 +4,7 @@
 
 ## 2018
 
+- 03/17/2018: Painted my office! 
 - 03/16/2018: Fixed a Wagtail bug that earlier this week I didn't understand 
 - 03/12/2018: First bareback riding lesson went really well. 
 - 03/11/2018: Saw _The Shape of Water_ with Donald 
