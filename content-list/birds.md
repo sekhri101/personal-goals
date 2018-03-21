@@ -54,10 +54,12 @@ I think our Juncos had some babies! We have some lighter grey, slightly smaller 
 ## March 
 
 - American Robin. They are all over the place this month. 
-- Anna's Hummingbird 
+- Anna's Hummingbird
+- Black-capped Chickadee
 - Downy Woodpecker 
 - Eurasian Collared Dove 
 - Oregon Junco 
+- Red-shafted Northern Flicker
 - Spotted Towhee 
 - Steller's Jay
 - Varied Thrush
