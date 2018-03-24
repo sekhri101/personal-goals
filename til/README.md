@@ -4,6 +4,8 @@
 
 ## 2018
 
+- 03/23/18: So much about files in Python/Django. How to cleanly [output a CSV file from a Django view](https://www.endpoint.com/blog/2012/02/22/dowloading-csv-file-with-from-django), how to [zip multiple csv files into one HTTP response](https://stackoverflow.com/questions/25064347/sending-multiple-csv-files-to-zip-without-storing-to-disk-in-python?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa).
+- 03/22/18: How to deploy to staging on Kubernetes. [Cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 - 02/26/18: Kibana basics 
 - 02/15/18: The first steps to debugging an LTI issue in Canvas 
 - 02/14/18: How to make an [opsdroid](https://opsdroid.readthedocs.io/en/stable/) skill and connect it to Slack 
