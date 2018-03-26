@@ -4,6 +4,7 @@
 
 ## 2018
 
+- 03/25/18: We had dahlias in our front garden! 
 - 03/23/18: So much about files in Python/Django. How to cleanly [output a CSV file from a Django view](https://www.endpoint.com/blog/2012/02/22/dowloading-csv-file-with-from-django), how to [zip multiple csv files into one HTTP response](https://stackoverflow.com/questions/25064347/sending-multiple-csv-files-to-zip-without-storing-to-disk-in-python?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa).
 - 03/22/18: How to deploy to staging on Kubernetes. [Cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 - 02/26/18: Kibana basics 
@@ -105,12 +106,12 @@ That flowcharting is an excellent way to begin the refactoring process. Combinin
 - How to write a custom manage.py command
 - How to use flake8 
 - How to use cookiecutter 
+- How to make a Slackbot
+- How to handle yaml files and Jekyll
 
 # Stuff I want to learn 
 
-- How to make a Slackbot 
 - How to add photos to a Twitter bot 
 - How to add a CI tool to GitHub 
 - How to add a confirmation email to a Google form 
-- How to handle yaml files and Jekyll
 
