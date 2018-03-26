@@ -4,6 +4,8 @@
 
 ## 2018
 
+- 03/25/2018: Planted dahlias; filled first raised bed with soil; started seeds in paper towels
+- 03/24/2018: Anniversary dinner at Ava Gene's 
 - 03/17/2018: Painted my office! 
 - 03/16/2018: Fixed a Wagtail bug that earlier this week I didn't understand 
 - 03/12/2018: First bareback riding lesson went really well. 
