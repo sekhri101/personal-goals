@@ -4,6 +4,9 @@
 
 ## March 2018 
 
+- 03/25/18: More weeding, plus discovered that the dead "marigolds" were actually dahlias and so composted the dead stems but replanted the tubers. 
+- 03/24/18: Weeded the garden
+- 03/23/18: Made Django output a CSV file via a view AND 3 CSV files in a zip file 
 - 03/15/18: Got the work website upgraded to Wagtail 1.13. Leg press 160 pounds. 
 - 03/14/18: Found a bug in the work website and fixed it 
 - 03/12/18: Figured out how to use [Jekyll collections](https://jekyllrb.com/docs/collections/)
