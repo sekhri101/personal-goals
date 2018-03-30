@@ -4,6 +4,8 @@
 
 ## March 2018 
 
+- 03/30/18: Blogged: [On Journaling: Writing Letters](https://www.laceyhenschel.com/blog/2018/3/30/on-journaling-writing-letters)
+- 03/29/18: Published article with Jeff for opensource.com: [Python ChatOps libraries: Opsdroid and Errbot](https://opensource.com/article/18/3/python-chatops-libraries-opsdroid-and-errbot)
 - 03/25/18: More weeding, plus discovered that the dead "marigolds" were actually dahlias and so composted the dead stems but replanted the tubers. 
 - 03/24/18: Weeded the garden
 - 03/23/18: Made Django output a CSV file via a view AND 3 CSV files in a zip file 
