@@ -4,6 +4,7 @@
 
 ## 2018
 
+- 03/29/2018: Dinner with D's colleagues; finally got that file upload thing working. 
 - 03/25/2018: Planted dahlias; filled first raised bed with soil; started seeds in paper towels
 - 03/24/2018: Anniversary dinner at Ava Gene's 
 - 03/17/2018: Painted my office! 
