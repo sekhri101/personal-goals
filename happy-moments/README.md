@@ -4,6 +4,11 @@
 
 ## 2018
 
+- 04/03/2018: Made homemade tomato soup with croutons and caramelized onion grilled cheese
+- 04/02/2018: Nice riding lesson where we played with the ball 
+- 04/01/2018: Saw Isle of Dogs and ate at P.F. Chang's after looking at sofas 
+- 03/31/2018: Dinner at Josh's for Seder; party at Elizabeth's with fancy dress; nice outing with S
+- 03/30/2018: Saw Ready Player One and had that horrible queso and those terrible margaritas at Ixtapa 
 - 03/29/2018: Dinner with D's colleagues; finally got that file upload thing working. 
 - 03/25/2018: Planted dahlias; filled first raised bed with soil; started seeds in paper towels
 - 03/24/2018: Anniversary dinner at Ava Gene's 
