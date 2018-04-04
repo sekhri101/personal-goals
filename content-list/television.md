@@ -12,6 +12,7 @@ _at least one episode_
 - Bob Ross 
 - Broad City 
 - Brooklyn Nine-Nine 
+- Counterpart
 - Documenatary Now 
 - E.R. (pilot)
 - Fresh Off the Boat
@@ -19,6 +20,7 @@ _at least one episode_
 - The Good Place 
 - Grown-ish 
 - How I Met Your Mother (pilot) 
+- Love Your Garden 
 - The Magicians 
 - The Marvelous Mrs. Maisel
 - The Office  
@@ -30,6 +32,7 @@ _at least one episode_
 - Suits 
 - This Is Us
 - Top Chef 
+- Trailer Park Boys 
 - Ugly Delicious 
 - The Voice 
 - W1A
