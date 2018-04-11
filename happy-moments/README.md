@@ -4,6 +4,11 @@
 
 ## 2018
 
+- 04/11/2018: Great talk with Mom 
+- 04/09/2018: Started watching _Blue Panet II_ with D and it's beautiful 
+- 04/08/2018: Visited the Seattle Aquarium with D 🐠
+- 04/07/2018: Visited Seattle Market; dinner with J and D at Cafe Munir 🍷
+- 04/06/2018: First product launch at REVSYS! 
 - 04/03/2018: Made homemade tomato soup with croutons and caramelized onion grilled cheese
 - 04/02/2018: Nice riding lesson where we played with the ball 
 - 04/01/2018: Saw Isle of Dogs and ate at P.F. Chang's after looking at sofas 
