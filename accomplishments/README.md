@@ -5,6 +5,7 @@
 ## April 2018
 
 - 04/11/18: Submitted 3 talks/tutorials to DjangoCon US 
+- 04/10/18: Major change to work website seems to have gone smoothly. 
 - 04/06/18: First REVSYS product launch and it went okay! Also submitted our OpenSource.com article _early_ 
 - 04/04/18: Called around to look for a new provider for my mental health, which was a hard thing to do 
 
