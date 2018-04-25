@@ -94,6 +94,7 @@ Links for when you've completed some tutorials and want a more docs-y, less tuto
 - [Classy Class-Based Views](http://ccbv.co.uk/)
 - [Classy Django Forms](http://cdf.9vo.lt/)
 - [Classy Django REST Framework](http://www.cdrf.co/)
+- [Coding style (Django docs)](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
 - [Create Parameterized Tests with `pytest`](https://raphael.codes/blog/create-parametrized-tests-with-pytest/) - Raphael Pierzina
 - [Crispy Django Forms](https://prezi.com/mjidlobntpof/crispy-django-forms/?utm_campaign=share&utm_medium=copy) (prezi) - Laura Ambrosetti
 - [Django Apps Checklist](http://djangoappschecklist.com/) - Vinta Software
