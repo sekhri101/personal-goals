@@ -74,6 +74,7 @@ Links for when you've completed some tutorials and want a more docs-y, less tuto
 - [Treehouse - Learn Python track](https://teamtreehouse.com/tracks/learn-python) - Treehouse; requires :moneybag:
 - [Learn Python the Hard Way](http://learnpythonthehardway.org) - Zed Shaw 
 - [Test-Driven Development with Python](http://www.obeythetestinggoat.com/) - Harry Percival
+- [Think Python'](https://interactivepython.org/courselib/static/thinkcspy/index.html) - Brad Miller, David Ranum
 
 ## Django  
 
