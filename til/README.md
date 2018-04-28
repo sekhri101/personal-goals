@@ -4,6 +4,9 @@
 
 ## 2018
 
+- 04/26/18: What a pytest fixture is 
+- 4/23/18: That you have to actual configure S3 to accept user uploads if you want to be able to access the things your users upload later on 
+- 04/19/18: How to add rollbar-specific logging to a project 
 - 03/25/18: We had dahlias in our front garden! 
 - 03/23/18: So much about files in Python/Django. How to cleanly [output a CSV file from a Django view](https://www.endpoint.com/blog/2012/02/22/dowloading-csv-file-with-from-django), how to [zip multiple csv files into one HTTP response](https://stackoverflow.com/questions/25064347/sending-multiple-csv-files-to-zip-without-storing-to-disk-in-python?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa).
 - 03/22/18: How to deploy to staging on Kubernetes. [Cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
