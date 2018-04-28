@@ -5,7 +5,7 @@
 | Title | Date | 
 | ------------- | ------------- | 
 | [6 Python datetime libraries](https://opensource.com/article/18/4/python-datetime-libraries) | 04/18/18 |
-| [How to Feed the Birds](https://the-pastry-box-project.net/lacey-williams-henschel/2018-april-18) | 04/18/2018 |
+| [How to Feed the Birds](https://the-pastry-box-project.net/lacey-williams-henschel/2018-april-18) | 04/18/18 |
 | [Python Chatops libraries: Opsdroid and Errbot](https://opensource.com/article/18/3/python-chatops-libraries-opsdroid-and-errbot) | 03/29/18 |
 | [Why Python devs should use Pipenv](https://opensource.com/article/18/2/why-python-devs-should-use-pipenv) | 02/28/18 |
 | [Cultivating Self-Worth](https://the-pastry-box-project.net/lacey-williams-henschel/2018-february-21) | 02/21/18 |
