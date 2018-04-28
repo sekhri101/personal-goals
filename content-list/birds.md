@@ -64,3 +64,15 @@ I think our Juncos had some babies! We have some lighter grey, slightly smaller 
 - Steller's Jay
 - Varied Thrush
 - Western Scrub-Jay
+
+## March 
+
+- American Robin
+- Eurasian Collared Dove 
+- Spotted Towhee 
+- Steller's Jay
+- Western Scrub-Jay
+
+The hummingbirds seem to have gone away, and I don't see as much of the little birds now that the suet feeder is out of season. 
+
+
