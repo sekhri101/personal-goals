@@ -2,6 +2,7 @@
 
 # Lists of things
 
+- [Articles and Talks by Me](./bibliography.md)
 - [Birdwatching](./birds.md)
 - [Conference Talks](./talks.md)
 - [Games](./games.md)

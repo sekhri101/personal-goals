@@ -4,7 +4,7 @@ repo for things I want to save. I might pick it up again soon.
 
 ## Table of Contents
 - [Accomplishments](accomplishments/README.md) - Everything I got done from week to week
-- [Content List](content-list/README.md) - Talks and articles I like
+- [Content List](content-list/README.md) - Lists of fun or useful or whatever things 
 - [Happy Moments](happy-moments/README.md) - Happy things that happened
 - [Ideas](ideas/README.md) - Ideas for talks, apps, blog posts
 - [Things I've Learned](til/README.md)
