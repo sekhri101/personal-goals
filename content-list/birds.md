@@ -4,6 +4,7 @@
 
 | Date  | Bird | Location | Temperature | Weather |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 04/30/2018 | [European Starling](https://www.allaboutbirds.org/guide/European_Starling/id) | backyard | 55 | ☁️ |
 | 02/27/2018 | [Eurasian Collared Dove](https://www.allaboutbirds.org/guide/Eurasian_Collared-Dove/id) | backyard | 36 | ☁️ |
 | 02/24/2018| [Black-chinned hummingbird](https://www.allaboutbirds.org/guide/Black-chinned_Hummingbird/id) | Backyard feeder | low 40s | ☁️ |
 | 02/17/2018 | [Red-shafted Northern Flicker](https://www.allaboutbirds.org/guide/Northern_Flicker/overview) | Backyard fence | low 50s | ☁️ | 
@@ -68,7 +69,10 @@ I think our Juncos had some babies! We have some lighter grey, slightly smaller 
 ## April 
 
 - American Robin
+- Black-capped Chickadee 
 - Eurasian Collared Dove 
+- European Starling 
+- Oregon Junco
 - Spotted Towhee 
 - Steller's Jay
 - Western Scrub-Jay
