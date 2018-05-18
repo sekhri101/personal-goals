@@ -4,6 +4,9 @@
 
 ## 2018
 
+- 05/17/18: Approximately how to make a [custom model field](https://docs.djangoproject.com/en/2.0/howto/custom-model-fields/) in Django 
+- 05/15/18: How to hash a username in a Django model but still let someone log in with their unhashed username 
+- 05/09/18: The difference between hashing, salting, and encrypting. What Vault does. What HIPAA compliance _really_ means. 
 - 04/26/18: What a pytest fixture is 
 - 4/23/18: That you have to actual configure S3 to accept user uploads if you want to be able to access the things your users upload later on 
 - 04/19/18: How to add rollbar-specific logging to a project 

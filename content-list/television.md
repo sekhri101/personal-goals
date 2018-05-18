@@ -38,6 +38,7 @@ _at least one episode_
 - The Voice 
 - W1A
 - Westworld 
+- The White Princess 
 
 ## Lacey's TV Ratings 
 

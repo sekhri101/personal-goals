@@ -6,6 +6,14 @@
 
 ## May 2018
 
+- 05/17/2018: Booked travel to San Jose for a camping trip in August AND to Philadelphia next month to speak at a Wagtail conference 
+- 05/15/2018: Had a good workout despite having some con-flu
+- 05/13/2018: PyLadies lunch was really inspiring and fun 
+- 05/12/2018: Several people at PyCon told me they found my Docker articles helpful! Also live-tweeted the PyLadies auction, which was a blast
+- 05/11/2018: REVSYS dinner at PyCon at Salt+ in Cleveland 
+- 05/10/2018: Seeing (almost) all my coworkers at PyCon 
+- 05/06/2018: Brunch at Elizabeth's house; I made biscuits and they were tasty. Went to Michael's comedy show. 
+
 ## April 2018
 
 - 04/27/2018: Was asked to speak at a new conference 

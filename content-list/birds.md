@@ -77,6 +77,14 @@ I think our Juncos had some babies! We have some lighter grey, slightly smaller 
 - Steller's Jay
 - Western Scrub-Jay
 
+## May 
+
+- American Robin
+- Eurasian Collared Dove 
+- European Starling 
+- Steller's Jay
+- Western Scrub-Jay
+
 The hummingbirds seem to have gone away, and I don't see as much of the little birds now that the suet feeder is out of season. 
 
 
