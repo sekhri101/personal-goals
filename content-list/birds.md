@@ -4,6 +4,9 @@
 
 | Date  | Bird | Location | Temperature | Weather |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 05/21/2018 | [House Sparrow](https://en.wikipedia.org/wiki/House_sparrow) | Heidelberg, Germany | 79 | ☀️ |
+| 05/21/2018 | [Carrion Crow](https://en.wikipedia.org/wiki/Carrion_crow) | Heidelberg, Germany | 79 | ☀️ |
+| 05/21/2018 | [Willow Warbler](https://en.wikipedia.org/wiki/Willow_warbler) | Heidelberg, Germany | 79 | ☀️ |
 | 04/30/2018 | [European Starling](https://www.allaboutbirds.org/guide/European_Starling/id) | backyard | 55 | ☁️ |
 | 02/27/2018 | [Eurasian Collared Dove](https://www.allaboutbirds.org/guide/Eurasian_Collared-Dove/id) | backyard | 36 | ☁️ |
 | 02/24/2018| [Black-chinned hummingbird](https://www.allaboutbirds.org/guide/Black-chinned_Hummingbird/id) | Backyard feeder | low 40s | ☁️ |
