@@ -6,6 +6,9 @@
 
 ## May 2018
 
+- 05/21/2018: Philosopher's Walk in Heidelberg, met lots of new people, had a German hot dog 🌭 and then a black pizza 🍕 for dinner with lots of DjangoCon Europe folks
+- 05/20/2018: Had dinner at an Italian place in Heidelberg 🍝🍷 after successfully taking two trains 🚞
+- 05/19/2018: Had Thai lunch with Donald before I boarded my plane ✈🛫
 - 05/17/2018: Booked travel to San Jose for a camping trip in August AND to Philadelphia next month to speak at a Wagtail conference 
 - 05/15/2018: Had a good workout despite having some con-flu
 - 05/13/2018: PyLadies lunch was really inspiring and fun 
