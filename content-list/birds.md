@@ -4,6 +4,7 @@
 
 | Date  | Bird | Location | Temperature | Weather |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 05/22/2018 | [Egyptian Goose](https://en.wikipedia.org/wiki/Egyptian_goose) | Heidelberg, Germany | 79 | ☀️ |
 | 05/21/2018 | [House Sparrow](https://en.wikipedia.org/wiki/House_sparrow) | Heidelberg, Germany | 79 | ☀️ |
 | 05/21/2018 | [Carrion Crow](https://en.wikipedia.org/wiki/Carrion_crow) | Heidelberg, Germany | 79 | ☀️ |
 | 05/21/2018 | [Willow Warbler](https://en.wikipedia.org/wiki/Willow_warbler) | Heidelberg, Germany | 79 | ☀️ |
@@ -83,8 +84,10 @@ I think our Juncos had some babies! We have some lighter grey, slightly smaller 
 ## May 
 
 - American Robin
+- Downy Woodpecker
 - Eurasian Collared Dove 
 - European Starling 
+- Spotted Towhee 
 - Steller's Jay
 - Western Scrub-Jay
 

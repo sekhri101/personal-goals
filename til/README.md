@@ -4,6 +4,7 @@
 
 ## 2018
 
+- 05/31/18: About `docker image prune` 
 - 05/17/18: Approximately how to make a [custom model field](https://docs.djangoproject.com/en/2.0/howto/custom-model-fields/) in Django 
 - 05/15/18: How to hash a username in a Django model but still let someone log in with their unhashed username 
 - 05/09/18: The difference between hashing, salting, and encrypting. What Vault does. What HIPAA compliance _really_ means. 

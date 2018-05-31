@@ -6,6 +6,11 @@
 
 ## May 2018
 
+- 05/30/2018: Had a great session with my trainer. I'm feeling strong! 
+- 05/27/2018: Went to Chris's wedding, which was very sweet
+- 05/25/2018: My talk went really well and I got amazing feedback on it! 
+- 05/23/2018: Really amazing DjangoCon Europe speaker's dinner 
+- 05/22/2018: Saw Heidelberg Castle; great dinner with DjangoCon Europe folks
 - 05/21/2018: Philosopher's Walk in Heidelberg, met lots of new people, had a German hot dog 🌭 and then a black pizza 🍕 for dinner with lots of DjangoCon Europe folks
 - 05/20/2018: Had dinner at an Italian place in Heidelberg 🍝🍷 after successfully taking two trains 🚞
 - 05/19/2018: Had Thai lunch with Donald before I boarded my plane ✈🛫

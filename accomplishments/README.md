@@ -2,6 +2,14 @@
 
 # 2018 Accomplishments
 
+## May 2018 
+
+- 05/30/18: Published the fifth [Python column](https://opensource.com/article/18/5/3-python-command-line-tools) with Jeff in Open Source Way; also only took an hour to make an app with a simple model and a simple serializer and a simple viewset and tests -- six months ago that took me more like a day. 
+- 05/25/18: Spoke about Docker at DjangoCon Europe ([video](https://www.youtube.com/watch?v=v5jfDDg55xs))
+- 05/24/18: Gave a lightning talk about proposing conference talks at DjangoCon Europe 
+- 05/20/18: Took the right trains on the first try in Germany! 
+- 05/16/18: Practiced some self-care by pulling my submissions from a conference because I'm just too tired to travel more this summer. 
+
 ## April 2018
 
 - 04/11/18: Submitted 3 talks/tutorials to DjangoCon US 
