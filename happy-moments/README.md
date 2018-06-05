@@ -4,8 +4,15 @@
 
 ## 2018
 
+## June 2018 
+
+- 06/04/2018: Got to nominate my BBBS Match Support Specialist for an award 
+- 06/03/2018: Had a great picnic outing at the Peninsula Park rose garden with my Little; saw Yo La Tengo in concert! 
+- 06/02/2018: Bought a new sofa!
+
 ## May 2018
 
+- 05/31/2018: Went to Recipe Part Deux with D for a really great dinner 
 - 05/30/2018: Had a great session with my trainer. I'm feeling strong! 
 - 05/27/2018: Went to Chris's wedding, which was very sweet
 - 05/25/2018: My talk went really well and I got amazing feedback on it! 

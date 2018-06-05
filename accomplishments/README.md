@@ -2,6 +2,10 @@
 
 # 2018 Accomplishments
 
+## June 2018 
+
+- 06/04/18: Went to a new appointment
+
 ## May 2018 
 
 - 05/30/18: Published the fifth [Python column](https://opensource.com/article/18/5/3-python-command-line-tools) with Jeff in Open Source Way; also only took an hour to make an app with a simple model and a simple serializer and a simple viewset and tests -- six months ago that took me more like a day. 

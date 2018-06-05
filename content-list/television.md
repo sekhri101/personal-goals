@@ -13,7 +13,7 @@ _at least one episode_
 - Broad City 
 - Brooklyn Nine-Nine 
 - Counterpart
-- Documenatary Now 
+- Documentary Now 
 - E.R. (pilot)
 - Fresh Off the Boat
 - Good Girls 
