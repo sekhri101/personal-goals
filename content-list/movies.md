@@ -12,6 +12,7 @@
 - 🕶 [Look Who's Talking](https://www.imdb.com/title/tt0097778/)
 - ✅ [Ready Player One](https://www.imdb.com/title/tt1677720/)
 - 💖 [The Shape of Water](https://www.imdb.com/title/tt5580390/) 
+- ❤️ [Solo: A Star Wars Story](https://www.imdb.com/title/tt3778644/?ref_=nv_sr_1)
 - 💖 [Star Wars Episode VIII: The Last Jedi](https://www.imdb.com/title/tt2527336/)
 - ❤️ [Star Wars Episode VII: The Force Awakens](https://www.imdb.com/title/tt2488496/)
 - 💖 [A Quiet Place](https://www.imdb.com/title/tt6644200/) 

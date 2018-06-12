@@ -12,6 +12,7 @@ _at least one episode_
 - Bob Ross 
 - Broad City 
 - Brooklyn Nine-Nine 
+- Buffy the Vampire Slayer 
 - Counterpart
 - Documentary Now 
 - E.R. (pilot)
@@ -34,7 +35,8 @@ _at least one episode_
 - This Is Us
 - Top Chef 
 - Trailer Park Boys 
-- Ugly Delicious 
+- Ugly Delicious
+- Victoria  
 - The Voice 
 - W1A
 - Westworld 

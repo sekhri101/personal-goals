@@ -6,6 +6,10 @@
 
 ## June 2018 
 
+- 06/11/2018: Impromptu date night to see Solo 
+- 06/10/2018: Roller skating with my Little 
+- 06/09/2018: Capella's graduation party with amazing tacos 
+- 06.07/2018: Got Baxter a procedure he really needed and it went fine 
 - 06/04/2018: Got to nominate my BBBS Match Support Specialist for an award 
 - 06/03/2018: Had a great picnic outing at the Peninsula Park rose garden with my Little; saw Yo La Tengo in concert! 
 - 06/02/2018: Bought a new sofa!
