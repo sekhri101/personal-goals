@@ -117,6 +117,8 @@ Links for when you've completed some tutorials and want a more docs-y, less tuto
 
 - [Awesome Wagtail](https://github.com/springload/awesome-wagtail)
 - [Wagtail: 2 Steps for Adding Pages Outside the CMS](https://www.caktusgroup.com/blog/2016/02/15/wagtail-2-steps-adding-pages-outside-cms/) - Erin Mullaney
+- [Wagtail Bakery](https://github.com/wagtail/bakerydemo) - Wagtail repo with demo content for getting to know Wagtail 
+  - Play with this in browser from [Divio's Wagtail Bakery](https://divio.com/wagtail). 
 
 # Kids 
 Resources for children learning to code 
