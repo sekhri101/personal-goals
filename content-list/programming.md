@@ -79,10 +79,8 @@ Links for when you've completed some tutorials and want a more docs-y, less tuto
 ## Django  
 
 - [Django Girls Tutorial](http://tutorial.djangogirls.org/en/)
-- [Django REST Framework Tutorial](http://www.django-rest-framework.org/tutorial/1-serialization/)
 - [Official Django Tutorial](https://docs.djangoproject.com/en/stable/intro/tutorial01/) 
 - [Treehouse - Learn Django track](https://teamtreehouse.com/tracks/learn-django) - Treehouse; requires :moneybag:
-- [Wagtail Tutorials: Build Blog Stp by Step](https://blog.michaelyin.info/2017/06/26/wagtail-tutorials/) - Michael Yin
 
 ### Other Python and Django Resources
 
@@ -94,7 +92,6 @@ Links for when you've completed some tutorials and want a more docs-y, less tuto
 - [Building for Flexibility Using Finite State Machines in Django](https://medium.com/@distillerytech/building-for-flexibility-using-finite-state-machines-in-django-2e36ddbd7708) - Dmitry Stepanenko
 - [Classy Class-Based Views](http://ccbv.co.uk/)
 - [Classy Django Forms](http://cdf.9vo.lt/)
-- [Classy Django REST Framework](http://www.cdrf.co/)
 - [Coding style (Django docs)](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
 - [Create Parameterized Tests with `pytest`](https://raphael.codes/blog/create-parametrized-tests-with-pytest/) - Raphael Pierzina
 - [Crispy Django Forms](https://prezi.com/mjidlobntpof/crispy-django-forms/?utm_campaign=share&utm_medium=copy) (prezi) - Laura Ambrosetti
@@ -113,12 +110,19 @@ Links for when you've completed some tutorials and want a more docs-y, less tuto
 - [Two Scoops of Django 1.11: Best Practices for the Django Web Framework](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11) -= Danny Roy Greenfeld and Audrey Roy Greenfeld; book :moneybag:
 - [Workflows (States) in Django](https://gist.github.com/Nagyman/9502133) - Craig Nagy
 
+### Django REST Framework 
+
+- [Classy Django REST Framework](http://www.cdrf.co/)
+- [Django REST Framework Tutorial](http://www.django-rest-framework.org/tutorial/1-serialization/)
+- [How to Implement Token Authentication with Django REST Framework](https://chrisbartos.com/articles/how-to-implement-token-authentication-with-django-rest-framework/) - Chris Bartos 
+
 ### Wagtail 
 
 - [Awesome Wagtail](https://github.com/springload/awesome-wagtail)
 - [Wagtail: 2 Steps for Adding Pages Outside the CMS](https://www.caktusgroup.com/blog/2016/02/15/wagtail-2-steps-adding-pages-outside-cms/) - Erin Mullaney
 - [Wagtail Bakery](https://github.com/wagtail/bakerydemo) - Wagtail repo with demo content for getting to know Wagtail 
   - Play with this in browser from [Divio's Wagtail Bakery](https://divio.com/wagtail). 
+- [Wagtail Tutorials: Build Blog Stp by Step](https://blog.michaelyin.info/2017/06/26/wagtail-tutorials/) - Michael Yin
 
 # Kids 
 Resources for children learning to code 
