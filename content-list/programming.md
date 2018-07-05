@@ -112,6 +112,7 @@ Links for when you've completed some tutorials and want a more docs-y, less tuto
 
 ### Django REST Framework 
 
+- [Bulk Create with Django REST Framework](http://aalvarez.me/blog/posts/bulk-create-with-django-rest-framework.html) - Andrés Álvarez
 - [Classy Django REST Framework](http://www.cdrf.co/)
 - [Django REST Framework Tutorial](http://www.django-rest-framework.org/tutorial/1-serialization/)
 - [How to Implement Token Authentication with Django REST Framework](https://chrisbartos.com/articles/how-to-implement-token-authentication-with-django-rest-framework/) - Chris Bartos 
