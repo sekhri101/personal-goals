@@ -102,6 +102,7 @@ Links for when you've completed some tutorials and want a more docs-y, less tuto
 - [How to Add Custom Action Buttons to Django Admin](https://medium.com/@hakibenita/how-to-add-custom-action-buttons-to-django-admin-8d266f5b0d41) - Haki Benita 
 - [How to turn Django Admin into a lightweight dashboard](https://medium.com/@hakibenita/how-to-turn-django-admin-into-a-lightweight-dashboard-a0e0bbf609ad) - Haki Benita
 - [Multitenancy: Juggling Customer Data in Django](https://www.vinta.com.br/blog/2017/multitenancy-juggling-customer-data-django/) - Filipe Ximenes
+- [Pretty Formatting JSON in the Django Admin](https://www.pydanny.com/pretty-formatting-json-django-admin.html) - Danny Roy Greenfeld 
 - [Regular Expressions Tutorial](http://pycon2017.regex.training/index.html) ([video](https://www.youtube.com/watch?v=0sOfhhduqks)) - Trey Hunner 
 - [Requests: Quickstart](http://docs.python-requests.org/en/master/user/quickstart/)
 - [Soft Deletion in Django](https://medium.com/@adriennedomingus/soft-deletion-in-django-e4882581c340) - Adrienne Domingus
