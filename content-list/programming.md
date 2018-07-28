@@ -101,6 +101,7 @@ Links for when you've completed some tutorials and want a more docs-y, less tuto
 - [Exceptional Logging of Exceptions in Python](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/) - Aaron Maxwell 
 - [How to Add Custom Action Buttons to Django Admin](https://medium.com/@hakibenita/how-to-add-custom-action-buttons-to-django-admin-8d266f5b0d41) - Haki Benita 
 - [How to turn Django Admin into a lightweight dashboard](https://medium.com/@hakibenita/how-to-turn-django-admin-into-a-lightweight-dashboard-a0e0bbf609ad) - Haki Benita
+- [The missing django-allauth tutorial](http://www.sarahhagstrom.com/2013/09/the-missing-django-allauth-tutorial/) - Sarah Hagstrom 
 - [Multitenancy: Juggling Customer Data in Django](https://www.vinta.com.br/blog/2017/multitenancy-juggling-customer-data-django/) - Filipe Ximenes
 - [Pretty Formatting JSON in the Django Admin](https://www.pydanny.com/pretty-formatting-json-django-admin.html) - Danny Roy Greenfeld 
 - [Regular Expressions Tutorial](http://pycon2017.regex.training/index.html) ([video](https://www.youtube.com/watch?v=0sOfhhduqks)) - Trey Hunner 
@@ -124,6 +125,8 @@ Links for when you've completed some tutorials and want a more docs-y, less tuto
 - [Wagtail: 2 Steps for Adding Pages Outside the CMS](https://www.caktusgroup.com/blog/2016/02/15/wagtail-2-steps-adding-pages-outside-cms/) - Erin Mullaney
 - [Wagtail Bakery](https://github.com/wagtail/bakerydemo) - Wagtail repo with demo content for getting to know Wagtail 
   - Play with this in browser from [Divio's Wagtail Bakery](https://divio.com/wagtail). 
+- [`wagtail-forms-example`](https://github.com/gasman/wagtail-form-example) - Matt Westcott. Great example repo of integrating Django models and Django forms with Wagtail Page models. 
+- Wagtail testing example: [`rapidpro-community-portal`](https://github.com/rapidpro/rapidpro-community-portal/blob/develop/portal_pages/tests/test_user_forms.py#L26) - Rapidpro/ Erin Mullaney. Example of how to relate parent and child pages for the purposes of testing. 
 - [Wagtail Tutorials: Build Blog Stp by Step](https://blog.michaelyin.info/2017/06/26/wagtail-tutorials/) - Michael Yin
 
 # Kids 
