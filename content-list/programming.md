@@ -87,6 +87,7 @@ Links for when you've completed some tutorials and want a more docs-y, less tuto
 Links for when you've completed some tutorials and want a more docs-y, less tutorial-y experience. 
 
 - [5 Ways to Make the Django Admin Safer](https://hackernoon.com/5-ways-to-make-django-admin-safer-eb7753698ac8) - Haki Benita
+- [Adding forms dynamically to a Django formset](https://medium.com/@taranjeet/adding-forms-dynamically-to-a-django-formset-375f1090c2b0) - Taranjeet Singh
 - [Awesome Django](http://awesome-django.com/)
 - [Awesome Python](https://awesome-python.com/)
 - [Building for Flexibility Using Finite State Machines in Django](https://medium.com/@distillerytech/building-for-flexibility-using-finite-state-machines-in-django-2e36ddbd7708) - Dmitry Stepanenko
