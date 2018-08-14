@@ -96,6 +96,7 @@ Links for when you've completed some tutorials and want a more docs-y, less tuto
 - [Create Parameterized Tests with `pytest`](https://raphael.codes/blog/create-parametrized-tests-with-pytest/) - Raphael Pierzina
 - [Crispy Django Forms](https://prezi.com/mjidlobntpof/crispy-django-forms/?utm_campaign=share&utm_medium=copy) (prezi) - Laura Ambrosetti
 - [Django Apps Checklist](http://djangoappschecklist.com/) - Vinta Software
+- [Django Inline Formsets Example: mybook](https://medium.com/@adandan01/django-inline-formsets-example-mybook-420cc4b6225d) - Daniel Chen
 - [Django Logging, the Right Way](https://lincolnloop.com/blog/django-logging-right-way/) - Peter Baumgartner
 - Django Project Optimization [Part 1](http://dizballanze.com/en/django-project-optimization-part-1/), [part 2](http://dizballanze.com/en/django-project-optimization-part-2/), and [part 3](http://dizballanze.com/django-project-optimization-part-3/) - Yuri Shikanov
 - [Exceptional Logging of Exceptions in Python](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/) - Aaron Maxwell 
@@ -109,6 +110,7 @@ Links for when you've completed some tutorials and want a more docs-y, less tuto
 - [Soft Deletion in Django](https://medium.com/@adriennedomingus/soft-deletion-in-django-e4882581c340) - Adrienne Domingus
 - [Things You Must Know About Django Admin As Your App Gets Bigger](https://medium.com/@hakibenita/things-you-must-know-about-django-admin-as-your-app-gets-bigger-6be0b0ee9614) - Haki Benita
 - [Time Zones in Pytz & Django](https://tommikaikkonen.github.io/timezones/) - Tommi Kaikkonen 
+- [Tutorial: Implementing Django Formsets](https://whoisnicoleharris.com/2015/01/06/implementing-django-formsets.html#step-3-hook-up-your-view) - Nicole Harris 
 - [Two Scoops of Django 1.11: Best Practices for the Django Web Framework](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11) -= Danny Roy Greenfeld and Audrey Roy Greenfeld; book :moneybag:
 - [Workflows (States) in Django](https://gist.github.com/Nagyman/9502133) - Craig Nagy
 
