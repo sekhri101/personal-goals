@@ -29,7 +29,7 @@
 
 ### Furniture 
 
-- [x] New sofa 
+- [x] ~New sofa~ 
 - [ ] Coffee table 
 - [ ] Chair 
 - [ ] Side table 
@@ -39,10 +39,10 @@
 
 ### Todo
 
-- [x] Paint ceiling
-- [x] Paint walls 
-- [x] Replace outlets and light switches 
-- [x] New fan 
+- [x] ~Paint ceiling~
+- [x] ~Paint walls~ 
+- [x] ~Replace outlets and light switches~ 
+- [x] ~New fan~ 
 - [ ] New second fan 
 - [ ] New curtains 
 - [ ] Remove carpet 
@@ -85,10 +85,10 @@
 
 ### Todo 
 
-- [x] Paint ceiling
-- [x] Paint walls 
-- [x] Paint window frame
-- [x] Replace outlets and light switches 
+- [x] ~Paint ceiling~
+- [x] ~Paint walls~
+- [x] ~Paint window frame~
+- [x] ~Replace outlets and light switches~ 
 - [ ] Replace door/drawer handles 
 - [ ] Replace light fixture 
 - [ ] Replace flooring
@@ -100,8 +100,8 @@
 
 ### Todo 
 
-- [x] Paint ceiling
-- [x] Paint walls 
+- [x] ~Paint ceiling~
+- [x] ~Paint walls~ 
 - [ ] Replace outlets 
 - [ ] Replace light switches 
 - [ ] New light fixtures 
@@ -118,10 +118,10 @@
 
 ### Todo 
 
-- [x] Paint ceiling
-- [x] Paint walls 
-- [x] Paint window frame
-- [x] Replace outlets and light switches 
+- [x] ~Paint ceiling~
+- [x] ~Paint walls~ 
+- [x] ~Paint window frame~
+- [x] ~Replace outlets and light switches~ 
 - [ ] New light fixture 
 - [ ] New curtains 
 - [ ] Closet organization 
@@ -149,7 +149,7 @@
 ### Furniture 
 
 - [ ] New headboard 
-- [x] New mattress  
+- [x] ~New mattress~  
 
 ### Todo
 
